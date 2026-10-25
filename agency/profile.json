@@ -1,0 +1,253 @@
+{
+ "schema": 1,
+ "agency": {
+  "name": "The Insight Café",
+  "tagline": "Your AI research agency",
+  "office_city": "New York",
+  "office_neighbourhood": "Flatiron",
+  "office_tz": "America/New_York",
+  "scene": "newyork",
+  "report_language": "English (US)",
+  "crew": []
+ },
+ "brand": {
+  "name": "Sunday Cookie Co. (demo)",
+  "short": "Sunday Cookie",
+  "website": "https://example.com",
+  "category": "Small-batch cookies and cookie gift boxes",
+  "one_liner": "A made-up Brooklyn cookie shop for The Insight Café demo: small-batch cookies sold from the shop, its own website and Amazon.",
+  "benefit": "Fresh-baked comfort you can give away (or keep)",
+  "signature": "A handwritten flavor card in every box",
+  "price_position": "Premium: $4 a cookie, $18 for a box of 6",
+  "voice": {
+   "tone": "Warm, a little cheeky, never sugary. Short sentences, real details, no baking clichés.",
+   "banned_words": [
+    "guilt-free",
+    "yummy"
+   ],
+   "no_exclamation_marks": false
+  },
+  "look": "Warm daylight, kraft paper boxes, crumbs on a wooden counter, a hand breaking a still-warm cookie, close-ups of texture.",
+  "look_avoid": "Studio-white backgrounds, stock-photo smiles, neon colours, anything that looks mass-produced."
+ },
+ "business": {
+  "model": "Shop in Brooklyn + website (Shopify) + Amazon",
+  "channels": [
+   "Shop",
+   "Website (Shopify)",
+   "Amazon"
+  ],
+  "season_focus": "Holiday cookie boxes (Nov–Dec), with National Cookie Day on Dec 4",
+  "goals": "Win holiday gifting with boxes, without discounting the cookies.",
+  "kpis": [
+   "Boxes sold",
+   "Repeat orders",
+   "Website conversion"
+  ]
+ },
+ "market": {
+  "country": "US",
+  "language": "en-US",
+  "currency": "USD",
+  "bing_mkt": "en-US",
+  "trends_geo": "US",
+  "youtube_region": "US",
+  "calendar": "US"
+ },
+ "audience": {
+  "personas": [
+   {
+    "name": "The gifter",
+    "description": "28–45, sends a box instead of flowers; buys on the website, cares about the packaging and the note."
+   },
+   {
+    "name": "The weekend treat-er",
+    "description": "22–35, walks in on Saturday, films the cookie break for TikTok, tries every new flavor."
+   },
+   {
+    "name": "The office hero",
+    "description": "30–50, orders boxes of 12 for meetings and birthdays; wants it on time and easy to reorder."
+   }
+  ]
+ },
+ "products": [
+  {
+   "key": "",
+   "name": "Brown Butter Chocolate Chip",
+   "price": 4
+  },
+  {
+   "key": "",
+   "name": "Pumpkin Spice Snickerdoodle",
+   "price": 4.5
+  },
+  {
+   "key": "",
+   "name": "Box of 6",
+   "price": 18
+  },
+  {
+   "key": "",
+   "name": "Holiday Box of 12",
+   "price": 34
+  }
+ ],
+ "catalog": {
+  "shopify_domain": ""
+ },
+ "offers": {
+  "rules": "No discounts on cookies. Free shipping on boxes over $40 in December only.",
+  "never": [
+   "No percentage-off codes",
+   "No fake countdowns"
+  ]
+ },
+ "claims_never": [
+  "Healthy, guilt-free or low-calorie",
+  "Allergen-free unless certified",
+  "Best cookies in America"
+ ],
+ "competitors": {
+  "peers": [
+   {
+    "name": "Levain Bakery",
+    "domain": "levainbakery.com",
+    "foreplay_id": ""
+   },
+   {
+    "name": "Milk Bar",
+    "domain": "milkbarstore.com",
+    "foreplay_id": ""
+   }
+  ],
+  "performance": [
+   {
+    "name": "Crumbl",
+    "domain": "crumblcookies.com",
+    "foreplay_id": ""
+   },
+   {
+    "name": "Insomnia Cookies",
+    "domain": "insomniacookies.com",
+    "foreplay_id": ""
+   },
+   {
+    "name": "Tiff's Treats",
+    "domain": "cookiedelivery.com",
+    "foreplay_id": ""
+   }
+  ],
+  "instagram_watch": [],
+  "also_watch": [
+   "Tate's Bake Shop"
+  ]
+ },
+ "content": {
+  "pillars": [
+   "Fresh out of the oven",
+   "Gifting & occasions",
+   "Behind the counter",
+   "Flavor drops"
+  ],
+  "categories": [
+   "Gifting & occasions",
+   "Food & baking",
+   "Celebrity & pop culture",
+   "Internet culture",
+   "Competitor move",
+   "Our brand"
+  ],
+  "platforms": [
+   "TikTok",
+   "Instagram",
+   "YouTube",
+   "News",
+   "Search",
+   "Calendar"
+  ]
+ },
+ "creative": {},
+ "sources": {
+  "news_feeds": {
+   "The Kitchn": "https://www.thekitchn.com/main.rss",
+   "Delish": "https://www.delish.com/rss/all.xml/",
+   "Bon Appétit": "https://www.bonappetit.com/feed/rss",
+   "Taste of Home": "https://www.tasteofhome.com/feed/",
+   "Nation's Restaurant News": "https://www.nrn.com/rss.xml",
+   "Food Dive": "https://www.fooddive.com/feeds/news/"
+  },
+  "news_queries": [
+   "cookie trend",
+   "bakery TikTok trend",
+   "holiday cookie box",
+   "fall dessert trend",
+   "viral cookie recipe"
+  ]
+ },
+ "calendar": {
+  "occasions": [
+   {
+    "date": "2026-10-31",
+    "name": "Halloween",
+    "note": "A spooky flavor of the week, shop only"
+   },
+   {
+    "date": "2026-11-26",
+    "name": "Thanksgiving",
+    "note": "Pie-flavored cookie; content, no sale"
+   },
+   {
+    "date": "2026-12-04",
+    "name": "National Cookie Day",
+    "note": "Our biggest day: a free cookie with every box"
+   },
+   {
+    "date": "2026-12-15",
+    "name": "Last day for holiday shipping",
+    "note": "Order-by date for Holiday Box of 12"
+   }
+  ]
+ },
+ "team": {
+  "lead": {
+   "name": "Méline",
+   "role": "Founder & brand lead",
+   "slack_id": ""
+  },
+  "members": [
+   {
+    "name": "Sam",
+    "slack_id": "",
+    "owns": "Content and social: TikTok, Instagram, creators",
+    "lanes": [
+     "Social media",
+     "TikTok content",
+     "Creators"
+    ]
+   },
+   {
+    "name": "Mai",
+    "slack_id": "",
+    "owns": "The shop, the website and Amazon: boxes, gifting, launches",
+    "lanes": [
+     "Website & Amazon",
+     "Gifting",
+     "In-shop events"
+    ]
+   }
+  ]
+ },
+ "schedule": {
+  "team_tz": "Asia/Ho_Chi_Minh",
+  "team_city": "Ho Chi Minh City",
+  "reports": [
+   "07:00"
+  ]
+ },
+ "delivery": {
+  "brain_repo": "melinenguyen/insight-cafe-demo-brain",
+  "site_repo": "melinenguyen/insight-cafe-demo",
+  "site_url": ""
+ },
+ "standing_brief": "# Standing brief: Sunday Cookie Co. (demo)\n\n> A made-up cookie shop, so The Insight Café has something real-looking to research. The competitors are real; everything about Sunday Cookie is invented.\n\n## What we want\n- Win holiday gifting with boxes (6 and 12), not with discounts.\n- One fresh idea a day that Sam can film or Mai can put in the shop.\n\n## House rules\n- Never discount the cookies. Free shipping on big boxes in December is the only offer.\n- Talk like a friend at the counter: warm, a little cheeky, specific.\n- Every idea needs a reason from the signals, not a hunch.\n"
+}

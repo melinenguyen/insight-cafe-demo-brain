@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+site/
+agency/.env
+agency/.cache/
+# the café's memory IS agency/data/*.json: keep it committed
