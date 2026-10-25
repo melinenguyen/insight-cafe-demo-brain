@@ -202,7 +202,7 @@ class Client:
         if self.key:
             headers["Authorization"] = f"Bearer {self.key}"
         if self.name == "openrouter":
-            headers.update({"HTTP-Referer": "https://github.com/melinenguyen/insight-cafe", "X-Title": "The Insight Café"})
+            headers.update({"HTTP-Referer": "https://github.com/melinenguyen/insight-cafe", "X-Title": "The Insight Cafe"})
         for attempt in range(4):
             try:
                 r = requests.post(url, json=body, headers=headers, timeout=(20, 1200 if self.name == "ollama" else 600))
@@ -212,7 +212,10 @@ class Client:
                 time.sleep(10)
                 continue
             if r.status_code == 200:
-                d = r.json()
+                try:
+                    d = r.json()
+                except ValueError:
+                    raise RuntimeError(f"{self.base} answered, but not with JSON: {r.text[:120]!r}. Check the address.")
                 if self.name == "ollama":
                     return (d.get("message") or {}).get("content", ""), ("length" if d.get("done_reason") == "length"
                                                                          else "stop"), \
@@ -222,7 +225,8 @@ class Client:
                 ch = (d.get("choices") or [{}])[0]
                 return (ch.get("message") or {}).get("content") or "", ch.get("finish_reason") or "", d.get("usage") or {}
             said = r.text[:400]
-            if r.status_code in (401, 403) and "quota" not in said.lower():
+            if (r.status_code in (401, 403) and "quota" not in said.lower()) or \
+                    re.search(r"valid API key|API key not valid|API_KEY_INVALID|invalid Authorization|No auth credentials", said):
                 raise KeyRefused(f"{self.label} refused the key (HTTP {r.status_code}). Check {PROVIDERS[self.name]['key']}.")
             if r.status_code == 429:
                 wait = _retry_after(r)
