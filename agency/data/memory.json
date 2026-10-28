@@ -1,70 +1,62 @@
 {
- "blocked": [
-  {
-   "idea": "Offering 10% off Box of 6 for Halloween party planners",
-   "rule": "Never discount the cookies. Free shipping on big boxes in December only."
-  },
-  {
-   "idea": "Advertising our Brown Butter cookies as low-sugar guilt-free treats",
-   "rule": "Claims we never make: Healthy, guilt-free or low-calorie."
-  }
- ],
+ "blocked": [],
  "brands": {
   "also": [
    {
-    "brand": "Levain Bakery",
+    "brand": "Milk Bar",
     "evidence": [
-     "bi-04990215"
+     "bi-ca0017c9"
     ],
-    "line": "Featured in NYC bakery video tour covering classic sweet shops."
+    "line": "Featured alongside Levain in Manhattan bakery walking tours."
    }
   ],
-  "generated_at": "2026-10-27T00:28:55.264761+00:00",
-  "headline": "Crumbl tests discounting amid store closures while Tate's expands holiday grocery distribution.",
+  "generated_at": "2026-10-28T02:19:38.614648+00:00",
+  "headline": "Levain Bakery expands to Northern California while Crumbl cuts stores and Tate's launches holiday grocery cookies",
   "moves": [
+   {
+    "brand": "Levain Bakery",
+    "evidence": [
+     "bi-3c3751b9"
+    ],
+    "happened": "Levain Bakery is bringing its famous cookies to Northern California for the first time.",
+    "kind": "Retail & channel",
+    "owner": "Mai",
+    "proof": "13h ago",
+    "steal": "Emulate their regional expansion storytelling on social.",
+    "title": "Levain Bakery expands to Northern California",
+    "why_us": "Proof that heavy cookie formats scale across regions without losing cult status."
+   },
    {
     "brand": "Crumbl",
     "evidence": [
-     "bi-8140dfa2",
-     "bi-66ab5a1b"
+     "bi-03809ac6",
+     "bi-cf164000",
+     "bi-8140dfa2"
     ],
-    "happened": "Crumbl launched 99-cent thin cookies and discounted drinks while shutting down 57 underperforming stores nationwide.",
-    "kind": "Promo & pricing",
+    "happened": "Crumbl is closing stores and cutting staff after sales plunged.",
+    "kind": "Retail & channel",
     "owner": "Méline",
-    "proof": "99-cent cookies, 57 store closures reported by Restaurant Business Online.",
-    "steal": "Avoid discounting entirely. Emphasize full-sized, small-batch quality over cheap fast-bake gimmicks.",
-    "title": "Crumbl tests value menu amid 57 store closures",
-    "why_us": "Competitor discounting signals brand fatigue. Sunday Cookie holds price integrity and focuses on premium craft gifting."
+    "proof": "25h ago",
+    "steal": "Avoid aggressive scaling tactics that dilute core quality.",
+    "title": "Crumbl closes stores and cuts staff",
+    "why_us": "Reminds us to protect quality over rapid franchise overexpansion."
    },
    {
     "brand": "Tate's Bake Shop",
     "evidence": [
-     "bi-e4496372"
+     "bi-7dfb8959",
+     "bi-b90250b8"
     ],
-    "happened": "Tate's launched Drizzled Shortbread and Double Chocolate Peppermint cookies for the 2026 holiday grocery lineup.",
+    "happened": "Tate's launched two new cookies and Drizzled Shortbread for its holiday grocery lineup.",
     "kind": "Launch",
     "owner": "Mai",
-    "proof": "2 holiday flavors launched nationwide in grocery stores via Yahoo.",
-    "steal": "Highlight fresh-baked warmth versus shelf-stable grocery boxes for holiday gifting.",
-    "title": "Tate's rolls out holiday shortbread and peppermint nationwide",
-    "why_us": "Packaged brands are claiming holiday counter space early. We need our seasonal fresh-box pre-orders ready."
-   },
-   {
-    "brand": "Levain Bakery",
-    "evidence": [
-     "bi-35067920"
-    ],
-    "happened": "Levain confirmed plans to open its first Bay Area bakery next year at Santana Row.",
-    "kind": "Retail & channel",
-    "owner": "Sam",
-    "proof": "San Francisco Chronicle reported location opening next year.",
-    "steal": "Lean into Brooklyn neighborhood roots and local counter intimacy before competitors expand elsewhere.",
-    "title": "Levain plans first Northern California store in San Jose",
-    "why_us": "NYC cookie heavyweights are nationalizing retail footprints, leaving hyper-local Brooklyn bakery culture open to us."
+    "proof": "37h ago",
+    "steal": "Highlight our own seasonal box lineup early for holiday shoppers.",
+    "title": "Tate's launches new holiday cookies for grocery",
+    "why_us": "Holiday seasonal drops drive early retail and grocery interest."
    }
   ],
   "quiet": [
-   "Milk Bar",
    "Insomnia Cookies",
    "Tiff's Treats"
   ]
@@ -227,94 +219,99 @@
    ],
    "slot": "morning",
    "usd": 0
+  },
+  {
+   "act_today": [
+    "Diwali Artisanal Gift Hampers",
+    "Halloween Bakery Treat Rush"
+   ],
+   "actions": [
+    "Sam: Film small-batch Brooklyn baking content by Thursday.",
+    "Mai: Set up Diwali bakery hamper displays by Friday.",
+    "Méline: Approve the holiday shipping box lineup by Monday."
+   ],
+   "at": "2026-10-28T02:19:38.614648+00:00",
+   "desks": {
+    "brands": "Levain Bakery expands to Northern California while Crumbl cuts stores and Tate's launches holiday grocery cookies",
+    "culture": "Consumers favor artisanal bakery gifting over traditional sweets as Diwali and holiday shopping accelerate across online channels.",
+    "occasions": "Holiday budgets tighten as 71% of shoppers pull back on Halloween spend, pivoting to high-value food moments."
+   },
+   "focuses": [
+    "Diwali shoppers choose gourmet bakery hampers over mithai → Online platforms note a massive surge in artisanal bakery gifts → Position our 12-pack cookie box as a non-traditional Diwali gift.",
+    "Bon Appétit features 43 apple desserts dominating search traffic → Fall comfort dessert searches peak around apple orchard treats → Drop an apple cider caramel cookie flavor this weekend.",
+    "Crumbl closes stores and cuts staff following overexpansion → Crumbl sales drop 70% as mass-scale cookie chains face backlash → Emphasize our small-batch Brooklyn roots and honest ingredients in social content."
+   ],
+   "headline": "Gourmet bakery hampers surge as shoppers reject mass-scale sweets for Diwali.",
+   "label": "Morning report",
+   "numbers": {
+    "act_today": 2,
+    "live_plays": 2,
+    "new_plays": 1,
+    "signals": 137,
+    "this_week": 3
+   },
+   "plays": [
+    {
+     "pic": "Mai",
+     "title": "Diwali Artisanal Gift Hampers"
+    }
+   ],
+   "slot": "morning",
+   "usd": 0
   }
  ],
  "huddle_history": [],
  "library": {
-  "bi-04990215": {
-   "age_h": 112.6,
-   "author": "Levain Bakery",
-   "id": "bi-04990215",
-   "kind": "brand move",
-   "metrics": {
-    "brand": "Levain Bakery"
-   },
-   "platform": "News",
-   "source": "ANTI-CHEF on MSN",
-   "text": "The host walks through Manhattan and samples treats at Levain Bakery, Magnolia Bakery, Russ & Daughters, Eileen's Special Cheesecake, Dough Doughnuts, Milk Bar and Schmackary's. He also compares the ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.4nxjrEp9arkjAFyRahbEOA&pid=News",
-   "title": "Seven NYC bakeries and sweet shops, from Levain Bakery to Milk Bar",
-   "ts": "2026-10-22T07:50:59+00:00",
-   "url": "https://www.msn.com/en-us/food-and-drink/desserts/seven-nyc-bakeries-and-sweet-shops-from-levain-bakery-to-milk-bar/vi-AA2fOQ6O"
-  },
-  "bi-107e3b62": {
-   "age_h": 108.2,
+  "bi-03809ac6": {
+   "age_h": 25.3,
    "author": "Crumbl",
-   "id": "bi-107e3b62",
+   "id": "bi-03809ac6",
    "kind": "brand move",
    "metrics": {
     "brand": "Crumbl"
    },
    "platform": "News",
-   "source": "SFGATE on MSN",
-   "text": "It was once one of the fastest-growing food brands in the country.",
-   "thumb": "http://www.bing.com/th?id=ONUT.zQVWMpJrWO4-WBdl9glYhw&pid=News",
-   "title": "Viral cookie chain Crumbl closes 7 California locations, 57 nationwide",
-   "ts": "2026-10-22T12:17:43+00:00",
-   "url": "https://www.msn.com/en-us/news/other/viral-cookie-chain-crumbl-closes-7-california-locations-57-nationwide/ar-AA2fQNUd"
+   "source": "TheStreet on MSN",
+   "text": "The cookie chain is closing stores and cutting staff as sales plunge 70%.",
+   "thumb": "http://www.bing.com/th?id=ONUT.k5bjVCqrA3vOOXZmEnvdvA&pid=News",
+   "title": "Crumbl CEO says 'it's my fault' after dirty soda with 130 grams of sugar flops",
+   "ts": "2026-10-27T01:03:00+00:00",
+   "url": "https://www.msn.com/en-us/news/money/crumbl-ceo-says-its-my-fault-after-dirty-soda-with-130-grams-of-sugar-flops/ar-AA2gag60"
   },
-  "bi-35067920": {
-   "age_h": 13.4,
+  "bi-3c3751b9": {
+   "age_h": 12.9,
    "author": "Levain Bakery",
-   "id": "bi-35067920",
+   "id": "bi-3c3751b9",
    "kind": "brand move",
    "metrics": {
     "brand": "Levain Bakery"
    },
    "platform": "News",
-   "source": "San Francisco Chronicle on MSN",
-   "text": "New York City's Levain Bakery, known for its oversize chocolate chip cookies, is opening its first Northern California location next year in the South Bay.",
-   "thumb": "http://www.bing.com/th?id=ONUT.zwQ8Gozn5FQWjTyY_ujrNw&pid=News",
-   "title": "America's most famous chocolate chip cookie is coming to the Bay Area at last",
-   "ts": "2026-10-26T11:03:18+00:00",
-   "url": "https://www.msn.com/en-us/news/other/americas-most-famous-chocolate-chip-cookie-is-coming-to-the-bay-area-at-last/ar-AA2fWHag"
+   "source": "KTVU FOX 2 on MSN",
+   "text": "A New York City culinary institution with a cult-like following is bringing its viral cookies and other baked goods to Northern California for the first time.",
+   "thumb": "http://www.bing.com/th?id=ONUT.MMgD9YHmiw0MujkiidU_pQ&pid=News",
+   "title": "New York City's famous Levain Bakery, with cult following, is coming to the Bay Area",
+   "ts": "2026-10-27T13:24:11+00:00",
+   "url": "https://www.msn.com/en-us/news/other/new-york-citys-famous-levain-bakery-with-cult-following-is-coming-to-the-bay-area/ar-AA2gch5E"
   },
-  "bi-4b463d65": {
-   "age_h": 127.5,
-   "author": "Levain Bakery",
-   "id": "bi-4b463d65",
+  "bi-7dfb8959": {
+   "age_h": 37.4,
+   "author": "Tate's Bake Shop",
+   "id": "bi-7dfb8959",
    "kind": "brand move",
    "metrics": {
-    "brand": "Levain Bakery"
+    "brand": "Tate's Bake Shop"
    },
    "platform": "News",
-   "source": "Hoodline",
-   "text": "The news comes from the Silicon Valley Business Journal, which reports that Levain plans to open its first Bay Area location at Santana Row. The New York-founded bakery is set to join roughly 30 ...",
-   "thumb": "https://img.hoodline.com/2026/10/levain-bakery-s-giant-ny-cookies-are-coming-to-san-jose-s-santana-row-1.webp",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Levain Bakery's Giant NY Cookies Are Coming to San Jose's Santana Row",
-   "ts": "2026-10-21T17:00:00+00:00",
-   "url": "https://hoodline.com/2026/10/levain-bakery-s-giant-ny-cookies-are-coming-to-san-jose-s-santana-row/"
-  },
-  "bi-66ab5a1b": {
-   "age_h": 16.4,
-   "author": "Crumbl",
-   "id": "bi-66ab5a1b",
-   "kind": "brand move",
-   "metrics": {
-    "brand": "Crumbl"
-   },
-   "platform": "News",
-   "source": "Restaurant Business Online",
-   "text": "The cookie chain introduced a new value menu last week, including 99-cent thin cookies and discounted Dirty Sodas. But some franchisees say ...",
-   "thumb": "https://cdn.informaconnect.com/platform/files/public/2026-10/background/Crumbl%20Maze%203.JPG?VersionId=szd6tjR1JyuFqfpj3KbKSgUwk48wI7wn",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Can discounts fix what ails Crumbl?",
-   "ts": "2026-10-26T08:07:00+00:00",
-   "url": "https://www.restaurantbusinessonline.com/financing/can-discounts-fix-what-ails-crumbl"
+   "source": "Parade on MSN",
+   "text": "The two new flavors join four returning favorites in Tate's 2026 holiday cookie lineup.",
+   "thumb": "http://www.bing.com/th?id=ONUT.wbJg1gsb1BddJ3BDEncmzw&pid=News",
+   "title": "Tate's Bake Shop Just Launched 2 New Cookies for the Holidays—and They're Rolling Out to Grocery Stores Nationwide",
+   "ts": "2026-10-26T12:54:31+00:00",
+   "url": "https://www.msn.com/en-us/news/other/tates-bake-shop-just-launched-2-new-cookies-for-the-holidays-and-theyre-rolling-out-to-grocery-stores-nationwide/ar-AA2g7n19"
   },
   "bi-8140dfa2": {
-   "age_h": 16.3,
+   "age_h": 42.1,
    "author": "Crumbl",
    "id": "bi-8140dfa2",
    "kind": "brand move",
@@ -325,13 +322,13 @@
    "source": "MassLive on MSN",
    "text": "Fast-growing bakery chain Crumbl Cookies has hit a rough patch that could shrink its footprint across Massachusetts and the nation. The company’s fortunes have changed dramatically since it became a ...",
    "thumb": "",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
    "title": "Crumbl Cookies closes dozens of stores. Are Mass. locations safe?",
    "ts": "2026-10-26T08:12:00+00:00",
    "url": "https://www.msn.com/en-us/news/other/crumbl-cookies-closes-dozens-of-stores-are-mass-locations-safe/ar-AA2g6zeW"
   },
   "bi-b90250b8": {
-   "age_h": 89.9,
+   "age_h": 115.7,
    "author": "Tate's Bake Shop",
    "id": "bi-b90250b8",
    "kind": "brand move",
@@ -342,43 +339,42 @@
    "source": "Green Bay Press-Gazette",
    "text": "Inspired by a top-selling treat from the original Southampton Bake Shop, Drizzled Shortbread leads a festive collection ...",
    "thumb": "https://pix.xpr.media/p/eyJzIjoiZjY0MWI1NWItNzEzZS00ZjVjLTk2N2YtYzBlODY5NTU3NjY1IiwiYyI6IjdmNzZiMzVmLTExM2QtNGUxYi1hMjQ1LTUxN2IwZjhmMmM0NyIsInYiOjF9.LbxpaixfvxJjmaFmagFFs30VHNsrEunz4dH-SbW7ZF8.gif",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
    "title": "Tate’s Bake Shop Unveils New Drizzled Shortbread Cookies and Its Largest Holiday Cookie Lineup Ever",
    "ts": "2026-10-23T06:38:00+00:00",
    "url": "https://www.greenbaypressgazette.com/press-release/story/197049/tates-bake-shop-unveils-new-drizzled-shortbread-cookies-and-its-largest-holiday-cookie-lineup-ever/"
   },
-  "bi-e4496372": {
-   "age_h": 11.6,
-   "author": "Tate's Bake Shop",
-   "id": "bi-e4496372",
+  "bi-ca0017c9": {
+   "age_h": 20.2,
+   "author": "Levain Bakery",
+   "id": "bi-ca0017c9",
    "kind": "brand move",
    "metrics": {
-    "brand": "Tate's Bake Shop"
+    "brand": "Levain Bakery"
+   },
+   "platform": "News",
+   "source": "ANTI-CHEF on MSN",
+   "text": "The host walks through Manhattan to try treats at Levain Bakery, Magnolia Bakery, Russ & Daughters, Eileen's Special Cheesecake, Dough Doughnuts, Milk Bar and Schmackary's. Along the way, he compares ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.4nxjrEp9arkjAFyRahbEOA&pid=News",
+   "title": "Seven NYC bakeries and sweet shops, from Levain Bakery to Milk Bar",
+   "ts": "2026-10-27T06:04:39+00:00",
+   "url": "https://www.msn.com/en-us/news/other/seven-nyc-bakeries-and-sweet-shops-from-levain-bakery-to-milk-bar/vi-AA2fOQ6O"
+  },
+  "bi-cf164000": {
+   "age_h": 10.0,
+   "author": "Crumbl",
+   "id": "bi-cf164000",
+   "kind": "brand move",
+   "metrics": {
+    "brand": "Crumbl"
    },
    "platform": "News",
    "source": "Yahoo",
-   "text": "Tate's Bake Shop has launched two new cookie varieties as part of its 2026 holiday collection: Drizzled Shortbread Cookies and Double Chocolate Peppermint Cookies. The new treats join four returning ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.PVyZOpMaVvIJMyQh0dvgZg&pid=News",
-   "title": "Tate's Bake Shop Just Launched 2 New Cookies for the Holidays—and They're Rolling Out to Grocery Stores Nationwide",
-   "ts": "2026-10-26T12:54:00+00:00",
-   "url": "https://www.yahoo.com/lifestyle/articles/tates-bake-shop-just-launched-195431922.html"
-  },
-  "cal-2594b3c3": {
-   "age_h": null,
-   "author": "",
-   "id": "cal-2594b3c3",
-   "kind": "occasion",
-   "metrics": {
-    "days_away": 13,
-    "kind": "faith"
-   },
-   "platform": "Calendar",
-   "source": "the US calendar",
-   "text": "",
-   "thumb": "",
-   "title": "Diwali — 2026-11-08 (in 13 days)",
-   "ts": "",
-   "url": ""
+   "text": "National dessert retailer Crumbl Cookies has closed its only High Point store after three years in operation. Franchise owner Nate Poindexter said the decision came after a slowdown in ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A&pid=News",
+   "title": "Crumbl Cookies closes store",
+   "ts": "2026-10-27T16:19:00+00:00",
+   "url": "https://www.yahoo.com/news/articles/crumbl-cookies-closes-store-231900349.html"
   },
   "cal-95860747": {
    "age_h": null,
@@ -386,14 +382,14 @@
    "id": "cal-95860747",
    "kind": "occasion",
    "metrics": {
-    "days_away": 5,
+    "days_away": 4,
     "kind": "culture"
    },
    "platform": "Calendar",
    "source": "the US calendar",
    "text": "A spooky flavor of the week, shop only",
    "thumb": "",
-   "title": "Halloween — 2026-10-31 (in 5 days)",
+   "title": "Halloween — 2026-10-31 (in 4 days)",
    "ts": "",
    "url": ""
   },
@@ -403,106 +399,77 @@
    "id": "cal-b3ac2262",
    "kind": "occasion",
    "metrics": {
-    "days_away": 39,
+    "days_away": 38,
     "kind": "faith"
    },
    "platform": "Calendar",
    "source": "the US calendar",
    "text": "",
    "thumb": "",
-   "title": "Hanukkah (first candle at sundown) — 2026-12-04 (in 39 days)",
+   "title": "Hanukkah (first candle at sundown) — 2026-12-04 (in 38 days)",
    "ts": "",
    "url": ""
   },
-  "gt-c03cd8a7": {
-   "age_h": 0.3,
+  "gt-b477a0a8": {
+   "age_h": 0.5,
    "author": "",
-   "id": "gt-c03cd8a7",
+   "id": "gt-b477a0a8",
    "kind": "search",
    "metrics": {
-    "searches": "5000+"
+    "searches": "10000+"
    },
    "platform": "Search",
    "source": "Google Trends (US)",
-   "text": "Lineups, live updates from Brewers-Rays World Series Game 3 | World Series Game Three: Open Game Thread",
-   "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBmBbRwnI8YtL4qIXX3CjFjuHB8b9SGjKTPRuh4z8VeYKJu9zfkBCmnPX950",
-   "title": "Search spike: freddy peralta",
-   "ts": "2026-10-26T17:10:00-07:00",
-   "url": "https://www.espn.com/mlb/story/_/id/50240960/world-series-game-3-brewers-rays-live-updates-takeaways"
+   "text": "Key takeaways after Brewers slug their way to 3-0 World Series lead | Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead",
+   "thumb": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPiKysqtn-ZqdV-ei6h3ipMDkhV_3JFP7Nu-IvxID_AuxIGxy1V0jED7AZg1Y",
+   "title": "Search spike: tampa bay rays vs milwaukee brewers",
+   "ts": "2026-10-27T18:50:00-07:00",
+   "url": "https://www.mlb.com/news/key-takeaways-from-world-series-game-3-2026"
   },
-  "nw-1e995577": {
-   "age_h": 23.0,
+  "nw-63837787": {
+   "age_h": 5.1,
    "author": "",
-   "id": "nw-1e995577",
-   "kind": "news",
-   "metrics": {},
-   "platform": "News",
-   "source": "The Caledonian-Record",
-   "text": "These 15 simple fall desserts include pumpkin bakes, apple pastries, cookies, bars, and cakes, with familiar seasonal flavors and straightforward finishes for a relaxed baking day.The post 15 simple f ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.XfKARzdff6lHQchLJWOIXQ&pid=News",
-   "title": "15 simple fall desserts that keep the focus on flavor, not perfection",
-   "ts": "2026-10-26T01:28:00+00:00",
-   "url": "https://www.caledonianrecord.com/news/national/15-simple-fall-desserts-that-keep-the-focus-on-flavor-not-perfection/article_8003ffae-d9b3-58da-b7f2-a20591b236fa.html"
-  },
-  "nw-75992251": {
-   "age_h": 29.0,
-   "author": "",
-   "id": "nw-75992251",
+   "id": "nw-63837787",
    "kind": "news",
    "metrics": {},
    "platform": "News",
    "source": "Bon Appétit",
-   "text": "Thoughtful, creative host gifts—because they probably have enough wine.",
-   "thumb": "https://assets.bonappetit.com/photos/6adbbc298ec3637ba59a9851/master/pass/hosting_20262_1024.jpg",
-   "title": "The Best Host Gifts for Being a Classy and Grateful Guest",
-   "ts": "2026-10-24T20:11:46+00:00",
-   "url": "https://www.bonappetit.com/story/best-host-hostess-gifts"
+   "text": "Corn nut “magic dust” adds an extra hit of corn flavor to this buttery, sausage-studded Thanksgiving side.",
+   "thumb": "https://assets.bonappetit.com/photos/5d9f66ebd149100008e18adf/master/pass/1119-Perfect-Cornbread-Stuffing.jpg",
+   "title": "Cornbread Dressing With Sausage",
+   "ts": "2026-10-27T21:14:53+00:00",
+   "url": "https://www.bonappetit.com/recipe/cornbread-dressing"
   },
-  "nw-811872ae": {
-   "age_h": 32.0,
+  "nw-95277951": {
+   "age_h": 8.0,
    "author": "",
-   "id": "nw-811872ae",
+   "id": "nw-95277951",
    "kind": "news",
    "metrics": {},
    "platform": "News",
-   "source": "The Kitchn",
-   "text": "I have always helped my mom in the kitchen during Thanksgiving, but I&#8217;ve never hosted the holiday by myself. This year I&#8217;m spearheading a 21-person Friendsgiving in New York City. So far it&#8217;s been fun to plan the menu and the weekend, but it&#8217;s also been stressful. Perhaps the biggest stressor, b",
-   "thumb": "https://cdn.apartmenttherapy.info/image/upload//tk/edit/groceries/meal-kits/sams-club/thanksgiving/sams-club-presents-its-2026-members-mark",
-   "title": "This Walmart Sister Chain Has the Most Impressive Thanksgiving Meal for Cheap",
-   "ts": "2026-10-25T16:30:00+00:00",
-   "url": "https://www.thekitchn.com/sams-club-2026-thanksgiving-meal-kit-23850091?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
+   "source": "Nation's Restaurant News",
+   "text": "For Halloween weekend, 10,000 randomly selected guests will receive the coupon for a free dozen Original Glazed doughnuts with any purchase.",
+   "thumb": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt7659a99b512bb3f9/6ae0eac8069d77e6007bf1d5/Krispy-Kreme-All-Jacked-Up-Dozen-Doughnuts-for-Halloween.jpg?width=720&quality=80&disable=upscale",
+   "title": "Krispy Kreme is giving away a Treat Dozen Pass",
+   "ts": "2026-10-27T18:16:42+00:00",
+   "url": "https://www.nrn.com/quick-service/krispy-kreme-is-giving-away-a-treat-dozen-pass"
   },
-  "nw-8d861d64": {
-   "age_h": 3.9,
+  "nw-9b826b03": {
+   "age_h": 5.7,
    "author": "",
-   "id": "nw-8d861d64",
+   "id": "nw-9b826b03",
    "kind": "news",
    "metrics": {},
    "platform": "News",
-   "source": "Taste of Home",
-   "text": "Made with apples and apple butter, this easy fall cake is just the thing when you need a sweet snack.",
-   "thumb": "https://www.tasteofhome.com/wp-content/uploads/2026/09/Apple-Butter-Snack-Cake_EXPS_FT26_284180_JR_0924_1.jpg",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Apple Butter Snack Cake",
-   "ts": "2026-10-26T20:35:00+00:00",
-   "url": "https://www.tasteofhome.com/recipes/apple-butter-snack-cake/"
-  },
-  "nw-b61caf26": {
-   "age_h": 12.0,
-   "author": "",
-   "id": "nw-b61caf26",
-   "kind": "news",
-   "metrics": {},
-   "platform": "News",
-   "source": "Delish",
-   "text": "",
-   "thumb": "https://hips.hearstapps.com/hmg-prod/images/d7df9b47-8acb-4537-8423-773855a24fbf.jpg",
-   "title": "Black &amp; Orange Cookies",
-   "ts": "2026-10-26T12:30:00+00:00",
-   "url": "https://www.delish.com/cooking/recipe-ideas/a74207366/black-and-orange-cookies-recipe/"
+   "source": "Nation's Restaurant News",
+   "text": "The burger giant releases the beverage lineup Nov. 3 to give fans a head start on the celebratory season.",
+   "thumb": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/bltecf6994ffca4ddc3/6ae10d50a3c73d3fa7328f02/HERO_Winter_Drinks.jpg?width=720&quality=80&disable=upscale",
+   "title": "McDonald’s gets into the holiday spirit early with festive new drinks",
+   "ts": "2026-10-27T20:39:57+00:00",
+   "url": "https://www.nrn.com/quick-service/mcdonald-s-gets-into-the-holiday-spirit-early-with-festive-new-drinks"
   },
   "nw-c55f85ac": {
-   "age_h": 3.2,
+   "age_h": 29.1,
    "author": "",
    "id": "nw-c55f85ac",
    "kind": "news",
@@ -515,64 +482,39 @@
    "ts": "2026-10-26T21:16:08+00:00",
    "url": "https://www.bonappetit.com/gallery/best-apple-dessert-recipes"
   },
-  "nw-d2ddc1ba": {
-   "age_h": 10.0,
+  "oc-061af896": {
+   "age_h": 25.3,
    "author": "",
-   "id": "nw-d2ddc1ba",
-   "kind": "news",
-   "metrics": {},
-   "platform": "News",
-   "source": "The Kitchn",
-   "text": "I&#8217;m very into sustainability, and I&#8217;m conscious of my food waste. One way to reduce food waste is to buy upcycled foods, or groceries made from food that would otherwise be thrown out.&#160;Wasted does just that. The company specializes in pasta made from leftover bread. As a pasta lover, I was skeptical of",
-   "thumb": "https://cdn.apartmenttherapy.info/image/upload//tk/edit/groceries/2026/2026-10/wasted-pasta/wasted-pasta-1",
-   "title": "The Most Delicious Store-Bought Pasta Ever Is Made from … Leftover Bread",
-   "ts": "2026-10-26T14:30:00+00:00",
-   "url": "https://www.thekitchn.com/wasted-pasta-review-23850123?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
-  },
-  "nw-ee7a34a7": {
-   "age_h": 13.0,
-   "author": "",
-   "id": "nw-ee7a34a7",
-   "kind": "news",
-   "metrics": {},
-   "platform": "News",
-   "source": "Yahoo",
-   "text": "Cooler days bring apples, pumpkin, and baking spices back to the kitchen, but choosing one dessert can be harder than making it.",
-   "thumb": "http://www.bing.com/th?id=ONUT.7yNXNqw1B6SZraupd65_MA&pid=News",
-   "title": "23 Classic Fall Desserts That Carry the Flavors of the Season Just Right",
-   "ts": "2026-10-26T11:30:00+00:00",
-   "url": "https://www.yahoo.com/lifestyle/articles/23-classic-fall-desserts-carry-183000034.html"
-  },
-  "nw-fae51ecd": {
-   "age_h": 10.5,
-   "author": "",
-   "id": "nw-fae51ecd",
-   "kind": "news",
-   "metrics": {},
-   "platform": "News",
-   "source": "The Kitchn",
-   "text": "Call me basic, but when fall rolls around I&#8217;m ready to welcome in all things pumpkin with open arms. Pumpkin spice lattes, creamy pumpkin pasta, pumpkin cream cheese muffins &#8230; there are ways to incorporate the autumn gourd into every meal of the day.&#160;One delicious pumpkin-flavored treat I make at least",
-   "thumb": "https://cdn.apartmenttherapy.info/image/upload//tk/edit/skills/2026/2026-10/pumpkin-bread/pumpkin-bread-lead",
-   "title": "Whenever I Have a Can of Pumpkin, I Make This Incredibly Tender Loaf",
-   "ts": "2026-10-26T14:00:00+00:00",
-   "url": "https://www.thekitchn.com/pumpkin-bread-recipe-review-23847011?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
-  },
-  "oc-1c83c31f": {
-   "age_h": 277.6,
-   "author": "",
-   "id": "oc-1c83c31f",
+   "id": "oc-061af896",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-12-04",
     "occasion": "Hanukkah"
    },
    "platform": "News",
-   "source": "Israel National News",
-   "text": "Synagogue offices, day schools and Jewish community centers across America share a small job in the weeks before the first Hanukkah candle.",
-   "thumb": "http://www.bing.com/th?id=ONUT.w0z-j_k2ux36u6OTy9zhWw&pid=News",
-   "title": "Eight nights, one notice: Inside a small community's Hanukkah invitation",
-   "ts": "2026-10-15T10:56:00+00:00",
-   "url": "https://www.israelnationalnews.com/news/434667"
+   "source": "Laughing Place",
+   "text": "Disney is celebrating Hanukkah with a wide range of fun products available in Parks, online, and anywhere else you might find Disney gear. A collection of Mickey and Friends Happy Hanukkah items can ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.9o2NPllI3EFX_ngmQA4uqg&pid=News",
+   "title": "A Disney Hanukkah Gift Guide: Books, Latkes, Lightsabers, and More",
+   "ts": "2026-10-27T01:01:00+00:00",
+   "url": "https://www.laughingplace.com/disney-merchandise/disney-hanukkah-merchandise-2026/"
+  },
+  "oc-1b96ee16": {
+   "age_h": 12.7,
+   "author": "",
+   "id": "oc-1b96ee16",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-08",
+    "occasion": "Diwali"
+   },
+   "platform": "News",
+   "source": "Amazon S3 on MSN",
+   "text": "Looking for Diwali gifts beyond the usual mithai box? From traditional Punjabi treats and handcrafted chocolates to festive bakes and wellness essentials, these gift hampers bring something different ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.HDQuOQo7MBwMrZXqFXTvZA&pid=News",
+   "title": "Make your Diwali gifting a little more special #diwali #gifting",
+   "ts": "2026-10-27T13:39:31+00:00",
+   "url": "https://www.msn.com/en-us/news/other/make-your-diwali-gifting-a-little-more-special-diwali-gifting/vi-AA2gc4UC"
   },
   "oc-1f76a070": {
    "age_h": 36.6,
@@ -591,61 +533,10 @@
    "ts": "2026-10-25T11:52:00+00:00",
    "url": "https://www.cpapracticeadvisor.com/2026/10/25/halloween-spending-expected-to-hit-13-5-billion/192457/"
   },
-  "oc-2813926d": {
-   "age_h": 10.1,
+  "oc-2156e246": {
+   "age_h": 8107.3,
    "author": "",
-   "id": "oc-2813926d",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-10-31",
-    "occasion": "Halloween"
-   },
-   "platform": "News",
-   "source": "Billboard",
-   "text": "From Karol G and Bruno Mars in the \"Still\" video to Aria Vega's Costeñita Core movement, check out these easy DIY halloween costume ideas.",
-   "thumb": "http://www.bing.com/th?id=ONUT.8EAbft-0Ivx6V93TN-kIuw&pid=News",
-   "title": "7 Easy DIY Costumes to Dress as Latin Music Stars on Halloween 2026",
-   "ts": "2026-10-26T14:25:00+00:00",
-   "url": "https://www.billboard.com/lists/latin-music-halloween-easy-diy-costume-ideas-2026/"
-  },
-  "oc-3327ff1d": {
-   "age_h": 295.5,
-   "author": "",
-   "id": "oc-3327ff1d",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-08",
-    "occasion": "Diwali"
-   },
-   "platform": "News",
-   "source": "NewsBytes",
-   "text": "Airfares for Diwali and Chhath have surged significantly this year, with many travelers paying over 50% more due to high ATF prices and no government intervention.",
-   "thumb": "http://www.bing.com/th?id=ONUT.H_joSpZHwnaX_9Y6Q34t8Q&pid=News",
-   "title": "LocalCircles survey finds 72% say airfares higher this Diwali",
-   "ts": "2026-10-14T17:00:00+00:00",
-   "url": "https://www.newsbytesapp.com/news/india/localcircles-survey-finds-72-say-airfares-higher-this-diwali/tldr"
-  },
-  "oc-3c1c8696": {
-   "age_h": 16.5,
-   "author": "",
-   "id": "oc-3c1c8696",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-10-31",
-    "occasion": "Halloween"
-   },
-   "platform": "News",
-   "source": "Newsweek on MSN",
-   "text": "Restaurant chains across the U.S. are rolling out seasonal menu items, freebies and discounts through October.",
-   "thumb": "http://www.bing.com/th?id=ORMS.224bd3e9d61e8bd0fa7f4f8e03422aee&pid=News",
-   "title": "Halloween food deals 2026: Free burgers, doughnuts and more",
-   "ts": "2026-10-26T07:56:00+00:00",
-   "url": "https://www.msn.com/en-us/news/other/halloween-food-deals-2026-free-burgers-doughnuts-and-more/ar-AA2g5IjV"
-  },
-  "oc-47ff6771": {
-   "age_h": 308.2,
-   "author": "",
-   "id": "oc-47ff6771",
+   "id": "oc-2156e246",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-26",
@@ -653,50 +544,154 @@
    },
    "platform": "News",
    "source": "Yahoo Finance",
-   "text": "Thanksgiving dinner for 10 under $39: ALDI shoppers can purchase everything they need to prepare a full, classic Thanksgiving meal for under $39 including a 16-pound turkey plus classic sides and ...",
-   "thumb": "https://s.yimg.com/lo/mysterio/api/1628cc98676e43ba20297a8ad6fc259b635cc2388a758650dd07d5ad4a142ec0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F92f957543e962b5fc1bc64564662f578.jpg",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "No Coupons, No Compromises, No Games: ALDI Feeds 10 for Under $39 This Thanksgiving",
-   "ts": "2026-10-14T04:15:00+00:00",
-   "url": "https://finance.yahoo.com/small-business/articles/no-coupons-no-compromises-no-111500567.html"
+   "text": "A new survey from Stop & Shop finds 62% of people say cranberry sauce is a must have for Thanksgiving, with 55% preferring canned over homemade. · GlobeNewswire Inc. QUINCY, Mass., Nov. 24, 2025 ...",
+   "thumb": "https://s.yimg.com/lo/mysterio/api/528389771e0ba04ac491d675ed8efad8eae688060fcb525afbf5f6bd139be7d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc454d8d2dabf16e19b4808f53f972c61",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
+   "title": "New Stop & Shop Survey Settles Great Thanksgiving Debate: Americans Prefer Canned Cranberry Sauce Over Homemade",
+   "ts": "2025-11-24T07:01:00+00:00",
+   "url": "https://finance.yahoo.com/news/stop-shop-survey-settles-great-150100999.html"
   },
-  "oc-6474f00d": {
-   "age_h": 18.0,
+  "oc-23957c9d": {
+   "age_h": 37.4,
    "author": "",
-   "id": "oc-6474f00d",
+   "id": "oc-23957c9d",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-26",
+    "occasion": "Thanksgiving"
+   },
+   "platform": "News",
+   "source": "People on MSN",
+   "text": "The country star, who recently released her album ‘Crisco,’ will take the stage at AT&T Stadium on Nov. 26 ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.0IGVfi3aavug3AsrTTbIEA&pid=News",
+   "title": "Miranda Lambert to headline Dallas Cowboys 2026 Thanksgiving Day halftime show: 'Can't wait to be back home'",
+   "ts": "2026-10-26T12:53:56+00:00",
+   "url": "https://www.msn.com/en-us/news/other/miranda-lambert-to-headline-dallas-cowboys-2026-thanksgiving-day-halftime-show-cant-wait-to-be-back-home/ar-AA2g6IFw"
+  },
+  "oc-23b9bc7d": {
+   "age_h": 24.4,
+   "author": "",
+   "id": "oc-23b9bc7d",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-08",
     "occasion": "Diwali"
    },
    "platform": "News",
-   "source": "HerZindagi",
-   "text": "Discover the 5+ Diwali Melas in Delhi NCR 2026 - dates, timings, locations, shopping guide, food stalls, and tips for Blind School Mela, Dilli Haat, Sundar Nagar & more.",
-   "thumb": "http://www.bing.com/th?id=ONUT.8ODpSK9l99fRQGtZsuQ7fA&pid=News",
-   "title": "Diwali Melas 2026 In Delhi: 5+ Vibrant Fairs, Events For Festive Shopping, Food And Handicrafts",
-   "ts": "2026-10-26T06:31:00+00:00",
-   "url": "https://www.herzindagi.com/society-culture/diwali-melas-2026-in-delhi-5-vibrant-fairs-events-for-festive-shopping-food-and-handicrafts-article-1071250"
+   "source": "The Print on MSN",
+   "text": "A recent survey by the social media platform LocalCircles collected over 2 lakh responses from consumers across 130 districts. It included seven e-commerce platforms.",
+   "thumb": "http://www.bing.com/th?id=ONUT.BUdhbXBu0lBlGYdF5810Sw&pid=News",
+   "title": "Amazon Now is the top platform for last-minute Diwali shopping, new survey finds",
+   "ts": "2026-10-27T01:57:21+00:00",
+   "url": "https://www.msn.com/en-in/news/other/amazon-now-is-the-top-platform-for-last-minute-diwali-shopping-new-survey-finds/ar-AA2g91X5"
   },
-  "oc-690dc41c": {
-   "age_h": 67.3,
+  "oc-29da98bd": {
+   "age_h": 8210.0,
    "author": "",
-   "id": "oc-690dc41c",
+   "id": "oc-29da98bd",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-26",
+    "occasion": "Thanksgiving"
+   },
+   "platform": "News",
+   "source": "Fibre2Fashion",
+   "text": "Americans are preparing for a major surge in holiday spending, with 88 per cent of US adults—around 235 million people—planning to spend $127 billion between Thanksgiving Day and Cyber Monday, ...",
+   "thumb": "https://static.fibre2fashion.com/Newsresource/images/306/shutterstock-1086067202_318154.jpg",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
+   "title": "US shoppers to spend $127 bn over thanksgiving weekend: Survey",
+   "ts": "2025-11-20T00:21:00+00:00",
+   "url": "https://www.fibre2fashion.com/news/retail-industry/us-shoppers-to-spend-127-bn-over-thanksgiving-weekend-survey-306566-newsdetails.htm"
+  },
+  "oc-3b8531ac": {
+   "age_h": 497.1,
+   "author": "",
+   "id": "oc-3b8531ac",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-12-04",
+    "occasion": "Hanukkah"
+   },
+   "platform": "News",
+   "source": "FOX 26 Houston",
+   "text": "The U.S. Postal Service (USPS) has released its 2026 Christmas stamp featuring a depiction of the Madonna and Child.",
+   "thumb": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1200/630/2026-christmas-stamp.jpeg?ve=1&tl=1",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
+   "title": "USPS ready for 2026 Christmas card mailing with 185 million Christmas stamps printed",
+   "ts": "2026-10-07T09:16:00+00:00",
+   "url": "https://www.fox26houston.com/news/usps-2026-christmas-stamp"
+  },
+  "oc-570c6e60": {
+   "age_h": 9051.2,
+   "author": "",
+   "id": "oc-570c6e60",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-08",
     "occasion": "Diwali"
    },
    "platform": "News",
-   "source": "CNBCTV18",
-   "text": "Diwali gifting is evolving beyond traditional mithai, as regional delicacies like thekua and global trends like kunafa chocolate reshape festive food sharing.",
-   "thumb": "https://images.cnbctv18.com/uploads/2026/10/indian-sweets-2026-10-07715de8e1d5d09ee5ebe35d51d6a1ce.jpg?im=FitAndFill,width=1200,height=675",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Beyond the mithai box: How India’s Diwali gifting is changing",
-   "ts": "2026-10-24T05:12:00+00:00",
-   "url": "https://www.cnbctv18.com/lifestyle/food-and-drinks/beyond-the-mithai-box-how-indias-diwali-gifting-is-changing-20018608.htm"
+   "source": "Mid Day",
+   "text": "The festive season is equal to a glow-up, and the same celebratory spirit has made its way into the dating world, too. According to a new consumer study by an Indian dating app this year's Diwali ...",
+   "thumb": "https://images.mid-day.com/images/images/2025/oct/date-istock-october-photo-1760589849367_d.png",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
+   "title": "Diwali 2025: More Indian singles are using family photos to attract potential matches, says survey",
+   "ts": "2025-10-15T23:06:00+00:00",
+   "url": "https://www.mid-day.com/lifestyle/relationships/article/diwali-2025-more-indian-singles-are-using-family-photos-to-attract-potential-matches-says-survey-23598945?button=next"
+  },
+  "oc-5a5b62e7": {
+   "age_h": 18.6,
+   "author": "",
+   "id": "oc-5a5b62e7",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-26",
+    "occasion": "Thanksgiving"
+   },
+   "platform": "News",
+   "source": "The Tennessean on MSN",
+   "text": "Skip the cooking this Thanksgiving. Here's where to dine out in Nashville or order turkey, sides and pies to enjoy at home.",
+   "thumb": "http://www.bing.com/th?id=ONUT.HzVJUOLljUQJyqmw8sALpg&pid=News",
+   "title": "Where to eat or order Thanksgiving dinner in Nashville in 2026",
+   "ts": "2026-10-27T07:41:00+00:00",
+   "url": "https://www.msn.com/en-us/news/other/where-to-eat-or-order-thanksgiving-dinner-in-nashville-in-2026/ar-AA2gb0H1"
+  },
+  "oc-62777d14": {
+   "age_h": 12.4,
+   "author": "",
+   "id": "oc-62777d14",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-10-31",
+    "occasion": "Halloween"
+   },
+   "platform": "News",
+   "source": "Yahoo",
+   "text": "Kevin Bleyer, a writer who worked on “The Daily Show” and won four Primetime Emmy Awards, a Peabody Award and a Writers Guild Award, died Sunday in a car accident in Millrift, Pennsylvania. He was 54.",
+   "thumb": "http://www.bing.com/th?id=ONUT.VhM6IE0HTHfE3KqPfgJ_2w&pid=News",
+   "title": "The Halloween Costumes TikTok Predicts Will Dominate 2026",
+   "ts": "2026-10-27T13:55:00+00:00",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/halloween-costumes-tiktok-predicts-dominate-205529418.html"
+  },
+  "oc-64b99169": {
+   "age_h": 17.5,
+   "author": "",
+   "id": "oc-64b99169",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-10-31",
+    "occasion": "Halloween"
+   },
+   "platform": "News",
+   "source": "Scripps News",
+   "text": "The scariest part of Halloween may be the price tag. A new survey finds 67% of U.S. consumers believe the holiday has become too expensive.",
+   "thumb": "http://www.bing.com/th?id=ONUT.9FkXMz_Tx9m-J6psamk7rA&pid=News",
+   "title": "Halloween sticker shock has consumers planning to spend less",
+   "ts": "2026-10-27T08:49:00+00:00",
+   "url": "https://www.scrippsnews.com/life/holidays-and-celebrations/halloween-sticker-shock-has-consumers-planning-to-spend-less"
   },
   "oc-6c4ae319": {
-   "age_h": 302.0,
+   "age_h": 327.9,
    "author": "",
    "id": "oc-6c4ae319",
    "kind": "occasion news",
@@ -708,83 +703,82 @@
    "source": "Yahoo Finance",
    "text": "Americans are pulling back on Halloween spending this year, according to LendingTree's 2026 Halloween spending survey. Eight in 10 Americans (80%) plan to make a Halloween-related purchase, down from ...",
    "thumb": "https://s.yimg.com/lo/mysterio/api/a788d7b60fa5f919f2b4879b71138522052bdd613a26902eeca77dfcaad2de1e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fe276a7ecbdf444ba5405718c36ac4925.jpg",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
    "title": "Halloween Spending Expected to Drop 16% as Nearly 1 in 4 Celebrators Anticipate Debt",
    "ts": "2026-10-14T10:26:00+00:00",
    "url": "https://finance.yahoo.com/economy/articles/halloween-spending-expected-drop-16-172600321.html"
   },
-  "oc-7336a7b6": {
-   "age_h": 21.2,
+  "oc-72c8eeb7": {
+   "age_h": 116.4,
    "author": "",
-   "id": "oc-7336a7b6",
+   "id": "oc-72c8eeb7",
    "kind": "occasion news",
    "metrics": {
-    "date": "2026-10-31",
-    "occasion": "Halloween"
+    "date": "2026-11-08",
+    "occasion": "Diwali"
    },
    "platform": "News",
-   "source": "Axios on MSN",
-   "text": "Halloween is less than a week away, and we're curious how much Richmond-area residents are spending to keep their candy bowls stocked this year. The big questions: Are you spending more than last year ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.-KAe-xBx7M2P77sQ-3SP6w&pid=News",
-   "title": "Survey: How much are Richmonders spending on Halloween candy?",
-   "ts": "2026-10-26T03:16:48+00:00",
-   "url": "https://www.msn.com/en-us/news/other/survey-how-much-are-richmonders-spending-on-halloween-candy/ar-AA2g5tw0"
+   "source": "Her Zindagi on MSN",
+   "text": "The 5 Best Luxury Scented Candle Hampers to Buy Online Right Now For Diwali Gifting If you’re looking for aesthetic gift ideas for this Diwali, check out these 5 best luxury scented candle hampers ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.SgaZ6hLIPcSTSTj-Fuxl5Q&pid=News",
+   "title": "The 5 Best Luxury Scented Candle Hampers to Buy Online Right Now For Diwali Gifting",
+   "ts": "2026-10-23T05:54:58+00:00",
+   "url": "https://www.msn.com/en-in/news/other/the-5-best-luxury-scented-candle-hampers-to-buy-online-right-now-for-diwali-gifting/ar-AA2fVaca"
   },
-  "oc-7e18e59f": {
-   "age_h": 429.2,
+  "oc-7e9f69d4": {
+   "age_h": 345.3,
    "author": "",
-   "id": "oc-7e18e59f",
+   "id": "oc-7e9f69d4",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-12-04",
     "occasion": "Hanukkah"
    },
    "platform": "News",
-   "source": "Jewish Telegraphic Agency",
-   "text": "This essay originally appeared in Kveller. The miracle of Hanukkah came early this year: Hanukkah Barbie is here. Mattel would like us to call her “Holiday Sweater Barbie.” Respectfully, no. This is ...",
-   "thumb": "https://www.jta.org/wp-content/uploads/2026/10/10-09-2026-Hanukkah-Barbie.jpg",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Hanukkah Barbie is here — and she actually got the Jewish holiday right",
-   "ts": "2026-10-09T03:15:00+00:00",
-   "url": "https://www.jta.org/2026/10/09/ideas/hanukkah-barbie-is-here-and-she-actually-got-the-jewish-holiday-right"
+   "source": "BroadwayWorld",
+   "text": "Peter Friedman stars in a new play by Max Posner at Woolly Mammoth Theatre Company, directed by Tony Award winner David Cromer. The world premiere ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.3Iz1QQoANQkgs4WSKy0fWQ&pid=News",
+   "title": "HANUKKAH SPECTACULAR to Open at Woolly Mammoth With Peter Friedman",
+   "ts": "2026-10-13T17:03:00+00:00",
+   "url": "https://www.broadwayworld.com/washington-dc/article/Hanukkah-Spectacular-to-Open-at-Woolly-Mammoth-With-Peter-Friedman-20261013"
   },
-  "oc-7ecd2ce3": {
-   "age_h": 354.4,
+  "oc-98cebf26": {
+   "age_h": 23.5,
    "author": "",
-   "id": "oc-7ecd2ce3",
+   "id": "oc-98cebf26",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-08",
+    "occasion": "Diwali"
+   },
+   "platform": "News",
+   "source": "Asianet Newsable on MSN",
+   "text": "Diwali 2026 is a time for festive treats, but people with diabetes need to make mindful food choices. Discover 6 practical tips on portion control, meal timing and blood sugar monitoring to enjoy ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.y9HAP3gGVKUfV877xBWt7w&pid=News",
+   "title": "Diwali 2026: Love mithai but have diabetes? 6 tips to enjoy festive treats safely",
+   "ts": "2026-10-27T02:51:17+00:00",
+   "url": "https://www.msn.com/en-in/health/diseases-and-conditions/diwali-2026-love-mithai-but-have-diabetes-6-tips-to-enjoy-festive-treats-safely/ar-AA2g9mut"
+  },
+  "oc-9a29e749": {
+   "age_h": 14.4,
+   "author": "",
+   "id": "oc-9a29e749",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-10-31",
     "occasion": "Halloween"
    },
    "platform": "News",
-   "source": "Yahoo Finance",
-   "text": "Ferrero Group today released its third annual Halloween Report, with a study of Americans, which shows the popularity of Halloween in the United States. Seven in 10 adults (70%) say Halloween is just ...",
-   "thumb": "https://s.yimg.com/lo/mysterio/api/f316a62a729d595a33d93c3668a0ad4c0a9dd8a8ee46009306d9c15d2e2babba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fcfc90141faf1853004a5b1217a9f91af.jpg",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Annual Ferrero® Halloween Survey Finds More Than Half of American Adults Say Halloween Should Be a National Holiday",
-   "ts": "2026-10-12T06:07:00+00:00",
-   "url": "https://finance.yahoo.com/media-advertising/articles/annual-ferrero-halloween-survey-finds-130700839.html"
-  },
-  "oc-7f3c66df": {
-   "age_h": 16.0,
-   "author": "",
-   "id": "oc-7f3c66df",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-10-31",
-    "occasion": "Halloween"
-   },
-   "platform": "News",
-   "source": "Complex on MSN",
-   "text": "The best season of the year is fully upon us.",
-   "thumb": "http://www.bing.com/th?id=ONUT.Lvc9wP8ya24kC-dIu_P_fg&pid=News",
-   "title": "Celebrity Halloween costumes 2026: Kim Kardashian, North West, Paris Hilton, and more go all out",
-   "ts": "2026-10-26T08:30:47+00:00",
-   "url": "https://www.msn.com/en-us/entertainment/celebrities/celebrity-halloween-costumes-2026-kim-kardashian-north-west-paris-hilton-and-more-go-all-out/ar-AA2g6i2t"
+   "source": "MSN",
+   "text": "Boo!",
+   "thumb": "",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
+   "title": "Best Halloween Costumes 2026: Paris Hilton, Kim Kardashian & More",
+   "ts": "2026-10-27T11:56:11+00:00",
+   "url": "https://www.msn.com/en-us/entertainment/celebrities/best-halloween-costumes-2026-paris-hilton-kim-kardashian-more/ar-AA2gbxK8"
   },
   "oc-a0f1c1fa": {
-   "age_h": 83.1,
+   "age_h": 109.0,
    "author": "",
    "id": "oc-a0f1c1fa",
    "kind": "occasion news",
@@ -800,25 +794,8 @@
    "ts": "2026-10-23T13:21:00+00:00",
    "url": "https://sixerswire.usatoday.com/story/entertainment/dining/2026/10/23/thanksgiving-2026-seacoast-restaurants-bakeries-meals-takeout-desserts-sides-turkey-buffet/92248470007/"
   },
-  "oc-a1a35930": {
-   "age_h": 11.6,
-   "author": "",
-   "id": "oc-a1a35930",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-26",
-    "occasion": "Thanksgiving"
-   },
-   "platform": "News",
-   "source": "Yahoo",
-   "text": "Lambert will take the stage at AT&T Stadium in Arlington, Texas for a live halftime show during the Cowboys' home game against the Philadelphia Eagles on Thursday, Nov. 26. The performance marks the ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.EnYPfisjG090QCyTJKgScQ&pid=News",
-   "title": "Miranda Lambert to Headline Dallas Cowboys 2026 Thanksgiving Day Halftime Show: ‘Can’t Wait to Be Back Home’",
-   "ts": "2026-10-26T12:53:00+00:00",
-   "url": "https://www.yahoo.com/entertainment/music/articles/miranda-lambert-headline-dallas-cowboys-195356052.html"
-  },
   "oc-a91c11d3": {
-   "age_h": 12.9,
+   "age_h": 38.7,
    "author": "",
    "id": "oc-a91c11d3",
    "kind": "occasion news",
@@ -834,8 +811,42 @@
    "ts": "2026-10-26T11:37:00+00:00",
    "url": "https://dapsmagic.com/2026/10/guide-disney-hanukkah-gifts-and-merch/"
   },
+  "oc-b2cc51d0": {
+   "age_h": 21.5,
+   "author": "",
+   "id": "oc-b2cc51d0",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-08",
+    "occasion": "Diwali"
+   },
+   "platform": "News",
+   "source": "Lifestyle Asia",
+   "text": "From edible indulgences and clever home accents, these are the pieces that go beyond festive gifting box checklist.",
+   "thumb": "http://www.bing.com/th?id=ONUT.9U1OzZbdUkbDwD0X4FcBVw&pid=News",
+   "title": "The festive gifting guide for Diwali 2026",
+   "ts": "2026-10-27T04:50:00+00:00",
+   "url": "https://www.lifestyleasia.com/ind/style/the-festive-gifting-guide-for-diwali-2026/"
+  },
+  "oc-b3878a90": {
+   "age_h": 16.9,
+   "author": "",
+   "id": "oc-b3878a90",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-10-31",
+    "occasion": "Halloween"
+   },
+   "platform": "News",
+   "source": "USA TODAY",
+   "text": "Google's 'Frightgeist' analyzed trendiest the trendiest costumes for kids, pets and more. Here's what it found.",
+   "thumb": "http://www.bing.com/th?id=ONUT.vqUZDi8iWYVJLhO-GkZSrg&pid=News",
+   "title": "Google reveals trendiest 2026 Halloween costumes for NC, US",
+   "ts": "2026-10-27T09:23:00+00:00",
+   "url": "https://www.usatoday.com/story/entertainment/2026/10/27/googles-top-halloween-costumes-2026-descendants-obsession-odyssey/92367263007/"
+  },
   "oc-b588a20e": {
-   "age_h": 11.6,
+   "age_h": 37.5,
    "author": "",
    "id": "oc-b588a20e",
    "kind": "occasion news",
@@ -847,117 +858,64 @@
    "source": "USA TODAY on MSN",
    "text": "A new Thanksgiving survey found Americans spend hours at the dinner table, but many rate their dining-chair comfort surprisingly low.",
    "thumb": "",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
    "title": "Most Thanksgiving hosts forget one thing guests notice for hours",
    "ts": "2026-10-26T12:50:08+00:00",
    "url": "https://www.msn.com/en-us/news/other/most-thanksgiving-hosts-forget-one-thing-guests-notice-for-hours/ar-AA2g1Mgo"
   },
-  "oc-ba927df7": {
-   "age_h": 66.0,
+  "oc-b58c0f67": {
+   "age_h": 18.6,
    "author": "",
-   "id": "oc-ba927df7",
+   "id": "oc-b58c0f67",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-10-31",
     "occasion": "Halloween"
    },
    "platform": "News",
-   "source": "NBC New York",
-   "text": "Twice a year the U.S., and a host of other nations in Europe, Canada and South America, observe daylight saving time. It’s a practice that Americans mark starting on the second Sunday in March and ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.JXgWHRPF1LSLijGTiSeWhw&pid=News",
-   "title": "Halloween and Daylight Saving Time align in 2026: What to know",
-   "ts": "2026-10-24T06:30:00+00:00",
-   "url": "https://www.nbcnewyork.com/holidays/halloween-daylight-saving-time-align-2026/6562837/"
+   "source": "Polygon",
+   "text": "Pokémon Go ’s \"Halloween Part 1\" event for 2026 has kicked off, running from Oct. 27 until Nov. 1. This event features the usual swath of costumed Pokémon, as well as a special \"Trick or Treat!\" ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.cExMwu0KYTGpc7OenC5GLA&pid=News",
+   "title": "Pokémon Go 'Halloween 2026 Part 1' event guide",
+   "ts": "2026-10-27T07:41:00+00:00",
+   "url": "https://www.polygon.com/pokemon-go-halloween-2026-part-1-event-costume-pikachu-zubat-sinistea/"
   },
-  "oc-bb1a3140": {
-   "age_h": 11.4,
+  "oc-d297d1f4": {
+   "age_h": 17.4,
    "author": "",
-   "id": "oc-bb1a3140",
+   "id": "oc-d297d1f4",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-08",
     "occasion": "Diwali"
    },
    "platform": "News",
-   "source": "Amazon S3 on MSN",
-   "text": "Looking for Diwali gifts beyond the usual mithai box? From traditional Punjabi treats and handcrafted chocolates to festive bakes and wellness essentials, these gift hampers bring something different ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.Hjnhc0lG7n1r7CvzjSYzOw&pid=News",
-   "title": "Diwali gift hampers to explore this festive season",
-   "ts": "2026-10-26T13:07:40+00:00",
-   "url": "https://www.msn.com/en-us/news/other/diwali-gift-hampers-to-explore-this-festive-season/vi-AA2g7wJo"
+   "source": "ET Now on MSN",
+   "text": "Additional charges remain a major concern for quick commerce users, with 60% saying delivery and handling fees often raise their final bill.",
+   "thumb": "http://www.bing.com/th?id=ONUT.rVmlTT8gWJ1xDthG3kV0sQ&pid=News",
+   "title": "As Diwali nears, 71% of users to prioritise value over speed on quick commerce platforms: survey",
+   "ts": "2026-10-27T08:54:03+00:00",
+   "url": "https://www.msn.com/en-in/money/general/as-diwali-nears-71-of-users-to-prioritise-value-over-speed-on-quick-commerce-platforms-survey/ar-AA2gb9PW"
   },
-  "oc-cb735ad2": {
-   "age_h": 20.6,
+  "oc-d2cc3586": {
+   "age_h": 16.8,
    "author": "",
-   "id": "oc-cb735ad2",
+   "id": "oc-d2cc3586",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-10-31",
     "occasion": "Halloween"
    },
    "platform": "News",
-   "source": "WYFF News 4",
-   "text": "Overall Halloween shopping is expected to hit *** record, but interestingly enough, the average shopper is spending about less than $1 more than they did in 2025. The National Retail Federation ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.m7bnHl0EsKNHpamQKwSxPw&pid=News",
-   "title": "How much was a Halloween costume decades ago? Test your knowledge",
-   "ts": "2026-10-26T03:51:00+00:00",
-   "url": "https://www.wyff4.com/article/halloween-costume-cost-inflation/74221580"
-  },
-  "oc-cc481b73": {
-   "age_h": 256.8,
-   "author": "",
-   "id": "oc-cc481b73",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-08",
-    "occasion": "Diwali"
-   },
-   "platform": "News",
-   "source": "The Print on MSN",
-   "text": "The survey by LocalCircles received nearly 20,000 responses from across 277 districts. A total of 45% were from tier 1 districts, 31% from tier 2, and 24% from tier 3 and 4 districts.",
-   "thumb": "http://www.bing.com/th?id=ONUT.t8lY9LJoUa1bg9A73vCIOw&pid=News",
-   "title": "54% air travellers going home for Diwali are paying 50% more than in 2025, finds survey",
-   "ts": "2026-10-16T07:40:21+00:00",
-   "url": "https://www.msn.com/en-in/news/other/54-air-travellers-going-home-for-diwali-are-paying-50-more-than-in-2025-finds-survey/ar-AA2eomC6"
-  },
-  "oc-cffbfdc6": {
-   "age_h": 13.2,
-   "author": "",
-   "id": "oc-cffbfdc6",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-10-31",
-    "occasion": "Halloween"
-   },
-   "platform": "News",
-   "source": "KXRM Colorado Springs on MSN",
-   "text": "Related video: Monument couple turns home into 3-story haunted house (NATIONAL) — It’s officially the week leading up to Halloween, and as you prepare the costumes for your little ghouls and goblins ...",
-   "thumb": "",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Halloween 2026 falls on a Saturday. When will this happen again?",
-   "ts": "2026-10-26T11:16:58+00:00",
-   "url": "https://www.msn.com/en-us/news/other/halloween-2026-falls-on-a-saturday-when-will-this-happen-again/ar-AA2g7aty"
-  },
-  "oc-d7cbed98": {
-   "age_h": 20.7,
-   "author": "",
-   "id": "oc-d7cbed98",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-08",
-    "occasion": "Diwali"
-   },
-   "platform": "News",
-   "source": "Medindia",
-   "text": "Discover why celebrating Diwali with family strengthens relationships, preserves traditions, supports emotional wellbeing and creates lasting memories.",
-   "thumb": "https://images.medindia.net/news/950_400/diwali-family-togetherness-traditions-bonds-memories.jpg",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
-   "title": "Why Celebrating Diwali With Family Matters: The Joy of Togetherness and Tradition",
-   "ts": "2026-10-26T03:45:00+00:00",
-   "url": "https://www.medindia.net/news/lifestyleandwellness/why-celebrating-diwali-with-family-matters-the-joy-of-togetherness-and-tradition-225708-1.htm"
+   "source": "Kotaku",
+   "text": "Step into the shadows with the new All Hallows' Glow event! Featuring a dark collection of new costumes: Rocket Raccoon – Trash King (Free Event Reward!), Scarlet Witch – Chaos Weaver, and Hela – The ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.h8npm0MD-xthMBzi4k2T8g&pid=News",
+   "title": "9 Limited-Time Halloween 2026 Events You Can Play Inside Great Video Games Right Now",
+   "ts": "2026-10-27T09:30:00+00:00",
+   "url": "https://kotaku.com/9-limited-time-halloween-2026-events-you-can-play-inside-great-video-games-right-now-2000750135"
   },
   "oc-e263e4cf": {
-   "age_h": 663.4,
+   "age_h": 689.2,
    "author": "",
    "id": "oc-e263e4cf",
    "kind": "occasion news",
@@ -969,70 +927,80 @@
    "source": "Golfweek",
    "text": "USPS and FedEx have released 2026 holiday shipping deadlines for Christmas deliveries. Here's when packages should be mailed.",
    "thumb": "",
-   "thumb_tried": "2026-10-27T00:28:55.264761+00:00",
+   "thumb_tried": "2026-10-28T02:19:38.614648+00:00",
    "title": "USPS, FedEx holiday shipping deadlines 2026: Mail-by dates",
    "ts": "2026-09-29T09:07:00+00:00",
    "url": "https://golfweek.usatoday.com/story/news/2026/09/29/holiday-shipping-deadlines-2026-usps-fedex-mail-by-dates-when-christmas-hanukkah-kwanzaa/92001542007/"
   },
-  "oc-fca07c1c": {
-   "age_h": 111.3,
+  "oc-f653d0b5": {
+   "age_h": 19.7,
    "author": "",
-   "id": "oc-fca07c1c",
+   "id": "oc-f653d0b5",
    "kind": "occasion news",
    "metrics": {
-    "date": "2026-11-08",
-    "occasion": "Diwali"
+    "date": "2026-10-31",
+    "occasion": "Halloween"
    },
    "platform": "News",
-   "source": "Hindustan Times",
-   "text": "Searching for Diwali and house-warming gifts? Explore 6 gifting ideas that are under budget but look expensive.",
-   "thumb": "http://www.bing.com/th?id=ONUT.GLRclm44MNnDW31ChmaRwA&pid=News",
-   "title": "6 housewarming and diwali gifts that look 3x their price tag (and won't get re-gifted)",
-   "ts": "2026-10-22T09:10:00+00:00",
-   "url": "https://www.hindustantimes.com/lifestyle/art-culture/6-housewarming-and-diwali-gifts-that-look-3x-their-price-tag-and-wont-get-regifted-101792662050835.html"
+   "source": "Forbes",
+   "text": "The most popular Halloween costume of 2026 is Spider-Man and it is not remotely close to second place when it comes to search volume.",
+   "thumb": "http://www.bing.com/th?id=ONUT.TewO5BtZlo1PlC_a0MIcFA&pid=News",
+   "title": "The Most Popular Halloween Costume Of 2026 Is Way Above Second Place",
+   "ts": "2026-10-27T06:35:00+00:00",
+   "url": "https://www.forbes.com/sites/paultassi/2026/10/27/the-most-popular-halloween-costume-of-2026-is-way-above-second-place/"
+  },
+  "oc-f920ef50": {
+   "age_h": 45.4,
+   "author": "",
+   "id": "oc-f920ef50",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-10-31",
+    "occasion": "Halloween"
+   },
+   "platform": "News",
+   "source": "USA TODAY",
+   "text": "Halloween is big business, with Americans expected to spend $4.1 billion on candy this year. Explore the most popular treats in every state, from chocolate favorites to regional candy standouts.",
+   "thumb": "http://www.bing.com/th?id=ONUT.1d3LqpfVy4AkhIxCR_IGTg&pid=News",
+   "title": "Love or hate candy corn? See your state’s favorite Halloween treat",
+   "ts": "2026-10-26T04:54:00+00:00",
+   "url": "https://www.usatoday.com/story/graphics/2026/10/26/popular-halloween-candy-states-candy-corn-2026/91902524007/"
   }
  },
  "locked_plays": [
   {
-   "angle": "Hot tray straight from Brooklyn ovens proves real craft needs no discount.",
-   "format": "tiktok",
-   "lane": "TikTok content",
-   "pic": "Sam",
-   "trend": "Fast-Bake Value Fatigue"
-  },
-  {
-   "angle": "Artisanal cookie boxes packaged for modern Diwali festive host gifting.",
-   "format": "carousel",
-   "lane": "Gifting",
-   "pic": "Mai",
-   "trend": "Diwali Artisanal Gift Hampers"
-  },
-  {
-   "angle": "Afternoon autumn warmth pairing spiced snickerdoodles with steaming spiced tea.",
-   "format": "reel",
+   "angle": "Behind-the-scenes baking of apple cider caramel cookies",
+   "format": "static",
    "lane": "Social media",
    "pic": "Sam",
    "trend": "Orchard Fruit Fall Comfort"
+  },
+  {
+   "angle": "Why small-batch Brooklyn baking beats mass-scale chains",
+   "format": "static",
+   "lane": "TikTok content",
+   "pic": "Sam",
+   "trend": "Fast-Bake Value Fatigue"
   }
  ],
  "memo": {
   "bullets": [
-   "NRF projects record $13.5B Halloween spend as shoppers trade cheap grocery candy for fresh bakery boxes. Push counter pickups.",
-   "Crumbl shutters 57 locations and trials 99-cent cookies. Never discount; spotlight small-batch trays straight from our oven.",
-   "Diwali hamper guides pivot from bulk mithai to curated bakes. Launch festive box sleeves online before November 8."
+   "Diwali shoppers choose gourmet bakery hampers over mithai → Online platforms note a massive surge in artisanal bakery gifts → Position our 12-pack cookie box as a non-traditional Diwali gift.",
+   "Bon Appétit features 43 apple desserts dominating search traffic → Fall comfort dessert searches peak around apple orchard treats → Drop an apple cider caramel cookie flavor this weekend.",
+   "Crumbl closes stores and cuts staff following overexpansion → Crumbl sales drop 70% as mass-scale cookie chains face backlash → Emphasize our small-batch Brooklyn roots and honest ingredients in social content."
   ],
-  "headline": "Halloween treat rush peaks while rivals stumble into cheap discounting traps.",
-  "priority_echo": "Capture final Halloween counter runs, then open Diwali and holiday box pre-orders without discounts.",
-  "since_last_sweep": "Halloween spending hit a projected $13.5 billion record while Crumbl confirmed 57 store closures nationwide.",
+  "headline": "Gourmet bakery hampers surge as shoppers reject mass-scale sweets for Diwali.",
+  "priority_echo": "Win holiday gifting with boxes (6 and 12), not with discounts.",
+  "since_last_sweep": "Collected 137 signals showing accelerated holiday gifting, craft bakery expansion into Northern California, and rising demand for artisanal baked goods.",
   "top_actions": [
-   "Mai: Launch Halloween local counter pickup boxes by Wednesday.",
-   "Sam: Film warm tray pull contrasting fresh bake against discounters by Thursday.",
-   "Mai: Post Diwali box-of-6 gift sleeve online by Friday."
+   "Sam: Film small-batch Brooklyn baking content by Thursday.",
+   "Mai: Set up Diwali bakery hamper displays by Friday.",
+   "Méline: Approve the holiday shipping box lineup by Monday."
   ]
  },
  "occasions": {
-  "generated_at": "2026-10-27T00:28:55.264761+00:00",
-  "headline": "Shoppers seek affordable warmth across upcoming holidays, favoring festive food novelties over generic store discounts.",
+  "generated_at": "2026-10-28T02:19:38.614648+00:00",
+  "headline": "Holiday budgets tighten as 71% of shoppers pull back on Halloween spend, pivoting to high-value food moments.",
   "occasions": [
    {
     "colors": [
@@ -1042,50 +1010,53 @@
     ],
     "date": "2026-10-31",
     "evidence": [
-     "oc-2813926d",
-     "oc-7f3c66df",
-     "oc-1f76a070"
+     "oc-b58c0f67",
+     "oc-d2cc3586"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-7ecd2ce3"
+       "oc-64b99169"
       ],
-      "fact": "Ferrero reported over 50% of American adults want Halloween recognized as an official national holiday.",
+      "fact": "67% of U.S. consumers believe Halloween has become too expensive this year.",
       "kind": "Think"
      },
      {
       "evidence": [
-       "oc-1f76a070",
        "oc-6c4ae319"
       ],
-      "fact": "NRF forecasts $13.5 billion in spend, though LendingTree finds 1 in 4 anticipate holiday debt.",
-      "kind": "Buy"
+      "fact": "Nearly 1 in 4 celebrators anticipate debt from holiday spending.",
+      "kind": "Feel"
      },
      {
       "evidence": [
-       "oc-ba927df7",
-       "oc-cffbfdc6"
+       "oc-f653d0b5"
       ],
-      "fact": "Falling on a Saturday lets party hosts take advantage of the daylight saving time change.",
+      "fact": "Spider-Man leads 2026 costume search volume by a wide margin.",
       "kind": "Do"
      },
      {
       "evidence": [
-       "oc-2813926d",
-       "oc-7f3c66df"
+       "oc-f920ef50"
       ],
-      "fact": "Feeds fill with Latin star DIY costumes and celebrity looks from Kim Kardashian and Paris Hilton.",
+      "fact": "Americans are expected to spend $4.1 billion on candy this year.",
+      "kind": "Buy"
+     },
+     {
+      "evidence": [
+       "oc-62777d14"
+      ],
+      "fact": "TikTok predicts viral costumes while users share budget-friendly treats.",
       "kind": "Post"
      }
     ],
     "key": "halloween",
-    "mood": "Excited for a weekend celebration, but watching wallets closely on decor and packaged treats.",
-    "name": "Halloween · 2026-10-31 (4 days)",
+    "mood": "Consumers feel squeezed as 71% plan to spend less due to rising costs.",
+    "name": "Halloween",
     "note": "A spooky flavor of the week, shop only",
-    "our_move": "Feature a spooky flavor of the week at the counter on Saturday with zero discounting.",
+    "our_move": "Bake a spooky flavor of the week, shop only.",
     "owner": "Mai",
-    "theme": "Saturday party night meets budget candy crunches"
+    "theme": "Spooky sticker shock"
    },
    {
     "colors": [
@@ -1095,42 +1066,54 @@
     ],
     "date": "2026-11-08",
     "evidence": [
-     "oc-bb1a3140",
-     "oc-fca07c1c",
-     "oc-6474f00d"
+     "oc-b2cc51d0",
+     "oc-1b96ee16"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-d7cbed98"
+       "oc-d297d1f4"
       ],
-      "fact": "Medindia notes families prioritize emotional bonding and tradition preservation over purely commercial festivities this year.",
+      "fact": "71% of users prioritize value over speed on quick commerce platforms.",
       "kind": "Think"
      },
      {
       "evidence": [
-       "oc-bb1a3140",
-       "oc-690dc41c"
+       "oc-570c6e60"
       ],
-      "fact": "CNBCTV18 reports festive gifting is shifting beyond mithai toward premium baked goods and curated gourmet hampers.",
+      "fact": "Diwali brings a glow-up spirit and excitement for festive gatherings.",
+      "kind": "Feel"
+     },
+     {
+      "evidence": [
+       "oc-1b96ee16"
+      ],
+      "fact": "Families look beyond mithai to find unique festive bakes.",
+      "kind": "Do"
+     },
+     {
+      "evidence": [
+       "oc-23b9bc7d"
+      ],
+      "fact": "Amazon Now is the top platform for last-minute Diwali shopping.",
       "kind": "Buy"
      },
      {
       "evidence": [
-       "oc-3327ff1d",
-       "oc-cc481b73"
+       "oc-98cebf26",
+       "oc-72c8eeb7"
       ],
-      "fact": "LocalCircles found 72% of surveyed holiday flyers face steep airfares when traveling home for celebrations.",
-      "kind": "Do"
+      "fact": "Creators share diabetic-friendly festive treat tips and candle hampers.",
+      "kind": "Post"
      }
     ],
     "key": "diwali",
-    "mood": "Deeply joyful and focused on family reunions, despite soaring travel costs and crowded market prep.",
-    "name": "Diwali · 2026-11-08 (12 days)",
+    "mood": "Shoppers seek value, mindful treats, and meaningful gifts over standard boxes.",
+    "name": "Diwali",
     "note": "",
-    "our_move": "Observe gourmet gift hamper patterns quietly without introducing a dedicated product line this year.",
-    "owner": "Nobody yet",
-    "theme": "Modern gourmet gifting and family reunions"
+    "our_move": "Launch curated gift boxes highlighting spiced seasonal flavor notes.",
+    "owner": "Mai",
+    "theme": "Mindful festive gifting"
    },
    {
     "colors": [
@@ -1140,47 +1123,53 @@
     ],
     "date": "2026-11-26",
     "evidence": [
-     "nw-811872ae",
-     "oc-a0f1c1fa",
-     "oc-a1a35930"
+     "nw-63837787",
+     "oc-5a5b62e7"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-47ff6771"
+       "oc-2156e246"
       ],
-      "fact": "Aldi launched a complete dinner deal for 10 people priced under $39 to combat grocery inflation.",
-      "kind": "Buy"
+      "fact": "55% of people prefer canned cranberry sauce over homemade.",
+      "kind": "Think"
      },
      {
       "evidence": [
        "oc-b588a20e"
       ],
-      "fact": "USA Today reports dining hosts stress over comfort during marathon hours spent around dinner tables.",
+      "fact": "Many guests rate their dining-chair comfort surprisingly low during long meals.",
       "kind": "Feel"
      },
      {
       "evidence": [
        "oc-a0f1c1fa"
       ],
-      "fact": "Regional bakeries and restaurants already opened takeout orders for pre-made desserts and side dishes.",
+      "fact": "Bakers and restaurants prepare takeout dessert options for home hosts.",
       "kind": "Do"
      },
      {
       "evidence": [
-       "nw-811872ae"
+       "oc-29da98bd"
       ],
-      "fact": "The Kitchn reports first-time hosts increasingly rely on budget supermarket bundles to feed holiday crowds.",
-      "kind": "Think"
+      "fact": "Americans plan to spend $127 billion over the Thanksgiving weekend.",
+      "kind": "Buy"
+     },
+     {
+      "evidence": [
+       "oc-23957c9d"
+      ],
+      "fact": "Miranda Lambert shares halftime show news ahead of Dallas Cowboys game.",
+      "kind": "Post"
      }
     ],
     "key": "thanksgiving",
-    "mood": "Hosts feel inflation pressure, turning toward low-cost grocery dinner deals and bakery conveniences.",
-    "name": "Thanksgiving · 2026-11-26 (30 days)",
+    "mood": "Hosts focus on comfort and easy ordering amid mixed cost reports.",
+    "name": "Thanksgiving",
     "note": "Pie-flavored cookie; content, no sale",
-    "our_move": "Film behind-the-counter baking of our pie-flavored cookie, celebrating table traditions with zero promotional discount.",
+    "our_move": "Bake pie-flavored cookies with social content, no sale.",
     "owner": "Sam",
-    "theme": "Budget tables and early bakery orders"
+    "theme": "Comfort table favorites"
    },
    {
     "colors": [
@@ -1189,46 +1178,53 @@
     ],
     "date": "2026-12-04",
     "evidence": [
-     "oc-a91c11d3",
-     "oc-1c83c31f"
+     "oc-061af896",
+     "oc-a91c11d3"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-7e18e59f"
+       "oc-061af896"
       ],
-      "fact": "Jewish Telegraphic Agency highlights expanding representation with Mattel debuting an authentically designed Hanukkah Barbie.",
+      "fact": "Disney offers a wide range of Hanukkah gifts online and in parks.",
       "kind": "Think"
      },
      {
       "evidence": [
-       "oc-1c83c31f"
+       "oc-7e9f69d4"
       ],
-      "fact": "Israel National News reports community centers and families coordinate eight-night gatherings weeks before the first candle.",
-      "kind": "Do"
-     },
-     {
-      "evidence": [
-       "oc-a91c11d3"
-      ],
-      "fact": "Disney launched dedicated Hanukkah holiday merch guides as early family gift shopping begins in November.",
-      "kind": "Buy"
+      "fact": "Communities celebrate the festival of lights with theatrical and local events.",
+      "kind": "Feel"
      },
      {
       "evidence": [
        "oc-e263e4cf"
       ],
-      "fact": "Carriers like USPS and FedEx publicized shipping cutoffs, prompting shoppers to plan parcel mailing early.",
+      "fact": "Shoppers review holiday shipping deadlines for timely deliveries.",
+      "kind": "Do"
+     },
+     {
+      "evidence": [
+       "oc-3b8531ac"
+      ],
+      "fact": "Buyers purchase specialized holiday stamps and collectible items.",
+      "kind": "Buy"
+     },
+     {
+      "evidence": [
+       "oc-a91c11d3"
+      ],
+      "fact": "Creators share festive guides featuring traditional foods and lights.",
       "kind": "Post"
      }
     ],
     "key": "hanukkah",
-    "mood": "Organized and community-centered, with shoppers planning mail-order gifts well ahead of December deadlines.",
-    "name": "Hanukkah · 2026-12-04 (38 days)",
+    "mood": "Families plan early with themed merchandise, books, and festive treats.",
+    "name": "Hanukkah",
     "note": "",
-    "our_move": "Set website shipping notices for Hanukkah boxes to arrive comfortably before December fourth without price cutting.",
+    "our_move": "Feature sharing boxes suited for family gatherings and celebrations.",
     "owner": "Mai",
-    "theme": "Early shipping deadlines and thoughtful home traditions"
+    "theme": "Festive lights and gifts"
    }
   ]
  },
@@ -1324,10 +1320,12 @@
      "id": "nw-75992251"
     }
    ],
+   "retired_at": "2026-10-28T02:19:38.614648+00:00",
+   "retired_reason": "Replaced by focused Diwali gifting play.",
    "size": "S",
    "slot": "morning",
    "slug": "bakery-boxes-beat-wine-gifts",
-   "status": "new",
+   "status": "retired",
    "tactics": [
     "Film behind the counter in natural daylight using our branded box ribbon.",
     "Post at 5 PM when people plan evening dinner party visits.",
@@ -1394,251 +1392,275 @@
    "title": "Spooky Counter Boxes for Brooklyn Hosts",
    "trend_id": "halloween-chocolate-preference",
    "why_now": "Halloween retail spend hits $13.5B this week and the window closes October 31."
+  },
+  {
+   "approach": [
+    "Showcase the holiday box of 12 cookies.",
+    "Highlight gourmet bakery hampers over mithai.",
+    "Include ordering details for local delivery."
+   ],
+   "brand_relevance": "Our 12-pack box fits luxury festive gifting.",
+   "caption": "Make your Diwali gifting special with our artisanal 12-pack boxes.",
+   "created_at": "2026-10-28T02:19:38.614648+00:00",
+   "cta": "Shop Holiday Box",
+   "doc": {
+    "body": "",
+    "title": "",
+    "to": ""
+   },
+   "due": "2026-11-06",
+   "format": "static",
+   "funnel": "Consideration",
+   "hashtags": [
+    "#diwali",
+    "#gifting",
+    "#bakes",
+    "#cookies",
+    "#holiday"
+   ],
+   "hooks": [
+    "Diwali shoppers seek gourmet bakery hampers over mithai.",
+    "Make your Diwali gifting special with our 12-pack.",
+    "Skip the usual sweets for festive bakes this year."
+   ],
+   "id": "1028-m-diwali-artisanal-gift-hamper",
+   "kpi": "15% lift in box sales",
+   "lane": "Gifting",
+   "message": "Hey Mai, Gourmet bakery hampers surge as shoppers reject mass-scale sweets for Diwali and please publish this static post by 2026-11-06.",
+   "pic": "Mai",
+   "references": [
+    {
+     "borrow": "the framing",
+     "id": "oc-1b96ee16"
+    },
+    {
+     "borrow": "the headline",
+     "id": "oc-23b9bc7d"
+    }
+   ],
+   "size": "M",
+   "slot": "morning",
+   "slug": "diwali-artisanal-gift-hampers",
+   "status": "new",
+   "tactics": [
+    "Publish static post on website and Amazon.",
+    "Tag local delivery regions in the caption.",
+    "Set due date 2 days before launch."
+   ],
+   "title": "Diwali Artisanal Gift Hampers",
+   "trend_id": "diwali-luxury-hampers",
+   "why_now": "Diwali is in 12 days."
   }
  ],
  "questions": {
-  "chai": "Chai: Will we publicly highlight our refusal to discount as Crumbl pushes 99-cent value items?",
-  "coca": "Coca: Méline, should we prep custom sleeves for Diwali boxes shipping nationwide before November 8?",
-  "espresso": "Espresso: Can we extend Halloween shop pickup hours this Saturday to capture late-night party treat runs?",
-  "latte": "Latte: Would counter customers welcome Diwali gift packaging recommendations alongside standard brown bakery boxes?",
-  "matcha": "Matcha: Shall we prioritize Holiday Box of 12 pre-orders immediately after Halloween wraps on Saturday?",
-  "mocha": "Mocha: When Mocha reactivates, should paid social focus primarily on Box of 6 gifting angles?",
-  "tonic": "Tonic: Can Sam film the Crumbl counter-contrast reel during Wednesday morning's first oven bake?"
+  "chai": "Chai: Méline, how should we respond to Levain expanding to Northern California?",
+  "coca": "Coca: Méline, should we prioritize Diwali hampers or holiday boxes first for Amazon?",
+  "espresso": "Espresso: Méline, should we test an apple cider caramel cookie for this weekend's drop?",
+  "latte": "Latte: Méline, should we run a customer survey on preferred holiday box sizes?",
+  "matcha": "Matcha: Méline, does our 12-pack box fit the target price point for Diwali shoppers?",
+  "mocha": "Mocha: Méline, when will the ad desk be enabled for creative strategy testing?",
+  "tonic": "Tonic: Méline, should Mai launch the spooky 4-pack box for Halloween weekend?"
  },
  "radar": {
   "creator_brief": {
-   "concept": "The Anti-Candy Halloween Host Box",
-   "creator": "Brooklyn-based food host or neighborhood dinner party creator",
-   "deliverable": "1x 30-second TikTok / Reel showcasing unboxing fresh bakery cookies for adult party guests",
-   "hook": "Skip the plastic grocery candy bowl for your party this year."
+   "concept": "A local Brooklyn creator visits our shop to build a custom 12-pack holiday gift box for friends.",
+   "creator": "NYC food and lifestyle micro-creator with strong local engagement",
+   "deliverable": "One Instagram reel and one TikTok video",
+   "hook": "Stop buying boring gifts; build a luxury cookie box instead."
   },
-  "generated_at": "2026-10-27T00:28:55.264761+00:00",
-  "headline": "Halloween treat spend peaks at $13.5B while Diwali hampers pivot from generic mithai to artisan bakes.",
+  "generated_at": "2026-10-28T02:19:38.614648+00:00",
+  "headline": "Consumers favor artisanal bakery gifting over traditional sweets as Diwali and holiday shopping accelerate across online channels.",
   "moves": [
    {
     "area": "Cultural events",
     "evidence": [
-     "oc-1f76a070",
-     "nw-b61caf26"
+     "oc-1b96ee16"
     ],
-    "happened": "Shoppers push Halloween spending to records while trading tired grocery candy for bakery treats.",
+    "happened": "Online platforms note a massive surge in consumers choosing curated bakery items and luxury hampers for Diwali 2026 celebrations.",
     "heat": "now",
     "owner": "Mai",
-    "proof": "$13.5 billion retail spend projected by NRF",
-    "relevance": 9,
-    "steal": "Push a spooky counter box for local pickup through Saturday evening.",
-    "title": "Last-minute Halloween treat runs favour premium bakeries over cheap candy",
-    "why_us": "Gives Sunday Cookie Co. the local edge for premium party boxes and neighborhood host gifts."
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "oc-bb1a3140",
-     "oc-690dc41c"
-    ],
-    "happened": "Diwali gift guides spotlight handcrafted bakes and luxury food hampers over standard bulk sweets.",
-    "heat": "this week",
-    "owner": "Mai",
-    "proof": "Featured in festive hampers by MSN and CNBC",
-    "relevance": 8,
-    "steal": "Package a festive gift sleeve for online shipping ahead of November 8.",
-    "title": "Diwali gifting moves beyond mithai toward curated bakery gift hampers",
-    "why_us": "Our 12-cookie gift box perfectly hits the festive premium food hamper demand."
+    "proof": "LocalCircles survey of over 200,000 consumers across 130 districts.",
+    "relevance": 10,
+    "steal": "Position our 12-pack cookie box as the ultimate non-traditional Diwali and holiday gift hamper.",
+    "title": "Diwali shoppers seek gourmet bakery hampers over mithai.",
+    "why_us": "Our 6-pack and 12-pack cookie boxes fit the exact premium gifting demand for festive seasons."
    },
    {
     "area": "Our category",
     "evidence": [
-     "bi-107e3b62",
-     "bi-66ab5a1b"
+     "nw-c55f85ac"
     ],
-    "happened": "Crumbl closes 57 stores nationwide and tests 99-cent value menus to stem foot traffic loss.",
+    "happened": "Home cooks and dessert fans are intensely searching for seasonal apple cakes, cobblers, and caramel-apple cookies.",
     "heat": "this week",
     "owner": "Sam",
-    "proof": "57 closures reported across US markets",
-    "relevance": 8,
-    "steal": "Film counter-side footage emphasizing small-batch trays straight from the oven.",
-    "title": "Rival discounting exposes vulnerability as consumers crave authentic craft cookies",
-    "why_us": "Reinforces our position never to discount, doubling down on freshly baked craft quality."
+    "proof": "Bon Appétit features 43 distinct apple desserts dominating search traffic this week.",
+    "relevance": 9,
+    "steal": "Drop an apple cider caramel cookie flavor on the menu this weekend.",
+    "title": "Fall comfort dessert searches peak around apple orchard treats.",
+    "why_us": "Our small-batch seasonal apple cinnamon cookie recipe captures this exact flavor craving."
    },
    {
-    "area": "Viral social",
+    "area": "Our category",
     "evidence": [
-     "nw-c55f85ac",
-     "nw-8d861d64"
+     "bi-03809ac6",
+     "bi-8140dfa2"
     ],
-    "happened": "Food media rallies around caramel apple, apple butter, and orchard bakes for cozy fall dessert content.",
+    "happened": "Mass cookie chain Crumbl faces plunging sales and store closures following overexpansion and controversial product rollouts.",
     "heat": "this week",
     "owner": "Sam",
-    "proof": "43 apple dessert features on Bon Appetit",
+    "proof": "CEO admits fault as sales drop 70% and dozens of locations close nationwide.",
+    "relevance": 8,
+    "steal": "Emphasize our small-batch Brooklyn roots and honest ingredients in social content.",
+    "title": "Crumbl store closures signal vulnerability for mass-scale cookie chains.",
+    "why_us": "Consumers are actively turning away from artificial mega-chains toward authentic craft bakeries."
+   },
+   {
+    "area": "Cultural events",
+    "evidence": [
+     "oc-64b99169",
+     "cal-95860747"
+    ],
+    "happened": "67% of consumers feel Halloween has become too expensive, pushing them to seek high-value local treats.",
+    "heat": "now",
+    "owner": "Mai",
+    "proof": "Scripps News Halloween spending and price shock survey published October 2026.",
     "relevance": 7,
-    "steal": "Post a close-up warm cookie pull reel showcasing baked apple chunks.",
-    "title": "Apple orchard desserts dominate fall comfort food searches online",
-    "why_us": "Our seasonal spiced apple and caramel flavor fits right into the comfort bake conversation."
+    "steal": "Launch a spooky-themed 4-pack box for final Halloween weekend treat runs.",
+    "title": "Halloween sticker shock drives shoppers to premium treats.",
+    "why_us": "We never discount cookies, but our boxes offer undeniable craftsmanship over overpriced plastic candy."
    }
   ],
   "signals": [
    {
-    "area": "Our category",
+    "area": "Cultural events",
     "evidence": [
-     "bi-35067920",
-     "bi-4b463d65"
+     "cal-95860747"
     ],
-    "heat": "watch",
-    "line": "NYC giant opens Santana Row location validating appetite for thick cookies.",
-    "name": "Levain expands into California",
+    "heat": "now",
+    "line": "Spooky celebrations peak with costumed events and neighborhood treat runs.",
+    "name": "Halloween 2026",
     "relevance": 7
-   },
-   {
-    "area": "Our category",
-    "evidence": [
-     "bi-e4496372",
-     "bi-b90250b8"
-    ],
-    "heat": "watch",
-    "line": "CPG brand rolls out drizzled shortbread and peppermint double chocolate cookies.",
-    "name": "Tate's drops holiday lineup",
-    "relevance": 6
    },
    {
     "area": "Cultural events",
     "evidence": [
-     "oc-bb1a3140",
-     "oc-fca07c1c"
+     "oc-1b96ee16"
     ],
     "heat": "this week",
-    "line": "Festive coverage shifts toward artisanal bakes and luxury gift boxes.",
-    "name": "Diwali hamper guides go live",
+    "line": "Festive shoppers seek high-end edible gifts and luxury hampers.",
+    "name": "Diwali gifting",
+    "relevance": 10
+   },
+   {
+    "area": "Our category",
+    "evidence": [
+     "nw-c55f85ac"
+    ],
+    "heat": "this week",
+    "line": "Baking content focuses heavily on orchard-fresh apple cakes and pastries.",
+    "name": "Apple dessert surge",
+    "relevance": 9
+   },
+   {
+    "area": "Our category",
+    "evidence": [
+     "bi-03809ac6"
+    ],
+    "heat": "this week",
+    "line": "Plummeting sales force store closures across multiple states.",
+    "name": "Crumbl struggles",
     "relevance": 8
    },
    {
-    "area": "Cultural events",
+    "area": "Hashtags",
     "evidence": [
-     "oc-cb735ad2",
-     "oc-7336a7b6"
-    ],
-    "heat": "now",
-    "line": "Shoppers notice candy cost jumps, opening space for premium baked counter gifts.",
-    "name": "Halloween candy inflation talks",
-    "relevance": 7
-   },
-   {
-    "area": "Viral social",
-    "evidence": [
-     "nw-c55f85ac",
-     "nw-1e995577"
+     "oc-1b96ee16"
     ],
     "heat": "this week",
-    "line": "Caramel apple and orchard flavors lead fall editorial dessert features.",
-    "name": "Cozy fall apple bakes",
-    "relevance": 7
+    "line": "Use to tag curated gift hamper posts targeting festive shoppers.",
+    "name": "#diwali",
+    "relevance": 8
    },
    {
-    "area": "Viral social",
+    "area": "Hashtags",
     "evidence": [
-     "nw-fae51ecd",
-     "nw-ee7a34a7"
+     "nw-c55f85ac"
     ],
     "heat": "this week",
-    "line": "Bakers share quick loaves and spiced treats as colder weather sets in.",
-    "name": "Canned pumpkin recipe wave",
-    "relevance": 6
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "oc-a1a35930",
-     "oc-b588a20e"
-    ],
-    "heat": "watch",
-    "line": "Early articles tackle seating comfort and meal budgets a month out.",
-    "name": "Thanksgiving host prep chatter",
-    "relevance": 5
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "oc-a91c11d3",
-     "oc-7e18e59f"
-    ],
-    "heat": "watch",
-    "line": "Retailers and media begin spotlighting Hanukkah gifting guides and items.",
-    "name": "Early Hanukkah merchandise rollout",
-    "relevance": 5
+    "line": "Pair with close-up footage of warm cinnamon and apple cookies.",
+    "name": "#fallbaking",
+    "relevance": 7
    },
    {
     "area": "Search spikes",
     "evidence": [
-     "gt-c03cd8a7"
+     "gt-b477a0a8"
     ],
-    "heat": "this week",
-    "line": "High sports interest creates demand for easy living-room viewing watch-party snacks.",
-    "name": "World Series game nights",
+    "heat": "watch",
+    "line": "Brewers and Rays matchup drives massive regional viewing spikes.",
+    "name": "World Series",
+    "relevance": 3
+   },
+   {
+    "area": "Pop culture",
+    "evidence": [
+     "nw-9b826b03"
+    ],
+    "heat": "watch",
+    "line": "Major chains introduce festive beverage menus ahead of schedule.",
+    "name": "Holiday drink rollouts",
     "relevance": 4
-   },
-   {
-    "area": "Hashtags",
-    "evidence": [
-     "oc-1f76a070"
-    ],
-    "heat": "now",
-    "line": "Tag for last-minute party boxes, spooky cookie pulls, and counter pickup.",
-    "name": "#HalloweenTreats",
-    "relevance": 8
-   },
-   {
-    "area": "Hashtags",
-    "evidence": [
-     "oc-bb1a3140"
-    ],
-    "heat": "this week",
-    "line": "Use on elegant 12-box gifting carousels framed as modern sweet hampers.",
-    "name": "#DiwaliGifts",
-    "relevance": 7
    }
   ],
   "skip": [
    {
-    "name": "Fast-food chain lawsuits and disputes",
-    "why": "Legal battles over shrimp weights or tip credits dilute our warm neighborhood counter voice."
+    "name": "Dirty soda trends",
+    "why": "High-sugar beverage experiments are crashing as consumer preferences shift."
    },
    {
-    "name": "Celebrity tabloid updates",
-    "why": "Hollywood legal drama does not connect to warm small-batch Brooklyn cookie gifting."
-   },
-   {
-    "name": "99-cent cookie discount price wars",
-    "why": "Sunday Cookie Co. never discounts cookies; we protect margin and small-batch craft equity."
+    "name": "Mass candy discounts",
+    "why": "We never discount our cookies or race to the bottom on price."
    }
   ],
   "watch": [
    {
     "direction": "rising",
-    "line": "Early guides and collections emerge over a month ahead of the holiday.",
-    "name": "Hanukkah merchandise reveals"
+    "line": "Classic pumpkin baking content surges across culinary sites.",
+    "name": "Pumpkin loaf recipes"
    },
    {
     "direction": "rising",
-    "line": "Food waste conversation explores upcycling leftover bread into pasta and treats.",
-    "name": "Upcycled bakery ingredients"
+    "line": "71% of users prioritize value over speed amid high delivery charges.",
+    "name": "Quick commerce fees"
+   },
+   {
+    "direction": "rising",
+    "line": "Fast-food giants launch festive menus earlier than ever.",
+    "name": "Holiday drink debuts"
    },
    {
     "direction": "fading",
-    "line": "Cheez-It and mock pie recipes gain seasonal traction across food sites.",
-    "name": "Savory snack mashups"
+    "line": "Major brands step away from long-standing sports tournament sponsorships.",
+    "name": "FIFA World Cup exits"
+   },
+   {
+    "direction": "fading",
+    "line": "Basic flavor fatigue sets in as consumers transition to apple and spice.",
+    "name": "Pumpkin spice saturation"
    }
   ],
   "week": [
-   "Wed · Last-minute Halloween party panic · Sam posts 12-pack party treat reel",
-   "Thu · Spooky gift run peaks · Mai readies in-shop Halloween counter trays",
-   "Fri · Halloween weekend hosts arrive · Offer shop pick-up for evening gatherings",
-   "Sat · Halloween game day · Mai features fresh pumpkin and black cocoa cookies",
-   "Sun · Daylight saving reset · Post cozy morning cookie and coffee pairing",
-   "Mon · Post-Halloween gift pivot · Launch Diwali hamper curation on website",
-   "Tue · Midterm voting day · Share counter welcome sticker for neighborhood voters"
+   "Mon · Halloween countdown · Film a quick box-packing reel for local spooky treat runs.",
+   "Tue · Election Day eve · Share a comforting bakery scene for followers taking a screen break.",
+   "Wed · Early November shift · Highlight our core 6-pack box as the ideal autumn gift.",
+   "Thu · Diwali prep week · Launch the curated bakery gift hamper messaging on the website.",
+   "Fri · Weekend treat run · Post a POV video of fresh cookies coming out of the oven.",
+   "Sat · Small business focus · Showcase our Brooklyn kitchen and small-batch baking process.",
+   "Sun · Sunday reset · Feature warm cookie imagery to capture end-of-weekend comfort cravings."
   ]
  },
  "reports": {
-  "morning": "2026-10-27T00:28:55.264761+00:00"
+  "morning": "2026-10-28T02:19:38.614648+00:00"
  },
  "runs": [
   {
@@ -1847,6 +1869,75 @@
     "studio_failed": [],
     "usd": 0.0
    }
+  },
+  {
+   "at": "2026-10-28T02:19:38.614648+00:00",
+   "new_plays": 1,
+   "signals": 137,
+   "slot": "morning",
+   "usage": {
+    "board": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "high",
+     "input": 15951,
+     "model": "gemini-flash-lite-latest",
+     "output": 3910,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "brands": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "medium",
+     "input": 3945,
+     "model": "gemini-flash-lite-latest",
+     "output": 592,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "free": true,
+    "occasions": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "medium",
+     "input": 7515,
+     "model": "gemini-flash-lite-latest",
+     "output": 1141,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "provider": "gemini",
+    "radar": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "medium",
+     "input": 13677,
+     "model": "gemini-flash-lite-latest",
+     "output": 2016,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "studio": [
+     {
+      "cache_read": 0,
+      "cache_write": 0,
+      "effort": "medium",
+      "input": 3473,
+      "model": "gemini-flash-lite-latest",
+      "output": 478,
+      "provider": "gemini",
+      "repaired": 0,
+      "usd": 0.0
+     }
+    ],
+    "studio_failed": [],
+    "usd": 0.0
+   }
   }
  ],
  "scouts": {
@@ -1860,25 +1951,25 @@
    "count": 10,
    "note": "",
    "ok": true,
-   "seconds": 0.1
+   "seconds": 0.2
   },
   "news": {
-   "count": 39,
+   "count": 59,
    "note": "",
    "ok": true,
-   "seconds": 2.0
+   "seconds": 2.4
   },
   "occasions": {
-   "count": 50,
+   "count": 48,
    "note": "Halloween, Diwali, Thanksgiving, Hanukkah",
    "ok": true,
-   "seconds": 15.3
+   "seconds": 16.1
   },
   "rivals": {
-   "count": 10,
+   "count": 7,
    "note": "",
    "ok": true,
-   "seconds": 7.5
+   "seconds": 7.9
   },
   "shop": {
    "count": 4,
@@ -1890,35 +1981,35 @@
  "slot": "morning",
  "staff": {
   "chai": {
-   "learned": "No huddle occurred; evaluated competitor moves against standing no-discount policy rules.",
-   "status": "Chai: Monitoring Crumbl closures, 99-cent menus, and Tate's grocery expansion moves."
+   "learned": "Chai: Learned that Levain is expanding to Northern California.",
+   "status": "Chai: Monitoring competitor moves from Tate's and Levain."
   },
   "coca": {
-   "learned": "No huddle occurred; worked strictly from the standing brief and radar signals.",
-   "status": "Coca: Synthesizing Halloween treat spend signals and aligning weekly priorities."
+   "learned": "Coca: Learned that gourmet bakery hampers are winning Diwali gifting over traditional sweets.",
+   "status": "Coca: Directing strategy desk and executive summary."
   },
   "espresso": {
-   "learned": "No huddle occurred; tracked cultural spikes directly from verified news and calendar.",
-   "status": "Espresso: Tracking Halloween spend surges and early November Diwali food gifting trends."
+   "learned": "Espresso: Learned that 200,000 consumers surveyed prefer curated bakery items.",
+   "status": "Espresso: Tracking cultural shifts and Diwali bakery trends."
   },
   "latte": {
-   "learned": "Latte notes customer voice desk is switched off; no huddle held.",
-   "status": "Latte: Listening to customer cravings for authentic bakery gifts; voice desk off."
+   "learned": "Latte: No huddle held; customer voice desk remains switched off.",
+   "status": "Latte: Customer voice desk is offline for this trial office."
   },
   "matcha": {
-   "learned": "No huddle occurred; scored opportunities against margin rules and calendar deadlines.",
-   "status": "Matcha: Scoring 10 new opportunities and commissioning four cross-channel plays today."
+   "learned": "Matcha: Learned that small-batch positioning protects against mass-chain fatigue.",
+   "status": "Matcha: Scoring brand opportunities against catalog and pillars."
   },
   "mocha": {
-   "learned": "Mocha notes ad desk is switched off; no huddle held this sweep.",
-   "status": "Mocha: Reviewing competitor ad shifts away from discounting; ad desk remains off."
+   "learned": "Mocha: No huddle held; ad desk remains switched off.",
+   "status": "Mocha: Ad desk is offline for this trial office."
   },
   "tonic": {
-   "learned": "No huddle occurred; routed top plays directly to assigned team lanes.",
-   "status": "Tonic: Assigning fresh production tickets to Sam and Mai for immediate execution."
+   "learned": "Tonic: Learned that active plays require updating to match current news signals.",
+   "status": "Tonic: Managing active team tickets and play workflow."
   }
  },
- "swept_at": "2026-10-27T00:29:10.533035+00:00",
+ "swept_at": "2026-10-28T02:19:54.758716+00:00",
  "trend_history": [
   {
    "first_seen": "2026-10-25T11:58:12.889185+00:00",
@@ -1961,78 +2052,6 @@
    "verdict": "Watch"
   },
   {
-   "first_seen": "2026-10-26T01:14:14.328955+00:00",
-   "id": "sports-youth-giveaways",
-   "last_seen": "2026-10-26T01:14:14.328955+00:00",
-   "name": "Free food sports promos",
-   "times": 1,
-   "verdict": "Skip"
-  },
-  {
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "id": "diwali-luxury-hampers",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Diwali Artisanal Gift Hampers",
-   "times": 3,
-   "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "id": "halloween-chocolate-preference",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Halloween Bakery Treat Rush",
-   "times": 3,
-   "verdict": "Act today"
-  },
-  {
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "id": "tates-holiday-lineup",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Grocery Cookie Seasonal Rollout",
-   "times": 3,
-   "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "id": "levain-expansion",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Craft Bakery Geographic Expansion",
-   "times": 3,
-   "verdict": "Watch"
-  },
-  {
-   "first_seen": "2026-10-26T01:14:14.328955+00:00",
-   "id": "celebrity-halloween-costumes",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Celebrity Halloween Costume Circus",
-   "times": 2,
-   "verdict": "Skip"
-  },
-  {
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "id": "crumbl-discounting-backlash",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Fast-Bake Value Fatigue",
-   "times": 1,
-   "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "id": "orchard-apple-craze",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Orchard Fruit Fall Comfort",
-   "times": 1,
-   "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "id": "early-hanukkah-merch",
-   "last_seen": "2026-10-27T00:28:55.264761+00:00",
-   "name": "Early Hanukkah Gifting Spotlights",
-   "times": 1,
-   "verdict": "Watch"
-  },
-  {
    "first_seen": "2026-10-27T00:28:55.264761+00:00",
    "id": "upcycled-bread-baking",
    "last_seen": "2026-10-27T00:28:55.264761+00:00",
@@ -2047,263 +2066,321 @@
    "name": "Halloween Fast Food Freebies",
    "times": 1,
    "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-10-26T01:14:14.328955+00:00",
+   "id": "sports-youth-giveaways",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Free Food Sports Promos",
+   "times": 2,
+   "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "id": "diwali-luxury-hampers",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Diwali Artisanal Gift Hampers",
+   "times": 4,
+   "verdict": "Act today"
+  },
+  {
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "id": "halloween-chocolate-preference",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Halloween Bakery Treat Rush",
+   "times": 4,
+   "verdict": "Act today"
+  },
+  {
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "id": "tates-holiday-lineup",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Grocery Cookie Seasonal Rollout",
+   "times": 4,
+   "verdict": "This week"
+  },
+  {
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "id": "levain-expansion",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Craft Bakery Geographic Expansion",
+   "times": 4,
+   "verdict": "Watch"
+  },
+  {
+   "first_seen": "2026-10-26T01:14:14.328955+00:00",
+   "id": "celebrity-halloween-costumes",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Celebrity Halloween Costume Circus",
+   "times": 3,
+   "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-10-27T00:28:55.264761+00:00",
+   "id": "crumbl-discounting-backlash",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Fast-Bake Value Fatigue",
+   "times": 2,
+   "verdict": "This week"
+  },
+  {
+   "first_seen": "2026-10-27T00:28:55.264761+00:00",
+   "id": "orchard-apple-craze",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Orchard Fruit Fall Comfort",
+   "times": 2,
+   "verdict": "This week"
+  },
+  {
+   "first_seen": "2026-10-27T00:28:55.264761+00:00",
+   "id": "early-hanukkah-merch",
+   "last_seen": "2026-10-28T02:19:38.614648+00:00",
+   "name": "Early Hanukkah Gifting Spotlights",
+   "times": 2,
+   "verdict": "Watch"
   }
  ],
  "trends": [
   {
    "category": "Gifting & occasions",
    "evidence": [
-    "oc-1f76a070",
-    "cal-95860747",
-    "oc-cb735ad2"
+    "oc-1b96ee16",
+    "oc-23b9bc7d"
    ],
    "first_seen": "2026-10-25T11:58:12.889185+00:00",
    "fit": {
     "persona": "The gifter",
     "pillar": "Gifting & occasions",
-    "product_key": "box-of-6"
-   },
-   "formats": [
-    "story",
-    "reel",
-    "carousel"
-   ],
-   "funnel": "Conversion",
-   "id": "halloween-chocolate-preference",
-   "insight": "Shoppers trade mass candy for premium bakery boxes during record spending.",
-   "looks": [],
-   "momentum": "peaking",
-   "move": "Stock fresh party boxes for counter pickup through Saturday afternoon.",
-   "name": "Halloween Bakery Treat Rush",
-   "platforms": [
-    "News",
-    "Search",
-    "Calendar"
-   ],
-   "refs": [],
-   "relevance": 92,
-   "risk": "Window closes strictly on October 31 as festivities end.",
-   "scores": {
-    "brand_fit": 9,
-    "ease": 9,
-    "momentum": 9,
-    "reach": 9,
-    "urgency": 10
-   },
-   "search_terms": [
-    "halloween bakery treats",
-    "halloween party cookies",
-    "last minute treats"
-   ],
-   "verdict": "Act today",
-   "verified": true,
-   "what": "NRF reports Halloween retail spend reaching $13.5 billion with surging appetite for bakery-quality treats.",
-   "why_us": "Our $18 Box of 6 gives Brooklyn hosts a premium upgrade over grocery candy.",
-   "window": "Closes October 31"
-  },
-  {
-   "category": "Competitor move",
-   "evidence": [
-    "bi-8140dfa2",
-    "bi-66ab5a1b",
-    "bi-107e3b62"
-   ],
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "fit": {
-    "persona": "The weekend treat-er",
-    "pillar": "Behind the counter",
-    "product_key": "brown-butter-chocolate-chip"
-   },
-   "formats": [
-    "tiktok",
-    "reel"
-   ],
-   "funnel": "Awareness",
-   "id": "crumbl-discounting-backlash",
-   "insight": "Rival store closures and deep discounts highlight customer fatigue with mass gimmicks.",
-   "looks": [],
-   "momentum": "rising",
-   "move": "Film unedited oven tray pulls celebrating real ingredients and uncompromised sizing.",
-   "name": "Fast-Bake Value Fatigue",
-   "platforms": [
-    "News",
-    "TikTok"
-   ],
-   "refs": [],
-   "relevance": 82,
-   "risk": "Coming across as petty if we name rivals directly.",
-   "scores": {
-    "brand_fit": 9,
-    "ease": 8,
-    "momentum": 8,
-    "reach": 8,
-    "urgency": 7
-   },
-   "search_terms": [
-    "crumbl closures",
-    "cookie quality drop",
-    "bakery fresh batch"
-   ],
-   "verdict": "This week",
-   "verified": true,
-   "what": "Crumbl shuttered 57 stores and rolled out 99-cent items to combat declining foot traffic.",
-   "why_us": "We hold full price and highlight small-batch craft right from our Brooklyn counter.",
-   "window": "Next two weeks"
-  },
-  {
-   "category": "Gifting & occasions",
-   "evidence": [
-    "oc-bb1a3140",
-    "oc-690dc41c",
-    "cal-2594b3c3"
-   ],
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "fit": {
-    "persona": "The gifter",
-    "pillar": "Gifting & occasions",
-    "product_key": "box-of-6"
-   },
-   "formats": [
-    "carousel",
-    "static",
-    "creator_brief"
-   ],
-   "funnel": "Consideration",
-   "id": "diwali-luxury-hampers",
-   "insight": "Festive gifting shifts from mass mithai boxes toward premium craft bakery selections.",
-   "looks": [],
-   "momentum": "rising",
-   "move": "Introduce online festive gift band positioning boxes for Diwali hospitality.",
-   "name": "Diwali Artisanal Gift Hampers",
-   "platforms": [
-    "News",
-    "Search",
-    "Calendar"
-   ],
-   "refs": [],
-   "relevance": 78,
-   "risk": "Shipping cutoff requires immediate ordering for on-time arrival.",
-   "scores": {
-    "brand_fit": 8,
-    "ease": 7,
-    "momentum": 8,
-    "reach": 7,
-    "urgency": 8
-   },
-   "search_terms": [
-    "diwali gift hampers",
-    "diwali bakery box",
-    "modern diwali sweets"
-   ],
-   "verdict": "This week",
-   "verified": true,
-   "what": "Gift guides spotlight gourmet bakes and luxury food boxes for Diwali celebrations on November 8.",
-   "why_us": "Our Box of 6 and Holiday Box of 12 offer beautifully packaged host gifts.",
-   "window": "Closes November 8"
-  },
-  {
-   "category": "Competitor move",
-   "evidence": [
-    "bi-e4496372",
-    "bi-b90250b8"
-   ],
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "fit": {
-    "persona": "The gifter",
-    "pillar": "Fresh out of the oven",
     "product_key": "holiday-box-of-12"
    },
    "formats": [
-    "carousel",
-    "reel"
+    "reel",
+    "story",
+    "pr_pitch"
    ],
    "funnel": "Consideration",
-   "id": "tates-holiday-lineup",
-   "insight": "Commercial shelf-stable holiday cookies flood supermarket aisles months ahead of winter holidays.",
+   "id": "diwali-luxury-hampers",
+   "insight": "Diwali shoppers seek gourmet bakery hampers over mithai.",
    "looks": [],
    "momentum": "rising",
-   "move": "Position warm bakery pickup as the antidote to months-old grocery shelf boxes.",
-   "name": "Grocery Cookie Seasonal Rollout",
+   "move": "Position our 12-pack cookie box as a non-traditional Diwali gift hamper.",
+   "name": "Diwali Artisanal Gift Hampers",
    "platforms": [
     "News",
     "Search"
    ],
    "refs": [],
-   "relevance": 70,
-   "risk": "Shoppers buying early convenience over fresh bakery quality.",
+   "relevance": 88,
+   "risk": "Traditional sweet brands capture gifting share.",
    "scores": {
-    "brand_fit": 7,
-    "ease": 8,
-    "momentum": 7,
-    "reach": 7,
-    "urgency": 6
+    "brand_fit": 9,
+    "ease": 9,
+    "momentum": 9,
+    "reach": 8,
+    "urgency": 9
    },
    "search_terms": [
-    "holiday cookies grocery",
-    "tates holiday line",
-    "fresh vs grocery cookies"
+    "Diwali gift hamper",
+    "festive bakery box"
    ],
-   "verdict": "This week",
+   "verdict": "Act today",
    "verified": true,
-   "what": "Tate's Bake Shop launched 2 holiday flavours nationwide in grocery aisles across the country.",
-   "why_us": "Factory cookies in plastic cannot replicate warm brown butter aroma from local ovens.",
-   "window": "November through December"
+   "what": "LocalCircles survey of 200,000 consumers across 130 districts shows rising demand for curated bakery items.",
+   "why_us": "Our 12-pack box fits luxury festive gifting.",
+   "window": "12 days"
+  },
+  {
+   "category": "Gifting & occasions",
+   "evidence": [
+    "oc-64b99169",
+    "cal-95860747"
+   ],
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "fit": {
+    "persona": "The weekend treat-er",
+    "pillar": "Fresh out of the oven",
+    "product_key": "box-of-6"
+   },
+   "formats": [
+    "story",
+    "reel",
+    "seeding"
+   ],
+   "funnel": "Conversion",
+   "id": "halloween-chocolate-preference",
+   "insight": "Halloween sticker shock drives shoppers to premium local treats.",
+   "looks": [],
+   "momentum": "peaking",
+   "move": "Launch a spooky-themed 4-pack box for final Halloween weekend treat runs.",
+   "name": "Halloween Bakery Treat Rush",
+   "platforms": [
+    "News"
+   ],
+   "refs": [],
+   "relevance": 86,
+   "risk": "Shoppers default to cheap mass candy.",
+   "scores": {
+    "brand_fit": 8,
+    "ease": 9,
+    "momentum": 9,
+    "reach": 8,
+    "urgency": 10
+   },
+   "search_terms": [
+    "Halloween treats local",
+    "spooky bakery box"
+   ],
+   "verdict": "Act today",
+   "verified": true,
+   "what": "Scripps News survey finds 67% of consumers feel Halloween has become too expensive.",
+   "why_us": "Our local shop offers high-value indulgence.",
+   "window": "48 hours"
   },
   {
    "category": "Food & baking",
    "evidence": [
-    "nw-c55f85ac",
-    "nw-8d861d64",
-    "nw-ee7a34a7"
+    "nw-c55f85ac"
    ],
    "first_seen": "2026-10-27T00:28:55.264761+00:00",
    "fit": {
     "persona": "The weekend treat-er",
     "pillar": "Flavor drops",
-    "product_key": "pumpkin-spice-snickerdoodle"
+    "product_key": "brown-butter-chocolate-chip"
    },
    "formats": [
     "reel",
+    "tiktok",
     "story"
    ],
-   "funnel": "Awareness",
+   "funnel": "Consideration",
    "id": "orchard-apple-craze",
-   "insight": "Audiences embrace classic harvest flavours as comforting seasonal temperatures cool.",
+   "insight": "Fall comfort dessert searches peak around apple orchard treats.",
    "looks": [],
-   "momentum": "steady",
-   "move": "Feature warm spiced snickerdoodles alongside hot cider on social channels.",
+   "momentum": "peaking",
+   "move": "Drop an apple cider caramel cookie flavor on the menu this weekend.",
    "name": "Orchard Fruit Fall Comfort",
    "platforms": [
-    "News",
     "Search",
-    "Instagram"
+    "News"
    ],
    "refs": [],
-   "relevance": 66,
-   "risk": "Crowded recipe landscape across lifestyle food media.",
+   "relevance": 84,
+   "risk": "Failing to capture seasonal flavor demand.",
    "scores": {
-    "brand_fit": 7,
+    "brand_fit": 9,
     "ease": 8,
-    "momentum": 6,
-    "reach": 7,
-    "urgency": 5
+    "momentum": 8,
+    "reach": 8,
+    "urgency": 8
    },
    "search_terms": [
-    "orchard desserts",
-    "apple spice bakes",
-    "fall cookie flavors"
+    "apple desserts",
+    "apple caramel cookies"
    ],
    "verdict": "This week",
    "verified": true,
-   "what": "Bon Appétit published 43 apple dessert features highlighting caramel, spice, and orchard fruits.",
-   "why_us": "Pairs perfectly with our Pumpkin Spice Snickerdoodle as mid-fall afternoon treats.",
-   "window": "Through mid-November"
+   "what": "Bon Appétit features 43 distinct apple desserts dominating search traffic this week.",
+   "why_us": "We bake fresh small-batch seasonal cookies.",
+   "window": "4 days"
+  },
+  {
+   "category": "Competitor move",
+   "evidence": [
+    "bi-03809ac6",
+    "bi-8140dfa2"
+   ],
+   "first_seen": "2026-10-27T00:28:55.264761+00:00",
+   "fit": {
+    "persona": "The office hero",
+    "pillar": "Behind the counter",
+    "product_key": "box-of-6"
+   },
+   "formats": [
+    "reel",
+    "tiktok",
+    "static"
+   ],
+   "funnel": "Awareness",
+   "id": "crumbl-discounting-backlash",
+   "insight": "Crumbl store closures signal vulnerability for mass-scale cookie chains.",
+   "looks": [],
+   "momentum": "rising",
+   "move": "Emphasize our small-batch Brooklyn roots and honest ingredients in social content.",
+   "name": "Fast-Bake Value Fatigue",
+   "platforms": [
+    "News"
+   ],
+   "refs": [],
+   "relevance": 80,
+   "risk": "Consumers lump all cookie brands together.",
+   "scores": {
+    "brand_fit": 8,
+    "ease": 9,
+    "momentum": 8,
+    "reach": 7,
+    "urgency": 8
+   },
+   "search_terms": [
+    "Crumbl store closures",
+    "cookie chain sales drop"
+   ],
+   "verdict": "This week",
+   "verified": true,
+   "what": "Crumbl CEO admits fault as sales drop 70% and dozens of locations close nationwide.",
+   "why_us": "Our small-batch model avoids industrial overexpansion.",
+   "window": "7 days"
+  },
+  {
+   "category": "Competitor move",
+   "evidence": [
+    "bi-7dfb8959",
+    "bi-b90250b8"
+   ],
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "fit": {
+    "persona": "The gifter",
+    "pillar": "Gifting & occasions",
+    "product_key": "holiday-box-of-12"
+   },
+   "formats": [
+    "static",
+    "carousel",
+    "story"
+   ],
+   "funnel": "Consideration",
+   "id": "tates-holiday-lineup",
+   "insight": "Grocery brands launch holiday cookies early to capture seasonal spend.",
+   "looks": [],
+   "momentum": "steady",
+   "move": "Highlight our own seasonal box lineup early for holiday shoppers.",
+   "name": "Grocery Cookie Seasonal Rollout",
+   "platforms": [
+    "News"
+   ],
+   "refs": [],
+   "relevance": 71,
+   "risk": "Grocery brands own early holiday mindshare.",
+   "scores": {
+    "brand_fit": 7,
+    "ease": 8,
+    "momentum": 7,
+    "reach": 7,
+    "urgency": 7
+   },
+   "search_terms": [
+    "Tates holiday cookies",
+    "grocery holiday cookies"
+   ],
+   "verdict": "This week",
+   "verified": true,
+   "what": "Tate's Bake Shop launches new Drizzled Shortbread and holiday grocery cookies.",
+   "why_us": "Fresh bakery quality beats grocery boxes.",
+   "window": "14 days"
   },
   {
    "category": "Gifting & occasions",
    "evidence": [
     "oc-a91c11d3",
-    "oc-1c83c31f",
     "cal-b3ac2262"
    ],
    "first_seen": "2026-10-27T00:28:55.264761+00:00",
@@ -2313,219 +2390,174 @@
     "product_key": "holiday-box-of-12"
    },
    "formats": [
-    "static",
-    "pr_pitch"
+    "carousel",
+    "story"
    ],
    "funnel": "Consideration",
    "id": "early-hanukkah-merch",
-   "insight": "Retailers and media begin publishing holiday merchandise guides over a month in advance.",
+   "insight": "Holiday gift guides feature early Hanukkah items alongside winter collections.",
    "looks": [],
    "momentum": "rising",
-   "move": "Finalize December shipping schedules and prepare Hanukkah box packaging assets.",
+   "move": "Feature holiday boxes as ideal early Hanukkah gifts.",
    "name": "Early Hanukkah Gifting Spotlights",
    "platforms": [
-    "News",
-    "Calendar"
+    "News"
    ],
    "refs": [],
-   "relevance": 59,
-   "risk": "Pushing December holiday boxes before Halloween confuses current retail buyers.",
+   "relevance": 68,
+   "risk": "Missing early gifting window for December holidays.",
    "scores": {
     "brand_fit": 7,
-    "ease": 7,
-    "momentum": 5,
+    "ease": 8,
+    "momentum": 7,
     "reach": 6,
-    "urgency": 3
+    "urgency": 6
    },
    "search_terms": [
-    "hanukkah gift guide 2026",
-    "hanukkah treats online"
+    "Hanukkah gift guide",
+    "Hanukkah food gifts"
    ],
    "verdict": "Watch",
    "verified": true,
-   "what": "Disney and national outlets unveiled Hanukkah gift collections 39 days before first candle.",
-   "why_us": "Our Holiday Box of 12 serves December gatherings once festive gifting officially opens.",
-   "window": "Opens late November"
+   "what": "Disney and retailers reveal Hanukkah collections ahead of the December holiday.",
+   "why_us": "Our boxes make ideal Hanukkah hostess gifts.",
+   "window": "38 days"
   },
   {
    "category": "Competitor move",
    "evidence": [
-    "bi-35067920",
-    "bi-4b463d65"
+    "bi-3c3751b9"
    ],
    "first_seen": "2026-10-25T11:58:12.889185+00:00",
    "fit": {
-    "persona": "None",
-    "pillar": "None",
-    "product_key": "brown-butter-chocolate-chip"
+    "persona": "The office hero",
+    "pillar": "Behind the counter",
+    "product_key": "box-of-6"
    },
    "formats": [
+    "reel",
     "static"
    ],
    "funnel": "Awareness",
    "id": "levain-expansion",
-   "insight": "High-profile NYC cookie peers expand physical locations to West Coast high-end hubs.",
+   "insight": "Iconic city bakeries expand regionally to capture national demand.",
    "looks": [],
    "momentum": "steady",
-   "move": "Keep eyes on their retail footprint while focusing on local neighborhood warmth.",
+   "move": "Emulate their regional expansion storytelling on social.",
    "name": "Craft Bakery Geographic Expansion",
    "platforms": [
     "News"
    ],
    "refs": [],
-   "relevance": 48,
-   "risk": "Irrelevant to everyday New York and online gift shoppers.",
+   "relevance": 60,
+   "risk": "Mega-cities dominate bakery narratives.",
    "scores": {
-    "brand_fit": 5,
-    "ease": 6,
-    "momentum": 5,
+    "brand_fit": 6,
+    "ease": 7,
+    "momentum": 6,
     "reach": 6,
-    "urgency": 2
+    "urgency": 5
    },
    "search_terms": [
-    "levain bakery expansion",
-    "santana row levain"
+    "Levain expansion",
+    "famous cookie shop expansion"
    ],
    "verdict": "Watch",
    "verified": true,
-   "what": "Levain confirmed plans for its first Northern California outpost at Santana Row in 2027.",
-   "why_us": "Reinforces pride in our intimate, fiercely local Brooklyn neighborhood kitchen counter.",
-   "window": "Long term 2027"
-  },
-  {
-   "category": "Food & baking",
-   "evidence": [
-    "nw-d2ddc1ba"
-   ],
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "fit": {
-    "persona": "None",
-    "pillar": "None",
-    "product_key": "brown-butter-chocolate-chip"
-   },
-   "formats": [
-    "story"
-   ],
-   "funnel": "Awareness",
-   "id": "upcycled-bread-baking",
-   "insight": "Sustainability coverage explores converting leftover bakery goods into new food products.",
-   "looks": [],
-   "momentum": "steady",
-   "move": "Monitor zero-waste baking chatter but avoid altering core cookie recipes.",
-   "name": "Upcycled Bakery Food Trends",
-   "platforms": [
-    "News"
-   ],
-   "refs": [],
-   "relevance": 38,
-   "risk": "Baking cookies from bread crumbs does not match our premium product.",
-   "scores": {
-    "brand_fit": 4,
-    "ease": 3,
-    "momentum": 4,
-    "reach": 5,
-    "urgency": 2
-   },
-   "search_terms": [
-    "upcycled bread",
-    "bakery food waste solutions"
-   ],
-   "verdict": "Watch",
-   "verified": true,
-   "what": "Food publications covered store-bought pasta created from leftover surplus artisan bread.",
-   "why_us": "We bake small batches daily to order, preventing excess inventory naturally.",
-   "window": "Evergreen"
+   "what": "Levain Bakery brings its famous cookies to Northern California for the first time.",
+   "why_us": "Independent craft status builds local loyalty.",
+   "window": "30 days"
   },
   {
    "category": "Celebrity & pop culture",
    "evidence": [
-    "oc-7f3c66df",
-    "oc-2813926d"
+    "oc-b3878a90",
+    "oc-9a29e749"
    ],
    "first_seen": "2026-10-26T01:14:14.328955+00:00",
    "fit": {
     "persona": "None",
     "pillar": "None",
-    "product_key": "brown-butter-chocolate-chip"
+    "product_key": ""
    },
    "formats": [
-    "story"
+    "static"
    ],
    "funnel": "Awareness",
    "id": "celebrity-halloween-costumes",
-   "insight": "Mass media obsesses over multi-million dollar Hollywood celebrity party costumes.",
+   "insight": "Celebrity costume reveals dominate entertainment feeds.",
    "looks": [],
    "momentum": "peaking",
-   "move": "Ignore celebrity costumes completely; keep our feed focused on fresh cookies.",
+   "move": "Ignore celebrity costume chatter and focus on shop traffic.",
    "name": "Celebrity Halloween Costume Circus",
    "platforms": [
-    "News",
-    "Instagram"
+    "Instagram",
+    "TikTok"
    ],
    "refs": [],
-   "relevance": 46,
-   "risk": "Looking try-hard by meme-ing irrelevant red carpet outfits.",
+   "relevance": 54,
+   "risk": "Distracting from core product messaging.",
    "scores": {
     "brand_fit": 1,
-    "ease": 6,
+    "ease": 9,
     "momentum": 8,
     "reach": 9,
-    "urgency": 4
+    "urgency": 8
    },
    "search_terms": [
-    "celebrity halloween costumes 2026",
-    "kim kardashian halloween"
+    "celebrity halloween costumes",
+    "frightgeist costumes"
    ],
    "verdict": "Skip",
    "verified": true,
-   "what": "Tabloids spotlight extreme costume reveals from Kardashian family members and musicians.",
-   "why_us": "Hollywood luxury stunts clash with our genuine Brooklyn counter voice.",
-   "window": "Gone by Sunday"
+   "what": "Google Frightgeist and media outlets publish top Halloween costume trends.",
+   "why_us": "Not connected to our baked goods.",
+   "window": "4 days"
   },
   {
-   "category": "Food & baking",
+   "category": "Competitor move",
    "evidence": [
-    "oc-3c1c8696"
+    "nw-95277951"
    ],
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
+   "first_seen": "2026-10-26T01:14:14.328955+00:00",
    "fit": {
     "persona": "None",
     "pillar": "None",
-    "product_key": "box-of-6"
+    "product_key": ""
    },
    "formats": [
-    "story"
+    "static"
    ],
    "funnel": "Conversion",
-   "id": "fast-food-giveaways",
-   "insight": "Fast-food burger and donut chains flood feeds with free food promotions.",
+   "id": "sports-youth-giveaways",
+   "insight": "Mass fast-food chains use sports wins for coupon giveaways.",
    "looks": [],
    "momentum": "steady",
-   "move": "Skip couponing races and highlight artisan value and genuine craftsmanship.",
-   "name": "Halloween Fast Food Freebies",
+   "move": "Focus on premium product quality over discount giveaways.",
+   "name": "Free Food Sports Promos",
    "platforms": [
     "News"
    ],
    "refs": [],
-   "relevance": 42,
-   "risk": "Attracts bargain hunters who do not buy artisan bakery treats.",
+   "relevance": 48,
+   "risk": "Training customers to wait for freebies.",
    "scores": {
-    "brand_fit": 1,
+    "brand_fit": 2,
     "ease": 8,
     "momentum": 6,
     "reach": 7,
-    "urgency": 5
+    "urgency": 6
    },
    "search_terms": [
-    "halloween freebies 2026",
-    "fast food halloween deals"
+    "doughnut giveaway promo",
+    "fast food sports promo"
    ],
    "verdict": "Skip",
    "verified": true,
-   "what": "National QSR chains roll out loss-leader coupons and free burgers for Halloween.",
-   "why_us": "We never discount cookies or devalue our ingredients with cheap gimmicks.",
-   "window": "Closes October 31"
+   "what": "Krispy Kreme gives away free dozen doughnuts for Halloween weekend promotions.",
+   "why_us": "We never discount or devalue our cookies.",
+   "window": "3 days"
   }
  ],
- "updated_at": "2026-10-27T00:28:55.264761+00:00"
+ "updated_at": "2026-10-28T02:19:38.614648+00:00"
 }
