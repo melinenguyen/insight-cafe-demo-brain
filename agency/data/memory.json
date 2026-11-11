@@ -1,77 +1,103 @@
 {
  "blocked": [
   {
-   "idea": "Offer a 10% Veterans Day holiday discount code",
+   "idea": "Offer 15% off Friendsgiving cookie bundles for early bird shoppers",
    "rule": "Never discount the cookies. Free shipping on big boxes in December is the only offer."
   },
   {
-   "idea": "Launch a novelty pixel-art cookie inspired by Minecraft",
-   "rule": "Claims we never make: Healthy, guilt-free or low-calorie; Allergen-free unless certified; Best cookies in America"
+   "idea": "Promote Pumpkin Spice Snickerdoodle as a low-calorie guilt-free holiday treat",
+   "rule": "Claims we never make: Healthy, guilt-free or low-calorie."
   }
  ],
  "brands": {
   "also": [
    {
+    "brand": "Crumbl",
+    "evidence": [
+     "bi-d3453499"
+    ],
+    "line": "Daily Meal flagged high calorie counts, boosting demand for real-ingredient treats."
+   },
+   {
+    "brand": "Levain Bakery",
+    "evidence": [
+     "bi-9fc2c5be"
+    ],
+    "line": "Joshua Weissman recreated Levain's walnut cookie, driving renewed interest in giant cookies."
+   },
+   {
+    "brand": "Poppi",
+    "evidence": [
+     "nw-b058af77"
+    ],
+    "line": "Poppi founders launched Jetty hydration powders, expanding into everyday wellness drinks."
+   },
+   {
+    "brand": "Sweetgreen",
+    "evidence": [
+     "nw-0448a854"
+    ],
+    "line": "Sweetgreen added hearty protein plates to capture dinner orders away from lunch."
+   }
+  ],
+  "generated_at": "2026-11-11T06:30:34.807674+00:00",
+  "headline": "Levain begins holiday cookie press while Insomnia rebrands around warm delivery.",
+  "moves": [
+   {
+    "brand": "Levain Bakery",
+    "evidence": [
+     "bi-cb1093b5"
+    ],
+    "happened": "Founders Pam Weekes and Connie McDonald debuted their seasonal holiday cookie lineup on CBS News.",
+    "kind": "PR & press",
+    "owner": "Mai",
+    "proof": "CBS News on MSN, 15 hours ago.",
+    "steal": "Pitch our Brooklyn holiday cookie boxes to local morning television ahead of December gifting.",
+    "title": "Levain launches holiday cookie push on national morning TV",
+    "why_us": "Holiday gifting is our main Q4 lane; national bakeries are already staking out early holiday PR."
+   },
+   {
+    "brand": "Insomnia Cookies",
+    "evidence": [
+     "bi-657a1c46",
+     "bi-9638c5b3"
+    ],
+    "happened": "Insomnia Cookies unveiled an updated visual identity and brand platform centering its signature warm cookies.",
+    "kind": "Campaign",
+    "owner": "Sam",
+    "proof": "Yahoo Finance, 20 hours ago.",
+    "steal": "Keep our focus on slow daytime oven bakes and handmade gift boxes instead.",
+    "title": "Insomnia Cookies rebrands to spotlight warm late-night delivery",
+    "why_us": "Insomnia owns late-night utility craving, leaving daytime bakery craft and premium gifting wide open."
+   },
+   {
     "brand": "Starbucks",
     "evidence": [
      "nw-f6a041de"
     ],
-    "line": "Starbucks launches holiday mystery gift boxes featuring collectible Bearista cups."
-   },
-   {
-    "brand": "Crumbl",
-    "evidence": [
-     "bi-ebf380b0"
-    ],
-    "line": "Crumbl expands retail footprint with a new store opening in Wilkes-Barre."
-   }
-  ],
-  "generated_at": "2026-11-10T01:35:39.893268+00:00",
-  "headline": "Insomnia Cookies rebrands and Crumbl pushes novelty drops while our holiday gifting lane stays open.",
-  "moves": [
-   {
-    "brand": "Insomnia Cookies",
-    "evidence": [
-     "bi-377f520a"
-    ],
-    "happened": "Insomnia unveiled a refreshed brand look and growth roadmap after two decades of late-night delivery.",
-    "kind": "Campaign",
-    "owner": "Sam",
-    "proof": "Yahoo Finance, 19 hours ago.",
-    "steal": "Emphasize handmade warmth and real bakers on camera over polished franchise branding.",
-    "title": "Insomnia Cookies reveals corporate rebrand and bigger vision",
-    "why_us": "Their slick corporate rebrand leaves a clear lane for our warm Brooklyn counter charm."
-   },
-   {
-    "brand": "Crumbl",
-    "evidence": [
-     "bi-5c46ed45",
-     "bi-e7ed0049"
-    ],
-    "happened": "Crumbl launched its weekly dessert rotation featuring a Minecraft themed grass block cake.",
-    "kind": "Collab",
+    "happened": "Starbucks released blind surprise boxes for Bearista cups with five designs, including a rare mystery edition.",
+    "kind": "Launch",
     "owner": "Mai",
-    "proof": "November 9-14 menu; The Recipe Club review.",
-    "steal": "Spotlight classic holiday flavors and real melted chocolate instead of cartoon novelties.",
-    "title": "Crumbl relies on video game crossovers for weekly drops",
-    "why_us": "Novelty gimmick cakes alienate classic cookie gifters looking for real taste."
+    "proof": "Taste of Home, 34 hours ago.",
+    "steal": "Keep box contents fully transparent with photo cards showing every cookie flavor clearly.",
+    "title": "Starbucks tests mystery collectible boxes for holiday merchandise",
+    "why_us": "Blind boxes drive hype, but premium food gifters want certainty about what they are giving."
    },
    {
     "brand": "Tiff's Treats",
     "evidence": [
      "bi-97df3fc2"
     ],
-    "happened": "Founders Tiffany and Leon Chen appeared on broadcast news to tell their origin story.",
+    "happened": "Founders Tiffany and Leon Chen appeared on CW33 to spotlight their 27-year warm delivery cookie journey.",
     "kind": "PR & press",
     "owner": "Sam",
-    "proof": "CW33 broadcast, 18 hours ago; 27-year history.",
-    "steal": "Film Méline walking through morning bake prep for Reels and TikTok.",
-    "title": "Tiff's Treats founders tour regional morning news shows",
-    "why_us": "Founder-led storytelling builds genuine local trust that retail chains cannot copy."
+    "proof": "CW33, 47 hours ago.",
+    "steal": "Film Méline packing warm afternoon cookie batches directly behind the Brooklyn counter.",
+    "title": "Tiff's Treats founders leverage warm cookie founder story",
+    "why_us": "Customers love founder warmth; local bakeries win on genuine kitchen roots over scaled franchises."
    }
   ],
   "quiet": [
-   "Levain Bakery",
    "Milk Bar",
    "Tate's Bake Shop"
   ]
@@ -781,44 +807,84 @@
    ],
    "slot": "morning",
    "usd": 0
+  },
+  {
+   "act_today": [
+    "Thanksgiving Host Gifts Beat Flowers",
+    "Curated Platter Replaces Single Bakes"
+   ],
+   "actions": [
+    "Sam: Film molten brown butter cookie pulls behind the counter by Thursday.",
+    "Mai: Update website banner positioning Box of 6 for Thanksgiving by Friday.",
+    "Méline: Approve National Cookie Day counter signage and staffing plan by Monday."
+   ],
+   "at": "2026-11-11T06:30:34.807674+00:00",
+   "desks": {
+    "brands": "Levain begins holiday cookie press while Insomnia rebrands around warm delivery.",
+    "culture": "Holiday hosts want curated cookie assortments and edible host gifts, skipping home baking entirely.",
+    "occasions": "Hosts seek budget bundles and stress-free gifting as holiday calendar pressure builds from Thanksgiving to Christmas."
+   },
+   "focuses": [
+    "Thanksgiving guides favor food gifts under $40 over flowers; box bundles win host gifting.",
+    "Cookie platters replace single-batch baking on Yahoo; mixed assortments solve dessert board variety.",
+    "Levain and TV segments highlight molten bakery textures; counter baking videos capture fresh appetite."
+   ],
+   "headline": "Holiday host gifting beats flower bouquets while bakery cookie hype peaks.",
+   "label": "Morning report",
+   "numbers": {
+    "act_today": 2,
+    "live_plays": 4,
+    "new_plays": 1,
+    "signals": 147,
+    "this_week": 3
+   },
+   "plays": [
+    {
+     "pic": "Sam",
+     "title": "Fresh Oven Molten Cookie Pull Reel"
+    }
+   ],
+   "slot": "morning",
+   "usd": 0
   }
  ],
  "huddle_history": [],
  "library": {
-  "bi-377f520a": {
-   "age_h": 18.6,
+  "bi-657a1c46": {
+   "age_h": 43.8,
    "author": "Insomnia Cookies",
-   "id": "bi-377f520a",
+   "id": "bi-657a1c46",
+   "kind": "brand move",
+   "metrics": {
+    "brand": "Insomnia Cookies"
+   },
+   "platform": "News",
+   "source": "QSR magazine",
+   "text": "Insomnia Cookies has spent more than two decades building a business around the of delivering warm cookies to people when they crave them most. That idea, first developed by founder Seth Berkowitz in ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.zGCVozJl6JW3HDHTdibTNA&pid=News",
+   "title": "Insomnia Cookies Has New Look and Bigger Vision for the Future",
+   "ts": "2026-11-09T10:41:00+00:00",
+   "url": "https://www.qsrmagazine.com/story/insomnia-cookies-has-new-look-and-bigger-vision-for-the-future/"
+  },
+  "bi-9638c5b3": {
+   "age_h": 19.9,
+   "author": "Insomnia Cookies",
+   "id": "bi-9638c5b3",
    "kind": "brand move",
    "metrics": {
     "brand": "Insomnia Cookies"
    },
    "platform": "News",
    "source": "Yahoo Finance",
-   "text": "Insomnia Cookies has spent more than two decades building a business around the of delivering warm cookies to people when they crave them most. That idea, first developed by founder Seth Berkowitz in ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.7NeXapJLTA7Y3FzdsZwX6w&pid=News",
-   "title": "Insomnia Cookies Has New Look and Bigger Vision for the Future",
-   "ts": "2026-11-09T07:00:00+00:00",
-   "url": "https://finance.yahoo.com/small-business/articles/insomnia-cookies-look-bigger-vision-184119428.html"
-  },
-  "bi-5c46ed45": {
-   "age_h": 20.4,
-   "author": "Crumbl",
-   "id": "bi-5c46ed45",
-   "kind": "brand move",
-   "metrics": {
-    "brand": "Crumbl"
-   },
-   "platform": "News",
-   "source": "The Recipe Club on MSN",
-   "text": "Crumbl’s Minecraft collection went through a taste test, with the grass block cake and cookie butter cookie earning perfect scores. The cherry blossom flavor scored lower, while the paper toppers drew ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.vhtZtoNTjt-SwFV1JSB_dg&pid=News",
-   "title": "A Crumbl taste test started with a cake that looked like a grass block",
-   "ts": "2026-11-09T05:09:31+00:00",
-   "url": "https://www.msn.com/en-us/food-and-drink/desserts/a-crumbl-taste-test-started-with-a-cake-that-looked-like-a-grass-block/vi-AA2h4tZc"
+   "text": "Insomnia Cookies, the beloved late-night bakery brand known for delivering warm cookies for the moments when they're needed most, has just unveiled a bold new brand identity. The refresh introduces a ...",
+   "thumb": "https://s.yimg.com/lo/mysterio/api/8b8cd88aed46053a56de93a48bf0042897d77fd21e520ba7a24e605439703d49/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2F56d81a4c770ce9396dbeeeff4993db2f.jpg",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
+   "title": "Insomnia Cookies Rolls Out a Bold New Look, With Its Signature Warm Cookie as the Star",
+   "ts": "2026-11-10T10:39:00+00:00",
+   "url": "https://finance.yahoo.com/small-business/articles/insomnia-cookies-rolls-bold-look-183900081.html"
   },
   "bi-97df3fc2": {
-   "age_h": 17.8,
+   "age_h": 46.7,
    "author": "Tiff's Treats",
    "id": "bi-97df3fc2",
    "kind": "brand move",
@@ -829,42 +895,76 @@
    "source": "CW33 on MSN",
    "text": "Founders Tiffany and Leon Chen reflect on the 27-year journey of Tiff's Treats, which grew from a college apartment startup in Austin into a national cookie delivery brand spanning 20 states.",
    "thumb": "",
-   "thumb_tried": "2026-11-10T01:35:39.893268+00:00",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
    "title": "Tiff’s Treats founders deliver warm cookies and share the sweet story behind the business",
    "ts": "2026-11-09T07:47:14+00:00",
    "url": "https://www.msn.com/en-us/news/other/tiff-s-treats-founders-deliver-warm-cookies-and-share-the-sweet-story-behind-the-business/ar-AA2h5oUa"
   },
-  "bi-e7ed0049": {
-   "age_h": 13.1,
-   "author": "Crumbl",
-   "id": "bi-e7ed0049",
+  "bi-9fc2c5be": {
+   "age_h": 23.6,
+   "author": "Levain Bakery",
+   "id": "bi-9fc2c5be",
    "kind": "brand move",
    "metrics": {
-    "brand": "Crumbl"
+    "brand": "Levain Bakery"
    },
    "platform": "News",
-   "source": "Rutherford Source",
-   "text": "Crumbl’s latest limited-time desserts are from November 9-14, 2026. Find a location near you right here! Their menu rotates each week to offer delicious gourmet flavors.",
-   "thumb": "http://www.bing.com/th?id=ONUT.68CRp5_RMbM2Ov9XWfsmvw&pid=News",
-   "title": "Crumbl’s Rotating Menu for the Week of November 9, 2026",
-   "ts": "2026-11-09T12:29:00+00:00",
-   "url": "https://rutherfordsource.com/crumbls-rotating-menu-for-the-week-of-november-9-2026/"
+   "source": "Joshua Weissman on MSN",
+   "text": "Joshua Weissman tastes Levain Bakery's 6-ounce chocolate chip walnut cookie, known for its crisp exterior and almost molten center, with Binging with Babish. He attempts to reverse-engineer the bakery ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.cWa-g-XZWIUpDbTHlvBzFQ&pid=News",
+   "title": "Joshua Weissman recreates Levain Bakery's 6-ounce chocolate chip walnut cookie",
+   "ts": "2026-11-10T06:55:21+00:00",
+   "url": "https://www.msn.com/en-ca/food-and-drink/recipes/joshua-weissman-recreates-levain-bakery-s-6-ounce-chocolate-chip-walnut-cookie/vi-AA2aP0oR"
   },
-  "bi-ebf380b0": {
-   "age_h": 13.2,
+  "bi-cb1093b5": {
+   "age_h": 14.6,
+   "author": "Levain Bakery",
+   "id": "bi-cb1093b5",
+   "kind": "brand move",
+   "metrics": {
+    "brand": "Levain Bakery"
+   },
+   "platform": "News",
+   "source": "CBS News on MSN",
+   "text": "Co-founders Pam Weekes and Connie McDonald share their Levain Bakery holiday cookie creations.",
+   "thumb": "http://www.bing.com/th?id=ONUT.ueYA-WQEgiHxWG5ktEOIGA&pid=News",
+   "title": "Levain Bakery shares new flavors with their holiday cookies",
+   "ts": "2026-11-10T15:57:00+00:00",
+   "url": "https://www.msn.com/en-us/food-and-drink/desserts/levain-bakery-shares-new-flavors-with-their-holiday-cookies/vi-AA2hbmgs"
+  },
+  "bi-d3453499": {
+   "age_h": 89.1,
    "author": "Crumbl",
-   "id": "bi-ebf380b0",
+   "id": "bi-d3453499",
    "kind": "brand move",
    "metrics": {
     "brand": "Crumbl"
    },
    "platform": "News",
-   "source": "The Citizens' Voice",
-   "text": "WILKES-BARRE TWP. — Crumbl Cookies is coming. The national bakery franchise known for its oversized cookies served in signature pink boxes has set a grand opening celebration for its new location in ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.X8TzIDmfgGs8sC8qxCkHiw&pid=News",
-   "title": "Crumbl Cookies sets grand opening for Wilkes-Barre Twp. store",
-   "ts": "2026-11-09T12:23:00+00:00",
-   "url": "https://www.citizensvoice.com/2026/11/09/crumbl-cookies-sets-grand-opening-for-wilkes-barre-twp-store/"
+   "source": "Daily Meal on MSN",
+   "text": "The cookie chain has exploded in popularity, but you might want to take a closer look at the nutrition facts to see exactly what you're consuming.",
+   "thumb": "",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
+   "title": "Why Crumbl Cookies Are Some Of The Unhealthiest On The Market",
+   "ts": "2026-11-07T13:25:00+00:00",
+   "url": "https://www.msn.com/en-us/news/other/why-crumbl-cookies-are-some-of-the-unhealthiest-on-the-market/ar-AA2gXNL1"
+  },
+  "cal-0cbf687e": {
+   "age_h": null,
+   "author": "",
+   "id": "cal-0cbf687e",
+   "kind": "occasion",
+   "metrics": {
+    "days_away": 15,
+    "kind": "federal"
+   },
+   "platform": "Calendar",
+   "source": "the US calendar",
+   "text": "Pie-flavored cookie; content, no sale Federal holiday — banks and USPS closed, no mail delivery.",
+   "thumb": "",
+   "title": "Thanksgiving — 2026-11-26 (in 15 days)",
+   "ts": "",
+   "url": ""
   },
   "cal-3b601c3d": {
    "age_h": null,
@@ -872,14 +972,14 @@
    "id": "cal-3b601c3d",
    "kind": "occasion",
    "metrics": {
-    "days_away": 2,
+    "days_away": 0,
     "kind": "federal"
    },
    "platform": "Calendar",
    "source": "the US calendar",
    "text": "Federal holiday — banks and USPS closed, no mail delivery.",
    "thumb": "",
-   "title": "Veterans Day — 2026-11-11 (in 2 days)",
+   "title": "Veterans Day — 2026-11-11 (in 0 days)",
    "ts": "",
    "url": ""
   },
@@ -889,61 +989,65 @@
    "id": "cal-7b0b64f0",
    "kind": "occasion",
    "metrics": {
-    "days_away": 12,
+    "days_away": 10,
     "kind": "culture"
    },
    "platform": "Calendar",
    "source": "the US calendar",
    "text": "",
    "thumb": "",
-   "title": "Friendsgiving — 2026-11-21 (in 12 days)",
+   "title": "Friendsgiving — 2026-11-21 (in 10 days)",
    "ts": "",
    "url": ""
   },
-  "cal-b3ac2262": {
+  "cal-edb37291": {
    "age_h": null,
    "author": "",
-   "id": "cal-b3ac2262",
+   "id": "cal-edb37291",
    "kind": "occasion",
    "metrics": {
-    "days_away": 25,
-    "kind": "faith"
+    "days_away": 23,
+    "kind": "brand"
    },
    "platform": "Calendar",
    "source": "the US calendar",
-   "text": "",
+   "text": "Our biggest day: a free cookie with every box",
    "thumb": "",
-   "title": "Hanukkah (first candle at sundown) — 2026-12-04 (in 25 days)",
+   "title": "National Cookie Day — 2026-12-04 (in 23 days)",
    "ts": "",
    "url": ""
   },
-  "nw-26bc1bd7": {
-   "age_h": 30.6,
+  "gt-39515ecd": {
+   "age_h": 1.0,
    "author": "",
-   "id": "nw-26bc1bd7",
-   "kind": "news",
-   "metrics": {},
-   "platform": "News",
-   "source": "The Kitchn",
-   "text": "Its pure nostalgia in every bite. READ MORE...",
-   "thumb": "https://cdn.apartmenttherapy.info/image/upload//tk/photo/2025/08-2025/2025-08-7up-cake/25087-up-cake_4_copy_255d67-cropped",
-   "title": "7UP Cake",
-   "ts": "2026-11-08T19:00:00+00:00",
-   "url": "https://www.thekitchn.com/7up-cake-recipe-23851520?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
+   "id": "gt-39515ecd",
+   "kind": "search",
+   "metrics": {
+    "searches": "5000+"
+   },
+   "platform": "Search",
+   "source": "Google Trends (US)",
+   "text": "SZA appears to leak Coachella 2027 headliners | Dua Lipa, Tame Impala, SZA and Daddy Yankee to Headline 2027 Coachella Festival",
+   "thumb": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu7m26jqmr36TZGo8p0VvVhPnAo6GovpILVjEHMwDniQ8nsYVehoDOaJdyDjc",
+   "title": "Search spike: coachella 2027 lineup",
+   "ts": "2026-11-10T21:30:00-08:00",
+   "url": "https://www.sfgate.com/sf-culture/article/coachella-headliners-leak-22522136.php"
   },
-  "nw-3b3637f2": {
-   "age_h": 2.8,
+  "nw-0448a854": {
+   "age_h": 16.5,
    "author": "",
-   "id": "nw-3b3637f2",
+   "id": "nw-0448a854",
    "kind": "news",
-   "metrics": {},
+   "metrics": {
+    "flags": "launch"
+   },
    "platform": "News",
-   "source": "Delish",
-   "text": "Supermarket shortcuts that (almost) taste homemade.",
-   "thumb": "https://hips.hearstapps.com/hmg-prod/images/4062f61f-370c-4f72-b92d-5a40ae61210a.jpeg",
-   "title": "We Tried 8 Store-Bought Mashed Potatoes &amp; These Are Worth Bringing To Thanksgiving",
-   "ts": "2026-11-09T22:45:45+00:00",
-   "url": "https://www.delish.com/food/a74378578/best-store-bought-mashed-potatoes-taste-test/"
+   "source": "Nation's Restaurant News",
+   "text": "The fast-casual chain has relaunched its Plates menu category, including new rotisserie-style “knife-and-fork” chicken in larger portions.",
+   "thumb": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/bltc38a19cc8ab6accd/6af259590de739d5ba9d3d07/26SG_PR_Plates-3.jpg?width=720&quality=80&disable=upscale",
+   "title": "Sweetgreen positions to capture the dinner daypart",
+   "ts": "2026-11-10T14:00:00+00:00",
+   "url": "https://www.nrn.com/fast-casual/sweetgreen-positions-to-capture-the-dinner-daypart"
   },
   "nw-3edf4404": {
    "age_h": 40.7,
@@ -959,22 +1063,36 @@
    "ts": "2026-11-07T14:00:00+00:00",
    "url": "https://www.delish.com/food-news/a74359305/burger-king-advent-calendar-2026-how-to-buy/"
   },
-  "nw-72ebfbc4": {
-   "age_h": 5.3,
+  "nw-5f57ca38": {
+   "age_h": 10.5,
    "author": "",
-   "id": "nw-72ebfbc4",
+   "id": "nw-5f57ca38",
    "kind": "news",
    "metrics": {},
    "platform": "News",
-   "source": "Nation's Restaurant News",
-   "text": "The Asian fast-casual giant is rolling out Triple Chocolate Rangoons in 10 test markets on Tuesday.",
-   "thumb": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt9944d6eb83c5e64b/6af22c6e83eee2399bf0eda6/panda-express-debuts-its-first-ever-dessert-rangoon-in-colla_(1).jpg?width=720&quality=80&disable=upscale",
-   "title": "Panda Express partners with Ghirardelli Chocolate on new dessert rangoon",
-   "ts": "2026-11-09T20:16:38+00:00",
-   "url": "https://www.nrn.com/quick-service/panda-express-partners-with-ghirardelli-chocolate-on-new-dessert-rangoon"
+   "source": "The Kitchn",
+   "text": "Score savings over 75% off! READ MORE...",
+   "thumb": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2021-11/Angela%20H/HouskaandWidnerTessaCooper-24-crop",
+   "title": "I Find Shopping Deals for a Living — These Are the Best Early Black Friday Sales Worth Checking Out (Over 75!)",
+   "ts": "2026-11-10T20:00:00+00:00",
+   "url": "https://www.thekitchn.com/best-black-friday-cyber-monday-kitchen-deals-2026-23853474?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
+  },
+  "nw-80047fc8": {
+   "age_h": 11.1,
+   "author": "",
+   "id": "nw-80047fc8",
+   "kind": "news",
+   "metrics": {},
+   "platform": "News",
+   "source": "Bon Appétit",
+   "text": "Save more than $200 on a Staub Dutch oven and snag our favorite air fryer for 25% off.",
+   "thumb": "https://assets.bonappetit.com/photos/6af36fde0e74d26c15149b48/master/pass/cyber%20monday%20deals%203.jpg",
+   "title": "25+ Best Early Black Friday Deals You Shouldn't Wait to Shop",
+   "ts": "2026-11-10T19:27:28+00:00",
+   "url": "https://www.bonappetit.com/story/black-friday-kitchen-deals-11-10-2026"
   },
   "nw-8a69142b": {
-   "age_h": 8.8,
+   "age_h": 37.7,
    "author": "",
    "id": "nw-8a69142b",
    "kind": "news",
@@ -987,19 +1105,33 @@
    "ts": "2026-11-09T16:47:29+00:00",
    "url": "https://www.bonappetit.com/story/theres-an-advent-calendar-for-almost-everything"
   },
-  "nw-a1c46afc": {
-   "age_h": 6.6,
+  "nw-9120c040": {
+   "age_h": 23.8,
    "author": "",
-   "id": "nw-a1c46afc",
+   "id": "nw-9120c040",
    "kind": "news",
    "metrics": {},
    "platform": "News",
-   "source": "The Kitchn",
-   "text": "Ambrosia salad is a creamy, dreamy fruit salad straight out of a church potluck or grandma&#8217;s holiday table, alongside other retro recipes like Jello poke cake, cheese balls, and deviled eggs. Ambrosia salad has roots in the late 1800s, when ingredients like oranges and coconut were considered exotic luxuries &#82",
-   "thumb": "https://cdn.apartmenttherapy.info/image/upload//tk/photo/2025/08-2025/2025-08-ambrosia-salad/2508ambrosia-salad_21534e-cropped",
-   "title": "Ambrosia Salad",
-   "ts": "2026-11-09T19:00:00+00:00",
-   "url": "https://www.thekitchn.com/creamy-ambrosia-salad-recipe-23851524?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
+   "source": "Honeysuckle on MSN",
+   "text": "Honeysuckle follows a viral recipe that turns chocolate chip cookies into a stuffed pie cake, demonstrating the assembly and baking steps. She finishes with a taste test and gives her on-camera ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.4UdwelPkMMKgnCW4wyFEow&pid=News",
+   "title": "Honeysuckle tries a cookie pie cake recipe and taste-tests the result",
+   "ts": "2026-11-10T06:41:21+00:00",
+   "url": "https://www.msn.com/en-us/news/other/honeysuckle-tries-a-cookie-pie-cake-recipe-and-taste-tests-the-result/vi-AA20WpgN"
+  },
+  "nw-9b26db52": {
+   "age_h": 7.9,
+   "author": "",
+   "id": "nw-9b26db52",
+   "kind": "news",
+   "metrics": {},
+   "platform": "News",
+   "source": "Taste of Home",
+   "text": "Countdown to Christmas as you decorate your tree! The best ornament Advent calendars come in edible, fancy and kid-friendly versions. The post Decorate Your Tree as You Count Down With the Best Ornament Advent Calendars appeared first on Taste of Home.",
+   "thumb": "https://www.tasteofhome.com/wp-content/uploads/2026/09/TOHA26_Lenox-Advent-Calendar_Emily-Way_01_YVedit.jpg?w=680",
+   "title": "Decorate Your Tree as You Count Down With the Best Ornament Advent Calendars",
+   "ts": "2026-11-10T22:38:15+00:00",
+   "url": "https://www.tasteofhome.com/collection/ornament-advent-calendars/"
   },
   "nw-aac235a7": {
    "age_h": 36.7,
@@ -1015,6 +1147,22 @@
    "ts": "2026-11-07T18:00:14+00:00",
    "url": "https://www.bonappetit.com/story/best-food-advent-calendars-2026"
   },
+  "nw-b058af77": {
+   "age_h": 39.7,
+   "author": "",
+   "id": "nw-b058af77",
+   "kind": "news",
+   "metrics": {
+    "flags": "launch"
+   },
+   "platform": "News",
+   "source": "Food Dive",
+   "text": "Jetty is a line of electrolyte powders and ready-to-drink offerings that looks to stand out by targeting everyday consumers.",
+   "thumb": "https://imgproxy.divecdn.com/jnaSeTiO7nXBRgAriISEqDTc5rfFIHPD7hx-ifJbYaU/g:nowe:0:207/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GYW1pbHlTaG90XzI2MDkxNl9KZXR0eV9MYXVuY2hfUGhvdG9zaG9vdDMxNDMyX0JZSF8xXzEucG5n.webp",
+   "title": "Poppi founders launch hydration brand",
+   "ts": "2026-11-09T14:47:00+00:00",
+   "url": "https://www.fooddive.com/news/poppi-cofounders-launch-hydration-brand-jetty/874094/"
+  },
   "nw-be4fa97d": {
    "age_h": 11.8,
    "author": "",
@@ -1029,22 +1177,36 @@
    "ts": "2026-11-09T13:47:00+00:00",
    "url": "https://www.msn.com/en-us/food-and-drink/desserts/the-best-holiday-cookie-plates-have-a-little-of-everything-here-s-how-to-build-yours/ar-AA2h5Fo9"
   },
-  "nw-ec7bfbb8": {
-   "age_h": 3.9,
+  "nw-d947407b": {
+   "age_h": 40.7,
    "author": "",
-   "id": "nw-ec7bfbb8",
+   "id": "nw-d947407b",
+   "kind": "news",
+   "metrics": {},
+   "platform": "News",
+   "source": "Yahoo",
+   "text": "Curating a holiday cookie collection is a fun and festive way to celebrate the season—we've all seen the amazing selections on Instagram, right? The idea is simple: Choose five or six cookies, bake, ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.KM5b8ZbZwgkcXtJoj2FUVA&pid=News",
+   "title": "The Best Holiday Cookie Plates Have a Little of Everything—Here’s How to Build Yours",
+   "ts": "2026-11-09T13:47:00+00:00",
+   "url": "https://www.yahoo.com/lifestyle/articles/best-holiday-cookie-plates-little-214700612.html"
+  },
+  "nw-e286dd3f": {
+   "age_h": 14.0,
+   "author": "",
+   "id": "nw-e286dd3f",
    "kind": "news",
    "metrics": {},
    "platform": "News",
    "source": "Delish",
-   "text": "Trust, these are the items worth unwrapping.",
-   "thumb": "https://hips.hearstapps.com/hmg-prod/images/5df44075-ea84-4690-9393-53822dbaed3a.jpg",
-   "title": "10 Gifts Under $25 That Delish Editors Actually Want This Year",
-   "ts": "2026-11-09T21:42:32+00:00",
-   "url": "https://www.delish.com/kitchen-tools/cookware-reviews/g74325628/best-kitchen-gifts-delish-editors-recommended/"
+   "text": "Ready, set, bake.",
+   "thumb": "https://hips.hearstapps.com/hmg-prod/images/4717b725-71cd-4ab7-b81b-d57dc7ccd8af.jpg",
+   "title": "The Holidays Came Early This Year—Our Festive Cookies Quarterly Is Here!",
+   "ts": "2026-11-10T16:31:37+00:00",
+   "url": "https://www.delish.com/food-news/a74388329/delish-holiday-cookies-quarterly-magazine/"
   },
   "nw-f6a041de": {
-   "age_h": 5.5,
+   "age_h": 34.4,
    "author": "",
    "id": "nw-f6a041de",
    "kind": "news",
@@ -1054,47 +1216,64 @@
    "platform": "News",
    "source": "Taste of Home",
    "text": "Starbucks' biggest Bearista collection yet features five festive glass characters, including one rare mystery bear named Goldie. The post Starbucks Is Dropping a Surprise Box Edition of Its Fan-Favorite Bear Cups—Here&#8217;s How to Get One appeared first on Taste of Home.",
-   "thumb": "https://www.tasteofhome.com/wp-content/uploads/2026/11/Product-Collage_Courtesy-Starbucks_Dkedit_01.jpg?fit=700%2C1024",
+   "thumb": "https://www.tasteofhome.com/wp-content/uploads/2026/11/Product-Collage_Courtesy-Starbucks_Dkedit_01.jpg?fit=680%2C995",
    "title": "Starbucks Is Dropping a Surprise Box Edition of Its Fan-Favorite Bear Cups—Here’s How to Get One",
    "ts": "2026-11-09T20:07:33+00:00",
    "url": "https://www.tasteofhome.com/article/starbucks-bear-cup-surprise-box-edition/"
   },
-  "oc-0a246de4": {
-   "age_h": 113.0,
+  "nw-fbac2498": {
+   "age_h": 17.5,
    "author": "",
-   "id": "oc-0a246de4",
-   "kind": "occasion news",
+   "id": "nw-fbac2498",
+   "kind": "news",
    "metrics": {
-    "date": "2026-11-11",
-    "occasion": "Veterans Day"
+    "flags": "launch"
    },
    "platform": "News",
-   "source": "We Are The Mighty on MSN",
-   "text": "Plus everyday offers from many of the same restaurants year-round.",
-   "thumb": "http://www.bing.com/th?id=ONUT.-4n5NQOJ86Fsfel_ZCuwwA&pid=News",
-   "title": "Our huge list of Veterans Day 2026 freebies, discounts, and deals",
-   "ts": "2026-11-05T08:34:24+00:00",
-   "url": "https://www.msn.com/en-us/news/other/our-huge-list-of-veterans-day-2026-freebies-discounts-and-deals/ar-AA2gPDKw"
+   "source": "The Kitchn",
+   "text": "I love German chocolate cake, but I&#8217;ll be honest: The classic version is a project. There are homemade cake layers, chocolate frosting, and the coconut-pecan filling. These German chocolate brownies give me all those flavors with way less effort. I&#8217;m a big fan of boxed brownie mix shortcuts, like buckeye br",
+   "thumb": "https://cdn.apartmenttherapy.info/image/upload//tk/edit/skills/2026/2026-11/german-chocolate-brownies-box-mix-hack/german-chocolate-brownies-1",
+   "title": "German Chocolate Brownies Are the Boxed Mix Hack I Make Every Thanksgiving",
+   "ts": "2026-11-10T13:00:00+00:00",
+   "url": "https://www.thekitchn.com/german-chocolate-brownies-shortcut-23850027?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main"
   },
-  "oc-13e8cd1d": {
-   "age_h": 67.3,
+  "oc-2156e246": {
+   "age_h": 8447.5,
    "author": "",
-   "id": "oc-13e8cd1d",
+   "id": "oc-2156e246",
    "kind": "occasion news",
    "metrics": {
-    "date": "2026-11-21",
-    "occasion": "Friendsgiving"
+    "date": "2026-11-26",
+    "occasion": "Thanksgiving"
    },
    "platform": "News",
-   "source": "Insider on MSN",
-   "text": "Dolly Parton's 2024 cookbook featured an entire section dedicated to Thanksgiving recipes, including her delicious sweet potato casserole.",
-   "thumb": "http://www.bing.com/th?id=ONUT.6gV5DNdjUq_MQbmbwVntpw&pid=News",
-   "title": "I made Dolly Parton's sweet potato casserole for Friendsgiving. It disappeared within minutes.",
-   "ts": "2026-11-07T06:18:02+00:00",
-   "url": "https://www.msn.com/en-us/news/other/i-made-dolly-partons-sweet-potato-casserole-for-friendsgiving-it-disappeared-within-minutes/ss-AA2gXJ4y"
+   "source": "Yahoo Finance",
+   "text": "A new survey from Stop & Shop finds 62% of people say cranberry sauce is a must have for Thanksgiving, with 55% preferring canned over homemade. · GlobeNewswire Inc. QUINCY, Mass., Nov. 24, 2025 ...",
+   "thumb": "https://s.yimg.com/lo/mysterio/api/528389771e0ba04ac491d675ed8efad8eae688060fcb525afbf5f6bd139be7d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fc454d8d2dabf16e19b4808f53f972c61",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
+   "title": "New Stop & Shop Survey Settles Great Thanksgiving Debate: Americans Prefer Canned Cranberry Sauce Over Homemade",
+   "ts": "2025-11-24T07:01:00+00:00",
+   "url": "https://finance.yahoo.com/news/stop-shop-survey-settles-great-150100999.html"
+  },
+  "oc-38fb56f2": {
+   "age_h": 227.5,
+   "author": "",
+   "id": "oc-38fb56f2",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-26",
+    "occasion": "Thanksgiving"
+   },
+   "platform": "News",
+   "source": "People on MSN",
+   "text": "Because a bottle of wine doesn’t always cut it ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.477Q42EWp6HggzQvYv4ZdQ&pid=News",
+   "title": "Less Than a Month Before Thanksgiving! These Are the Hostess Gifts That Will Land You a Return Invite Next Year",
+   "ts": "2026-11-01T19:00:00+00:00",
+   "url": "https://www.msn.com/en-us/news/other/less-than-a-month-before-thanksgiving-these-are-the-hostess-gifts-that-will-land-you-a-return-invite-next-year/ar-AA2gyjTO"
   },
   "oc-40cd498b": {
-   "age_h": 24.2,
+   "age_h": 53.1,
    "author": "",
    "id": "oc-40cd498b",
    "kind": "occasion news",
@@ -1110,60 +1289,42 @@
    "ts": "2026-11-09T01:26:00+00:00",
    "url": "https://www.lohud.com/story/grocery/stores/2026/11/09/wegmans-thanksgiving-meal-deal-2026-cost-food/92687122007/"
   },
-  "oc-57a43626": {
-   "age_h": 15.3,
+  "oc-45cfb4d3": {
+   "age_h": 38.5,
    "author": "",
-   "id": "oc-57a43626",
+   "id": "oc-45cfb4d3",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-11",
     "occasion": "Veterans Day"
    },
    "platform": "News",
-   "source": "Sun Sentinel",
-   "text": "South Florida will take a moment to say thank you and reflect on the dedication of those who answered the call to serve our country.",
-   "thumb": "http://www.bing.com/th?id=ONUT.ArOgYciA81tPVVvUUuwk0A&pid=News",
-   "title": "Veterans Day 2026: Find South Florida ceremonies, celebrations and salutes",
-   "ts": "2026-11-09T10:15:00+00:00",
-   "url": "https://www.sun-sentinel.com/2026/11/09/veterans-day-2026-find-south-florida-ceremonies-celebrations-and-salutes/"
+   "source": "Rasmussen Reports",
+   "text": "The annual commemoration of Veterans Day on Wednesday is considered more important by Americans whose families have a history of military service.",
+   "thumb": "http://www.bing.com/th?id=ONUT.Dw5gvrBy8clxQ0kI6Cfp2A&pid=News",
+   "title": "Military Families Value Veterans Day More",
+   "ts": "2026-11-09T16:00:00+00:00",
+   "url": "https://www.rasmussenreports.com/public_content/lifestyle/holidays/military_families_value_veterans_day_more"
   },
-  "oc-5ddfd8a3": {
-   "age_h": 86.9,
+  "oc-5d7559a6": {
+   "age_h": 26.0,
    "author": "",
-   "id": "oc-5ddfd8a3",
+   "id": "oc-5d7559a6",
    "kind": "occasion news",
    "metrics": {
-    "date": "2026-12-04",
-    "occasion": "Hanukkah"
+    "date": "2026-11-26",
+    "occasion": "Thanksgiving"
    },
    "platform": "News",
-   "source": "Hoodline",
-   "text": "Mark your calendar: the Skirball's Hanukkah Festival lights up December 6 with music, latkes and a candle-lighting ceremony.",
-   "thumb": "http://www.bing.com/th?id=ONUT.B3JnUAU6j0hsEsZ4ogEHkQ&pid=News",
-   "title": "Skirball Hanukkah Festival Returns Dec. 6 With Klezmer Band and Candle Lighting",
-   "ts": "2026-11-06T10:42:00+00:00",
-   "url": "https://hoodline.com/2026/11/skirball-hanukkah-festival-returns-dec-6-with-klezmer-band-and-candle-lighting/"
-  },
-  "oc-60c6ef4a": {
-   "age_h": 140.6,
-   "author": "",
-   "id": "oc-60c6ef4a",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-21",
-    "occasion": "Friendsgiving"
-   },
-   "platform": "News",
-   "source": "FT Markets",
-   "text": "Friendsgiving has become a can’t-miss part of the holiday season, with 52% of younger Americans surveyed planning to host or attend one this year¹. And showing up empty-handed isn’t exactly the move: ...",
-   "thumb": "",
-   "thumb_tried": "2026-11-10T01:35:39.893268+00:00",
-   "title": "Truly Hard Seltzer Has Drinks Covered This Friendsgiving with a Custom Potluck Pack",
-   "ts": "2026-11-04T05:00:00+00:00",
-   "url": "https://markets.ft.com/data/announce/detail?dockey=1330-9868568en-65C4OQ5070GQJ6CRV8CHUIMFTI"
+   "source": "USA TODAY on MSN",
+   "text": "A new Thanksgiving survey found Americans spend hours at the dinner table, but many rate their dining-chair comfort surprisingly low.",
+   "thumb": "http://www.bing.com/th?id=ONUT.ZEdKAutFbqcsdFCbfdHOqA&pid=News",
+   "title": "Most Thanksgiving hosts forget one thing guests notice for hours",
+   "ts": "2026-11-10T04:32:53+00:00",
+   "url": "https://www.msn.com/en-us/news/other/most-thanksgiving-hosts-forget-one-thing-guests-notice-for-hours/ar-AA2h8EFh"
   },
   "oc-697df4bd": {
-   "age_h": 18.5,
+   "age_h": 47.4,
    "author": "",
    "id": "oc-697df4bd",
    "kind": "occasion news",
@@ -1179,8 +1340,60 @@
    "ts": "2026-11-09T07:04:00+00:00",
    "url": "https://ca.finance.yahoo.com/news/canada-post-stamp-issue-celebrates-150500313.html"
   },
+  "oc-825a0f5d": {
+   "age_h": 172.5,
+   "author": "",
+   "id": "oc-825a0f5d",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-12-25",
+    "occasion": "Christmas Day"
+   },
+   "platform": "News",
+   "source": "Mashable",
+   "text": "Timothy Beck Werth is the Tech Editor at Mashable, where he leads coverage and assignments for the Tech and Shopping verticals. Tim has over 15 years of experience as a journalist and editor, and he ...",
+   "thumb": "https://helios-i.mashable.com/imagery/articles/03G86DYG3ueN3Ko38JWFfs0/hero-image.fill.size_1200x675.v1793289075.png",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
+   "title": "The 93 best Christmas gifts for 2026: Our favorite gift ideas from Apple, Lego, Kindle, and brands you've never heard of",
+   "ts": "2026-11-04T02:00:00+00:00",
+   "url": "https://mashable.com/tech/best-christmas-gifts-2026"
+  },
+  "oc-8774ebba": {
+   "age_h": 24.5,
+   "author": "",
+   "id": "oc-8774ebba",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-11",
+    "occasion": "Veterans Day"
+   },
+   "platform": "News",
+   "source": "cleveland.com on MSN",
+   "text": "CLEVELAND, Ohio — Federal, state and local government offices will close Wednesday in observance of Veterans Day, the national holiday honoring Americans who have served in the U.S. armed forces. The ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.cEWkqKhDYp5rDnGdJ7ZCrw&pid=News",
+   "title": "Veterans Day 2026: What will be open and closed on the federal holiday?",
+   "ts": "2026-11-10T06:00:00+00:00",
+   "url": "https://www.msn.com/en-us/news/other/veterans-day-2026-what-will-be-open-and-closed-on-the-federal-holiday/ar-AA2h8WQJ"
+  },
+  "oc-8c8a8f08": {
+   "age_h": 116.3,
+   "author": "",
+   "id": "oc-8c8a8f08",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-11-11",
+    "occasion": "Veterans Day"
+   },
+   "platform": "News",
+   "source": "Sun Journal",
+   "text": "From volunteering to helping with everyday tasks, small gestures can make a meaningful difference for veterans in your community.",
+   "thumb": "http://www.bing.com/th?id=ONUT.lWShHSVSFUxnJEyHOgwPlQ&pid=News",
+   "title": "How to lend veterans a helping hand all year long",
+   "ts": "2026-11-06T10:10:00+00:00",
+   "url": "https://www.sunjournal.com/2026/11/06/how-to-lend-veterans-a-helping-hand-all-year-long/"
+  },
   "oc-91ddfa7a": {
-   "age_h": 14.3,
+   "age_h": 16.0,
    "author": "",
    "id": "oc-91ddfa7a",
    "kind": "occasion news",
@@ -1193,28 +1406,11 @@
    "text": "Find Veterans Day military discounts from Target, Walgreens and Tractor Supply, plus Samsung savings, free meals and other offers.",
    "thumb": "http://www.bing.com/th?id=ONUT.gUk2wpZCE7h9pAIVCi03mw&pid=News",
    "title": "Veterans Day 2026 deals include 20% off at Target, free Starbucks, more",
-   "ts": "2026-11-09T11:15:12+00:00",
+   "ts": "2026-11-10T14:29:33+00:00",
    "url": "https://www.msn.com/en-us/news/other/veterans-day-2026-deals-include-20-off-at-target-free-starbucks-more/ar-AA2gLw17"
   },
-  "oc-95193944": {
-   "age_h": 132.1,
-   "author": "",
-   "id": "oc-95193944",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-21",
-    "occasion": "Friendsgiving"
-   },
-   "platform": "News",
-   "source": "NOSH",
-   "text": "The Registry was born out of the Napa Cellars 2026 Friendsgiving Trends Report, which identified managing rising food costs as the number one hosting challenge this year. The Friendsgiving Registry ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.dB-Qi6FP3JOeGG6_VXo7Yw&pid=News",
-   "title": "Napa Cellars Launches a First-Ever Friendsgiving Registry with Chef-Curated Menus to Combat the Financial Burden of Hosting",
-   "ts": "2026-11-04T13:32:00+00:00",
-   "url": "https://www.nosh.com/pr/2026/11/04/napa-cellars-launches-a-firstever-friendsgiving-registry-with-chefcurated-menus-to-combat-the-financial-burden-of-hosting"
-  },
   "oc-994ac665": {
-   "age_h": 177.7,
+   "age_h": 206.6,
    "author": "",
    "id": "oc-994ac665",
    "kind": "occasion news",
@@ -1226,15 +1422,49 @@
    "source": "YAHOO!",
    "text": "The holiday season at the Disney parks brings seasonal decor, entertainment, dining experiences, merchandise, and more. In recent years, Christmas isn’t the only holiday featured in these offerings.",
    "thumb": "https://s.yimg.com/lo/mysterio/api/4b6690fc14137524e5fdcadc58d2b672a49e559388f632e367c1f3b139f69547/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmickey_visit_articles_422%2Fa337eb8895df35a68b11ca5dd1b03521.png",
-   "thumb_tried": "2026-11-10T01:35:39.893268+00:00",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
    "title": "Disney Unveils New Hanukkah Merchandise Collection for 2026",
    "ts": "2026-11-02T15:55:00+00:00",
    "url": "https://shopping.yahoo.com/gift-ideas/articles/disney-unveils-hanukkah-merchandise-collection-235518097.html"
   },
-  "oc-a608d9fa": {
-   "age_h": 133.8,
+  "oc-a47e6861": {
+   "age_h": 105.5,
    "author": "",
-   "id": "oc-a608d9fa",
+   "id": "oc-a47e6861",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-12-25",
+    "occasion": "Christmas Day"
+   },
+   "platform": "News",
+   "source": "Worcester News on MSN",
+   "text": "A Greene King survey reveals how Worcester workers change Christmas traditions to keep essential services running, with 67 per cent helping someone who might otherwise spend the day alone.",
+   "thumb": "http://www.bing.com/th?id=ONUT.N5FUOtYl7quweTJkCcyitQ&pid=News",
+   "title": "Christmas Day workers reveal sacrifices to keep services running",
+   "ts": "2026-11-06T21:00:00+00:00",
+   "url": "https://www.msn.com/en-gb/news/other/christmas-day-workers-reveal-sacrifices-to-keep-services-running/ar-AA2gW5VS"
+  },
+  "oc-ad575206": {
+   "age_h": 22.8,
+   "author": "",
+   "id": "oc-ad575206",
+   "kind": "occasion news",
+   "metrics": {
+    "date": "2026-12-04",
+    "occasion": "Hanukkah"
+   },
+   "platform": "News",
+   "source": "The Jerusalem Post",
+   "text": "With no direct flights, Dubai bookings plunge, while Western Europe drops 30%. Travel agents report a surge in Eastern Europe, where Israelis feel welcome and prices remain affordable.",
+   "thumb": "http://www.bing.com/th?id=ONUT.z_i2q2WftwqZqcW-Iq2ETQ&pid=News",
+   "title": "Hanukkah 2026: The new top Israeli destinations",
+   "ts": "2026-11-10T07:45:00+00:00",
+   "url": "https://www.jpost.com/travel/article-914419"
+  },
+  "oc-b1ca4ef9": {
+   "age_h": 20.0,
+   "author": "",
+   "id": "oc-b1ca4ef9",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-11",
@@ -1242,68 +1472,34 @@
    },
    "platform": "News",
    "source": "NBC 5 Dallas-Fort Worth on MSN",
-   "text": "Nearly 6 in 10 respondents to an affordability survey said they were just getting by, struggling to make ends meet or unable to consistently afford basic needs, highlighting the financial pressure ...",
-   "thumb": "",
-   "thumb_tried": "2026-11-10T01:35:39.893268+00:00",
+   "text": "A Kerr County judge denied a request from Camp Mystic’s owners to limit the search for evidence in the criminal investigation into last summer’s deadly flooding. The judge denied the Eastland family’s ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.3oG4x1SmEjHKLF1FiAiH0g&pid=News",
    "title": "Where to find Veterans Day 2026 deals and discounts in North Texas",
-   "ts": "2026-11-04T11:45:19+00:00",
-   "url": "https://www.msn.com/en-us/money/personalfinance/where-to-find-veterans-day-2026-deals-and-discounts-in-north-texas/ar-AA2h5mlp"
+   "ts": "2026-11-10T10:29:30+00:00",
+   "url": "https://www.msn.com/en-us/money/insurance/where-to-find-veterans-day-2026-deals-and-discounts-in-north-texas/ar-AA2h5mlp"
   },
-  "oc-b60fe680": {
-   "age_h": 115.6,
+  "oc-c09bbbb8": {
+   "age_h": 16.9,
    "author": "",
-   "id": "oc-b60fe680",
+   "id": "oc-c09bbbb8",
    "kind": "occasion news",
    "metrics": {
-    "date": "2026-11-21",
-    "occasion": "Friendsgiving"
+    "date": "2026-12-04",
+    "occasion": "Hanukkah"
    },
    "platform": "News",
-   "source": "Yahoo Finance",
-   "text": "Napa Cellars, the heritage winery established in 1976, that focuses on bringing the spirit of Napa Valley to everyday experiences, today announced the launch of a Friendsgiving Registry, an online ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.gV3PpQ8Na3PE9cK17qmDaQ&pid=News",
-   "title": "Napa Cellars Launches a First-Ever Friendsgiving Registry with Chef-Curated Menus and Solutions to Combat the Financial Burden of Holiday Hosting",
-   "ts": "2026-11-05T06:00:00+00:00",
-   "url": "https://finance.yahoo.com/small-business/articles/napa-cellars-launches-first-ever-140000328.html"
+   "source": "J. The Jewish News of Northern California",
+   "text": "So much happens in our vibrant community. We’re here to highlight upcoming events from every corner of the Bay Area.",
+   "thumb": "",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
+   "title": "Upcoming events: Interfaith Thanksgiving, ‘LABAlive 2026,’ Hanukkah bazaars",
+   "ts": "2026-11-10T13:34:00+00:00",
+   "url": "https://jweekly.com/2026/11/10/upcoming-events-interfaith-thanksgiving-labalive-2026-hanukkah-bazaars/"
   },
-  "oc-c2c85612": {
-   "age_h": 47.6,
+  "oc-cae77a95": {
+   "age_h": 23.8,
    "author": "",
-   "id": "oc-c2c85612",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-21",
-    "occasion": "Friendsgiving"
-   },
-   "platform": "News",
-   "source": "The Atlanta Journal-Constitution",
-   "text": "An easy cranberry-orange puff pastry recipe from \"Happy Hour At Home\" by Elizabeth Van Lierde, is perfect for Friendsgiving.",
-   "thumb": "http://www.bing.com/th?id=ONUT.pnUCd9wYFj6NTB70z0spAw&pid=News",
-   "title": "Make these easy cranberry-orange pastries for Friendsgiving",
-   "ts": "2026-11-08T02:00:00+00:00",
-   "url": "https://www.ajc.com/food-and-dining/2026/11/cranberry-orange-puff-pastry-recipe/"
-  },
-  "oc-c8d753e3": {
-   "age_h": 92.1,
-   "author": "",
-   "id": "oc-c8d753e3",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-26",
-    "occasion": "Thanksgiving"
-   },
-   "platform": "News",
-   "source": "Yahoo",
-   "text": "When is the Macy's Thanksgiving Day Parade 2026? Here's what to know about the 100th anniversary parade, including its start time, route and how to watch.",
-   "thumb": "http://www.bing.com/th?id=ONUT.D5QplyTx_Ib2st9ABGxr6Q&pid=News",
-   "title": "Macy's Thanksgiving Day Parade 2026: Date, time, route, how to watch",
-   "ts": "2026-11-06T05:29:00+00:00",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/macys-thanksgiving-day-parade-2026-132941154.html"
-  },
-  "oc-decf232a": {
-   "age_h": 22.5,
-   "author": "",
-   "id": "oc-decf232a",
+   "id": "oc-cae77a95",
    "kind": "occasion news",
    "metrics": {
     "date": "2026-11-26",
@@ -1311,28 +1507,29 @@
    },
    "platform": "News",
    "source": "Amazon S3 on MSN",
-   "text": "Grocers are competing on Thanksgiving prices, with Walmart's Holiday Meal Basket feeding 10 for $35, or about $3.50 per person, its lowest price since 2022. Target's bundle feeds six for $30, Lidl's ...",
-   "thumb": "http://www.bing.com/th?id=ONUT.aOrL2x3ArcYy41mZiFvnJg&pid=News",
-   "title": "Grocer Thanksgiving 2026 bundles start at $3.50 per person",
-   "ts": "2026-11-09T03:05:05+00:00",
-   "url": "https://www.msn.com/en-us/news/other/grocer-thanksgiving-2026-bundles-start-at-350-per-person/vi-AA2h41cc"
+   "text": "If you're spending Thanksgiving at someone else's home, you'll probably want to bring a little something for your host rather than turn up empty-handed. While the go-to gift is often a bouquet of ...",
+   "thumb": "http://www.bing.com/th?id=ONUT.IDElf0WeUQZsqRde-5acow&pid=News",
+   "title": "5 practical Thanksgiving host gifts to bring instead of flowers",
+   "ts": "2026-11-10T06:39:48+00:00",
+   "url": "https://www.msn.com/en-us/news/other/5-practical-thanksgiving-host-gifts-to-bring-instead-of-flowers/vi-AA2h99ip"
   },
-  "oc-e1a871f8": {
-   "age_h": 16.8,
+  "oc-df01e2f8": {
+   "age_h": 1208.6,
    "author": "",
-   "id": "oc-e1a871f8",
+   "id": "oc-df01e2f8",
    "kind": "occasion news",
    "metrics": {
-    "date": "2026-11-11",
-    "occasion": "Veterans Day"
+    "date": "2026-12-25",
+    "occasion": "Christmas Day"
    },
    "platform": "News",
-   "source": "Giants Wire",
-   "text": "Veterans and active-duty military members can score free meals, pizza, burgers and discounts at Alabama restaurants on Veterans Day 2026.",
-   "thumb": "http://www.bing.com/th?id=ONUT.hglQK7F3BPbpjAYgxE29dQ&pid=News",
-   "title": "Veterans Day 2026 free meals, discounts in Alabama. Try these 32 spots",
-   "ts": "2026-11-09T08:49:00+00:00",
-   "url": "https://giantswire.usatoday.com/story/news/2026/11/09/veterans-day-2026-free-meals-discounts-in-alabama-see-32-restaurants/92690887007/"
+   "source": "Forbes",
+   "text": "Andrea Carrillo is a writer and editor with over six years of experience covering beauty, travel, wellness, and shopping for national lifestyle publications, including GQ and Reader's Digest. Diana ...",
+   "thumb": "",
+   "thumb_tried": "2026-11-11T06:30:34.807674+00:00",
+   "title": "Christmas Gifts For Women: Holiday Gift Guide",
+   "ts": "2026-09-21T21:55:00+00:00",
+   "url": "https://www.forbes.com/advisor/a/christmas-gifts-for-women-forbes/"
   },
   "oc-fb556cda": {
    "age_h": 139.6,
@@ -1350,59 +1547,49 @@
    "title": "Truly Hard Seltzer Has Drinks Covered This Friendsgiving with a Custom Potluck Pack",
    "ts": "2026-11-04T06:00:00+00:00",
    "url": "https://finance.yahoo.com/media-advertising/articles/truly-hard-seltzer-drinks-covered-140000628.html"
-  },
-  "oc-fdea2842": {
-   "age_h": 19.9,
-   "author": "",
-   "id": "oc-fdea2842",
-   "kind": "occasion news",
-   "metrics": {
-    "date": "2026-11-11",
-    "occasion": "Veterans Day"
-   },
-   "platform": "News",
-   "source": "The Conversation on MSN",
-   "text": "When the voice came over the plane’s PA system, it seemed familiar yet surprising: “Hello, everybody.” “What?!” a passenger shouted, shocked. Others laughed and rose from their seats as former ...",
-   "thumb": "http://www.bing.com/th?id=ORMS.8d335418e4424a430d83083ece49887c&pid=News",
-   "title": "A thank-you on Veterans Day won’t close the growing military-civilian gap",
-   "ts": "2026-11-09T05:41:14+00:00",
-   "url": "https://www.msn.com/en-us/news/other/a-thank-you-on-veterans-day-won-t-close-the-growing-military-civilian-gap/ar-AA2h4H5f"
   }
  },
  "locked_plays": [
   {
-   "angle": "Showcase our $18 Box of 6 as the ideal sub-$25 editor gift pick",
+   "angle": "Update website hero graphic framing the $18 Box of 6 as the polite Thanksgiving host gift.",
    "format": "static",
    "lane": "Website & Amazon",
    "pic": "Mai",
-   "trend": "Food Gift Guides Under $25"
+   "trend": "Thanksgiving Host Gifts Beat Flowers"
   },
   {
-   "angle": "Real Brooklyn bakers and warm ovens beat corporate franchise rebrands",
-   "format": "reel",
-   "lane": "Social media",
+   "angle": "Brief Brooklyn food creators to style Friendsgiving dessert tables using our holiday boxes.",
+   "format": "creator_brief",
+   "lane": "Creators",
    "pic": "Sam",
-   "trend": "Counter Warmth Beats Corporate Rebrands"
+   "trend": "Curated Platter Replaces Single Bakes"
+  },
+  {
+   "angle": "Design in-shop counter signage and bag inserts announcing our December 4 National Cookie Day box perk.",
+   "format": "static",
+   "lane": "In-shop events",
+   "pic": "Mai",
+   "trend": "National Cookie Day Early Planning"
   }
  ],
  "memo": {
   "bullets": [
-   "Delish dropped under-$25 gift lists 4 hours ago, perfectly matching our $18 six-box for budget shoppers.",
-   "Real Simple proved no-bake cookie boards trend as hosts seek mixed textures without oven prep.",
-   "Insomnia rebranded corporate styling while Crumbl pushed video game cakes, leaving classic bakery warmth wide open."
+   "Thanksgiving guides favor food gifts under $40 over flowers; box bundles win host gifting.",
+   "Cookie platters replace single-batch baking on Yahoo; mixed assortments solve dessert board variety.",
+   "Levain and TV segments highlight molten bakery textures; counter baking videos capture fresh appetite."
   ],
-  "headline": "Lead holiday gifting with sub-$25 boxes and effortless cookie boards",
-  "priority_echo": "Capture holiday gifting through our fixed-price 6-pack and 12-pack without discounting.",
-  "since_last_sweep": "Holiday gift guides opened under $25 while chain rivals chased gaming tie-ins and corporate rebrands.",
+  "headline": "Holiday host gifting beats flower bouquets while bakery cookie hype peaks.",
+  "priority_echo": "Win holiday gifting with our six and twelve boxes without discounting.",
+  "since_last_sweep": "Levain launched holiday cookies on TV while media pushed edible Thanksgiving host gifts.",
   "top_actions": [
-   "Mai: Feature the $18 Box of 6 for gift guide collections by Wednesday.",
-   "Sam: Film the zero-bake holiday cookie board styling tutorial by Thursday.",
-   "Méline: Approve the counter morning bake video concept by Friday."
+   "Sam: Film molten brown butter cookie pulls behind the counter by Thursday.",
+   "Mai: Update website banner positioning Box of 6 for Thanksgiving by Friday.",
+   "Méline: Approve National Cookie Day counter signage and staffing plan by Monday."
   ]
  },
  "occasions": {
-  "generated_at": "2026-11-10T01:35:39.893268+00:00",
-  "headline": "Hosts battle grocery inflation with aggressive meal deals while younger crowds lean into shared potlucks.",
+  "generated_at": "2026-11-11T06:30:34.807674+00:00",
+  "headline": "Hosts seek budget bundles and stress-free gifting as holiday calendar pressure builds from Thanksgiving to Christmas.",
   "occasions": [
    {
     "colors": [
@@ -1413,88 +1600,38 @@
     "date": "2026-11-11",
     "evidence": [
      "oc-91ddfa7a",
-     "oc-57a43626"
+     "oc-45cfb4d3"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-fdea2842"
+       "oc-45cfb4d3"
       ],
-      "fact": "The Conversation notes routine thank-yous fail to close the widening military-civilian gap.",
+      "fact": "Rasmussen Reports shows Americans with military family backgrounds place higher personal importance on Veterans Day observance.",
       "kind": "Think"
      },
      {
       "evidence": [
-       "oc-a608d9fa"
+       "oc-91ddfa7a"
       ],
-      "fact": "Nearly 6 in 10 people in an affordability survey report struggling to afford basic necessities.",
-      "kind": "Feel"
+      "fact": "Target offers 20% off military discounts while national chains roll out free meals and retail perks today.",
+      "kind": "Buy"
      },
      {
       "evidence": [
-       "oc-91ddfa7a",
-       "oc-e1a871f8"
+       "oc-8c8a8f08"
       ],
-      "fact": "Target gives 20% off while Starbucks and 32 Alabama restaurants give free food to service members.",
-      "kind": "Buy"
+      "fact": "Communities mobilize volunteer support and daily assistance for local veterans beyond the federal holiday closures, reports Sun Journal.",
+      "kind": "Do"
      }
     ],
     "key": "flags",
-    "mood": "Respectful and reflective, overshadowed by household affordability concerns.",
-    "name": "Veterans Day",
+    "mood": "Respectful observance focused on honoring service members alongside widespread retail military discounts.",
+    "name": "Veterans Day · 2026-11-11",
     "note": "",
-    "our_move": "Acknowledge veterans warmly at the counter; never commercialize service with gimmicky sales promotions.",
-    "owner": "Méline",
-    "theme": "Solemn gratitude and national meal discounts"
-   },
-   {
-    "colors": [
-     "#C9662F",
-     "#D99A2B",
-     "#A8452A"
-    ],
-    "date": "2026-11-21",
-    "evidence": [
-     "oc-95193944",
-     "oc-13e8cd1d"
-    ],
-    "insights": [
-     {
-      "evidence": [
-       "oc-60c6ef4a"
-      ],
-      "fact": "Truly Hard Seltzer reports 52% of younger Americans plan to host or attend Friendsgiving this season.",
-      "kind": "Do"
-     },
-     {
-      "evidence": [
-       "oc-95193944"
-      ],
-      "fact": "Napa Cellars reports managing rising food costs is the number one burden facing holiday hosts.",
-      "kind": "Feel"
-     },
-     {
-      "evidence": [
-       "oc-b60fe680"
-      ],
-      "fact": "Napa Cellars created a dedicated registry with chef-curated menus so guests split food costs directly.",
-      "kind": "Buy"
-     },
-     {
-      "evidence": [
-       "oc-13e8cd1d"
-      ],
-      "fact": "Food editors spotlight viral shortcuts like Dolly Parton's sweet potato casserole disappearing in minutes.",
-      "kind": "Post"
-     }
-    ],
-    "key": "thanksgiving",
-    "mood": "Joyful and casual, but hosts feel real pressure from rising grocery bills.",
-    "name": "Friendsgiving",
-    "note": "",
-    "our_move": "Frame 6-cookie boxes as the easiest potluck contribution that saves hosts from baking stress.",
-    "owner": "Sam",
-    "theme": "Budget potlucks and shared hosting relief"
+    "our_move": "No commercial promotions; quietly share counter gratitude and serve neighborhood veterans with warmth in the shop today.",
+    "owner": "Mai",
+    "theme": "Quiet gratitude and veteran discount deals"
    },
    {
     "colors": [
@@ -1504,40 +1641,47 @@
     ],
     "date": "2026-11-26",
     "evidence": [
-     "oc-decf232a",
-     "oc-40cd498b"
+     "oc-40cd498b",
+     "oc-cae77a95"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-decf232a",
        "oc-40cd498b"
       ],
-      "fact": "Walmart offers a $35 basket feeding 10, while Wegmans keeps dinner under $5 per person.",
+      "fact": "Wegmans launched a Thanksgiving dinner bundle under $40 feeding eight people, working out to under $5 per person.",
       "kind": "Buy"
      },
      {
       "evidence": [
-       "nw-3b3637f2"
+       "oc-2156e246"
       ],
-      "fact": "Delish tested 8 supermarket mashed potatoes to help cooks bring shortcuts that almost taste homemade.",
+      "fact": "Stop & Shop's survey found 62% consider cranberry sauce mandatory, with 55% choosing canned versions over homemade.",
       "kind": "Do"
      },
      {
       "evidence": [
-       "oc-c8d753e3"
+       "oc-38fb56f2",
+       "oc-cae77a95"
       ],
-      "fact": "Macy's marks its 100th anniversary parade, anchoring the holiday in enduring community spectacle.",
+      "fact": "Lifestyle guides at People and MSN urge guests to bring practical edible hostess gifts rather than wine or flowers.",
+      "kind": "Buy"
+     },
+     {
+      "evidence": [
+       "oc-5d7559a6"
+      ],
+      "fact": "A USA Today survey revealed dinner guests sit for hours while rating dining chair comfort unexpectedly low.",
       "kind": "Think"
      }
     ],
     "key": "thanksgiving",
-    "mood": "Grounded in tradition, but hyper-focused on grocery costs and kitchen shortcuts.",
-    "name": "Thanksgiving",
+    "mood": "Anxious over food inflation, hosts prioritize budget bundles while guests search for practical, food-based hostess gifts.",
+    "name": "Thanksgiving · 2026-11-26",
     "note": "Pie-flavored cookie; content, no sale",
-    "our_move": "Film Sam tasting our pie-flavored cookie against actual pie; pure entertaining content, strictly no discount.",
+    "our_move": "Tease our pie-inspired cookie drop on social as the ultimate dinner host gift, keeping prices firm without discounting.",
     "owner": "Sam",
-    "theme": "Aggressive value bundles and shortcut sides"
+    "theme": "Budget feasts and elevated host gifts"
    },
    {
     "colors": [
@@ -1546,39 +1690,82 @@
     ],
     "date": "2026-12-04",
     "evidence": [
-     "oc-5ddfd8a3",
-     "oc-697df4bd"
+     "oc-697df4bd",
+     "oc-ad575206"
     ],
     "insights": [
      {
       "evidence": [
-       "oc-5ddfd8a3"
+       "oc-c09bbbb8"
       ],
-      "fact": "Skirball Cultural Center hosts its Hanukkah Festival on Dec. 6 with latkes, Klezmer, and candle lighting.",
+      "fact": "Local Jewish communities are organizing holiday bazaars and interfaith cultural events ahead of December, reports J. Weekly.",
       "kind": "Do"
      },
      {
       "evidence": [
        "oc-994ac665"
       ],
-      "fact": "Disney launched an expanded 2026 Hanukkah merchandise collection across its theme parks.",
+      "fact": "Disney unveiled its dedicated 2026 Hanukkah merchandise collection to meet growing consumer demand for inclusive seasonal holiday goods.",
       "kind": "Buy"
      },
      {
       "evidence": [
        "oc-697df4bd"
       ],
-      "fact": "Canada Post issued a dedicated stamp celebrating togetherness and light to honor Jewish tradition.",
-      "kind": "Think"
+      "fact": "Canada Post launched a dedicated 2026 commemorative stamp honoring traditional Hanukkah rituals and family togetherness.",
+      "kind": "Post"
      }
     ],
     "key": "hanukkah",
-    "mood": "Warm and celebratory, welcoming shared community rituals and inclusive holiday moments.",
-    "name": "Hanukkah",
+    "mood": "Families focus on cultural connection, local community bazaars, and traditional home rituals amid travel shifts.",
+    "name": "Hanukkah · 2026-12-04",
     "note": "",
-    "our_move": "Curate a blue-ribbon 6-pack gift assortment in the shop for community pickup before night one.",
+    "our_move": "Highlight 6-box and 12-box gift assortments suitable for family gatherings and eight nights of gifting.",
     "owner": "Mai",
-    "theme": "Tradition, togetherness, and cultural representation"
+    "theme": "Tradition, community gatherings, and subtle merch"
+   },
+   {
+    "colors": [
+     "#E0262F",
+     "#2E8B57",
+     "#FFFFFF"
+    ],
+    "date": "2026-12-25",
+    "evidence": [
+     "nw-9b26db52",
+     "oc-825a0f5d"
+    ],
+    "insights": [
+     {
+      "evidence": [
+       "oc-a47e6861"
+      ],
+      "fact": "A Greene King survey reveals 67% of Christmas Day shift workers find purpose helping others during the holiday.",
+      "kind": "Think"
+     },
+     {
+      "evidence": [
+       "oc-825a0f5d",
+       "oc-df01e2f8"
+      ],
+      "fact": "Major publishers like Mashable and Forbes have rolled out early 2026 gift guides highlighting tech, toys, and curated sets.",
+      "kind": "Buy"
+     },
+     {
+      "evidence": [
+       "nw-9b26db52"
+      ],
+      "fact": "Taste of Home reports surging interest in edible and ornament advent calendars to extend the holiday countdown at home.",
+      "kind": "Do"
+     }
+    ],
+    "key": "christmas",
+    "mood": "Anticipation builds early through advent countdowns, retail gift guides, and unexpected warmth around essential holiday shifts.",
+    "name": "Christmas Day · 2026-12-25",
+    "note": "",
+    "our_move": "Position December 12-cookie boxes with free shipping over $40 as thoughtful gifts for holiday workers and offices.",
+    "owner": "Mai",
+    "theme": "Shift workers and early curated gift guides"
    }
   ]
  },
@@ -2546,241 +2733,323 @@
    "title": "Two-Minute Holiday Cookie Board TikTok",
    "trend_id": "holiday-cookie-plates",
    "why_now": "Real Simple holiday plate buzz started 12h ago right before Friendsgiving planning."
+  },
+  {
+   "approach": [
+    "Tray emerges hot from the Brooklyn deck oven with audible sizzle.",
+    "Close-up macro slow-motion pull of the Brown Butter Chocolate Chip center.",
+    "Steam and molten chocolate stretch captured against our warm bakery tiles.",
+    "Text card invites neighbors to visit the shop counter this weekend."
+   ],
+   "brand_relevance": "Fresh out of the oven pillar for weekend treat-ers wanting our signature Brooklyn molten center.",
+   "caption": "That molten center isn't a factory secret. We brown the butter, fold in dark chocolate, and pull these warm from our Brooklyn oven all morning long. Drop by the counter this weekend for yours.",
+   "created_at": "2026-11-11T06:30:34.807674+00:00",
+   "cta": "Taste it fresh at our Brooklyn counter.",
+   "doc": {
+    "body": "",
+    "title": "",
+    "to": ""
+   },
+   "due": "2026-11-13",
+   "format": "reel",
+   "funnel": "Awareness",
+   "hashtags": [
+    "#brooklynfood",
+    "#cookiepull",
+    "#freshbaked",
+    "#brownbutter",
+    "#nycbakery"
+   ],
+   "hooks": [
+    "Skip the Manhattan line; Brooklyn ovens bake molten centers fresh daily.",
+    "Joshua Weissman tested bakery molten centers, but Brooklyn does it warmest.",
+    "Your weekend treat deserves a molten center straight from our Brooklyn counter."
+   ],
+   "id": "1111-s-brooklyn-molten-cookie-pull-",
+   "kpi": "Reach 25,000 views and 1,500 saves from local treat-seekers.",
+   "lane": "Social media",
+   "message": "Hey Sam, bakery cookie hype is peaking on television with molten center cravings everywhere. Film a 15-second molten pull reel for our Brown Butter Chocolate Chip due Friday.",
+   "pic": "Sam",
+   "references": [
+    {
+     "borrow": "Borrow the slow-motion molten center break and texture focus.",
+     "id": "bi-9fc2c5be"
+    },
+    {
+     "borrow": "Borrow the warm holiday bakery tray presentation from morning television.",
+     "id": "bi-cb1093b5"
+    }
+   ],
+   "size": "S",
+   "slot": "morning",
+   "slug": "brooklyn-molten-cookie-pull-reel",
+   "status": "new",
+   "tactics": [
+    "Post Friday at 11:30 AM to capture weekend treat-seeker traffic.",
+    "Use natural morning light by the counter window for rich chocolate texture.",
+    "Pin comment linking shop counter hours and pickup box details."
+   ],
+   "title": "Fresh Oven Molten Cookie Pull Reel",
+   "trend_id": "giant-bakery-cookies",
+   "why_now": "Levain's morning TV spot sparked massive holiday chatter around molten centers."
   }
  ],
  "questions": {
-  "chai": "Shall we contrast our bakery browning butter directly against franchise rebrands?",
-  "coca": "Should we position our $18 six-box explicitly against sub-$25 guide roundups?",
-  "espresso": "Do you want Friendsgiving cookie platter content posted this weekend?",
-  "latte": "Are counter guests already asking for Friendsgiving party preorders in Brooklyn?",
-  "matcha": "Should we elevate the 12-pack holiday countdown box into our top play?",
-  "mocha": "Could Sam shoot vertical styling reels right beside the display counter?",
-  "tonic": "Can Mai deploy the $18 gift guide website asset by Wednesday?"
+  "chai": "How aggressively should we counter Insomnia's warm delivery rebrand with our Brooklyn counter baking footage?",
+  "coca": "Should we prioritize Friendsgiving host gift messaging or National Cookie Day pre-orders on the website first?",
+  "espresso": "Are we featuring Pumpkin Spice Snickerdoodle in Friendsgiving dessert platter content alongside Brown Butter Chocolate Chip?",
+  "latte": "Do Brooklyn counter customers request pre-packed host gift boxes or custom six-cookie flavor selections?",
+  "matcha": "Should we rate National Cookie Day urgency higher than Thanksgiving host gifting this week?",
+  "mocha": "Once paid ads resume, should we test holiday box host gift creative against flower delivery alternatives?",
+  "tonic": "Can Sam deliver the molten cookie reel by Thursday to capture this week's bakery hype?"
  },
  "radar": {
   "creator_brief": {
-   "concept": "The 2-Minute Friendsgiving Cookie Board",
-   "creator": "NYC casual dinner party host",
-   "deliverable": "1x TikTok showing a quick box-to-board cookie platter setup",
-   "hook": "Do not show up to Friendsgiving with another dry pumpkin pie."
+   "concept": "The 'Don't Make Them Wash A Vase' Host Gift",
+   "creator": "Brooklyn food and dinner party lifestyle creator (15k-50k followers)",
+   "deliverable": "1x TikTok / IG Reel showing arrival at Friendsgiving with a ribbon-tied 6-box",
+   "hook": "Stop bringing your Thanksgiving host flowers they have to arrange."
   },
-  "generated_at": "2026-11-10T01:35:39.893268+00:00",
-  "headline": "Holiday cookie plate styling and sub-$25 gift guides kick off early while hosts look for potluck shortcuts.",
+  "generated_at": "2026-11-11T06:30:34.807674+00:00",
+  "headline": "Holiday hosts want curated cookie assortments and edible host gifts, skipping home baking entirely.",
   "moves": [
    {
     "area": "Our category",
     "evidence": [
-     "nw-be4fa97d"
+     "nw-d947407b",
+     "nw-e286dd3f"
     ],
-    "happened": "Real Simple published guides showing the best holiday cookie plates require diverse textures, shapes, and spices rather than uniform single batches.",
+    "happened": "Food outlets report holiday hosts curate variety cookie plates blending textures and shapes instead of baking one batch.",
     "heat": "this week",
     "owner": "Sam",
-    "proof": "Featured 6 curated recipe styles 12 hours ago.",
+    "proof": "Yahoo and Delish launched dedicated holiday cookie guides this week.",
     "relevance": 9,
-    "steal": "Film Sam styling an effortless holiday cookie board using our mixed six-pack.",
-    "title": "Holiday cookie plates demand mixed textures and zero baking",
-    "why_us": "Our mixed 6 and 12-boxes solve the assortment challenge without forcing customers to bake all day."
+    "steal": "Film Sam styling a festive dessert platter using our mixed holiday box.",
+    "title": "Curated cookie plates replace single-flavor holiday platters",
+    "why_us": "Positions our mixed 6 and 12-cookie boxes as the ready-made holiday platter foundation."
    },
    {
     "area": "Cultural events",
     "evidence": [
-     "oc-b60fe680",
-     "oc-c2c85612"
+     "oc-cae77a95"
     ],
-    "happened": "National reports show younger hosts creating registries and buying ready-made items to tackle rising holiday meal costs and prep fatigue.",
-    "heat": "this week",
-    "owner": "Sam",
-    "proof": "52% of younger Americans attend or host Friendsgiving.",
-    "relevance": 9,
-    "steal": "Promote our 12-box as the ultimate potluck hero for Friendsgiving tables.",
-    "title": "Friendsgiving hosts outsource dessert to avoid potluck burnout",
-    "why_us": "Attendees need a high-impact shareable dessert that feels premium without touching an oven."
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "nw-ec7bfbb8"
-    ],
-    "happened": "Major food editors started rolling out early holiday gift lists specifically curating thoughtful food items under twenty-five dollars.",
-    "heat": "now",
-    "owner": "Mai",
-    "proof": "10 gifts under $25 published 4 hours ago.",
-    "relevance": 8,
-    "steal": "Position our 6-cookie box across social and counter displays as the ideal under-$25 gift.",
-    "title": "Holiday gift roundups spotlight editor picks under $25",
-    "why_us": "Our box of 6 sits squarely in the accessible sweet spot for neighbor and coworker gifting."
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "nw-8a69142b"
-    ],
-    "happened": "Bon Appétit highlighted consumers swapping predictable chocolate advent calendars for small-batch artisanal food countdowns.",
+    "happened": "Outlets advise bringing practical gourmet food gifts to Thanksgiving hosts rather than cut flowers that require vases.",
     "heat": "this week",
     "owner": "Mai",
-    "proof": "Artisan countdown feature published 9 hours ago.",
-    "relevance": 8,
-    "steal": "Frame our 12-cookie box as an artisanal December countdown on digital channels.",
-    "title": "Artisan food advent calendars replace standard chocolate boxes",
-    "why_us": "Proves shoppers value specialty culinary curations over mass-market advent novelties this winter."
-   }
-  ],
-  "signals": [
+    "proof": "MSN and lifestyle media spotlight edible host gifts under $40.",
+    "relevance": 9,
+    "steal": "Push website messaging positioning our box as the polite dinner host gift.",
+    "title": "Practical food gifts beat flowers for Thanksgiving hosts",
+    "why_us": "Perfect angle for The Gifter buying our 6-cookie box for dinner parties."
+   },
    {
     "area": "Viral social",
     "evidence": [
-     "nw-f6a041de"
+     "bi-cb1093b5",
+     "bi-9fc2c5be"
     ],
+    "happened": "Levain launched seasonal holiday flavors on national TV while creators like Joshua Weissman recreate chunky bakery cookies.",
     "heat": "now",
-    "line": "Starbucks releases Bearista mystery boxes sparking early collector resale chatter.",
-    "name": "Collectible mystery drinkware drops",
-    "relevance": 6
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "nw-ec7bfbb8"
-    ],
-    "heat": "now",
-    "line": "Delish editors release early curation of food gifts under $25.",
-    "name": "Delish budget holiday guides",
-    "relevance": 8
-   },
-   {
-    "area": "Our category",
-    "evidence": [
-     "nw-be4fa97d"
-    ],
-    "heat": "this week",
-    "line": "Real Simple showcases balancing multiple textures and flavors on holiday plates.",
-    "name": "Curated holiday cookie platters",
-    "relevance": 9
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "nw-8a69142b"
-    ],
-    "heat": "this week",
-    "line": "Bon Appétit reports consumers seeking non-chocolate craft food calendars.",
-    "name": "Artisanal food advent calendars",
-    "relevance": 8
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "oc-b60fe680"
-    ],
-    "heat": "this week",
-    "line": "Brands launch registry tools to ease rising potluck hosting expenses.",
-    "name": "Friendsgiving hosting registries",
-    "relevance": 8
-   },
-   {
-    "area": "Cultural events",
-    "evidence": [
-     "cal-3b601c3d"
-    ],
-    "heat": "now",
-    "line": "Federal holiday closes banks and USPS shipping across the nation.",
-    "name": "Veterans Day postal pause",
-    "relevance": 6
+    "owner": "Sam",
+    "proof": "Weissman taste-tested 6-ounce cookies on MSN 24 hours ago.",
+    "relevance": 8,
+    "steal": "Film fresh molten cookie pulls right out of the Brooklyn oven.",
+    "title": "Giant bakery cookies drive creator holiday hype",
+    "why_us": "Validates demand for hefty Brooklyn-style cookies over mass retail brands."
    },
    {
     "area": "Pop culture",
     "evidence": [
-     "nw-26bc1bd7"
+     "nw-8a69142b",
+     "nw-9b26db52"
+    ],
+    "happened": "Bon Appétit reported non-traditional advent calendars featuring gourmet spreads and artisanal foods are replacing cheap chocolate.",
+    "heat": "watch",
+    "owner": "Mai",
+    "proof": "Bon Appétit declared craft food calendars the wired holiday countdown format.",
+    "relevance": 7,
+    "steal": "Scope a 12-day December cookie tasting box for web pre-orders.",
+    "title": "Artisanal food advent calendars challenge traditional candy",
+    "why_us": "Opens an opportunity for a 12-day cookie countdown box in December."
+   }
+  ],
+  "signals": [
+   {
+    "area": "Our category",
+    "evidence": [
+     "nw-e286dd3f"
+    ],
+    "heat": "this week",
+    "line": "Delish released its festive cookie magazine early as home bakers seek holiday inspiration.",
+    "name": "Holiday Cookie Quarterly launch",
+    "relevance": 8
+   },
+   {
+    "area": "Viral social",
+    "evidence": [
+     "nw-9120c040"
+    ],
+    "heat": "this week",
+    "line": "Creator Honeysuckle tested viral stuffed cookie cake, highlighting consumer love for gooey layers.",
+    "name": "Stuffed cookie pie cake recipe",
+    "relevance": 7
+   },
+   {
+    "area": "Our category",
+    "evidence": [
+     "bi-657a1c46",
+     "bi-9638c5b3"
     ],
     "heat": "watch",
-    "line": "The Kitchn spotlights vintage 7UP cake and heritage potluck desserts.",
-    "name": "Retro bakery nostalgia revival",
+    "line": "Late-night bakery chain refocused branding around warm delivery to capture comfort occasions.",
+    "name": "Insomnia Cookies warm cookie rebrand",
+    "relevance": 6
+   },
+   {
+    "area": "Cultural events",
+    "evidence": [
+     "oc-cae77a95"
+    ],
+    "heat": "this week",
+    "line": "Lifestyle editors recommend gifting edible treats over cut flowers to save host labor.",
+    "name": "Thanksgiving dinner host gifting guide",
+    "relevance": 8
+   },
+   {
+    "area": "Pop culture",
+    "evidence": [
+     "nw-8a69142b"
+    ],
+    "heat": "watch",
+    "line": "Bon Appétit showcases specialty food calendars as replacements for generic grocery chocolate boxes.",
+    "name": "Artisanal food advent calendars rise",
+    "relevance": 7
+   },
+   {
+    "area": "Search spikes",
+    "evidence": [
+     "gt-39515ecd"
+    ],
+    "heat": "now",
+    "line": "Search spiked over 5,000 queries following alleged headliner leaks across entertainment media.",
+    "name": "Coachella 2027 lineup buzz",
+    "relevance": 2
+   },
+   {
+    "area": "Pop culture",
+    "evidence": [
+     "nw-f6a041de"
+    ],
+    "heat": "this week",
+    "line": "Starbucks dropped mystery box Bearista cups, driving unboxing buzz and limited-drop collector hype.",
+    "name": "Starbucks collectible Bearista cups",
     "relevance": 5
    },
    {
     "area": "Our category",
     "evidence": [
-     "nw-72ebfbc4"
+     "bi-97df3fc2"
     ],
     "heat": "watch",
-    "line": "Panda Express tests Ghirardelli chocolate rangoons across ten test markets.",
-    "name": "Fast casual chocolate collaborations",
+    "line": "Founders celebrated 27 years of warm cookie delivery, reinforcing sentimental gift storytelling.",
+    "name": "Tiff's Treats founders profile",
     "relevance": 5
+   },
+   {
+    "area": "Hashtags",
+    "evidence": [
+     "nw-d947407b"
+    ],
+    "heat": "this week",
+    "line": "Use #HolidayCookiePlate to show how to arrange our 6-pack cookies alongside fruits and nuts.",
+    "name": "#HolidayCookiePlate styling trend",
+    "relevance": 8
+   },
+   {
+    "area": "Hashtags",
+    "evidence": [
+     "oc-cae77a95"
+    ],
+    "heat": "this week",
+    "line": "Tag #HostessGift on TikTok showing a tied bakery box brought to dinner instead of wine.",
+    "name": "#HostessGift ideas for Friendsgiving",
+    "relevance": 8
    },
    {
     "area": "Cultural events",
     "evidence": [
-     "oc-40cd498b"
+     "oc-8774ebba",
+     "oc-91ddfa7a"
     ],
-    "heat": "this week",
-    "line": "Wegmans markets Thanksgiving dinner bundles serving eight people under $40.",
-    "name": "Wegmans budget holiday meal bundles",
-    "relevance": 7
+    "heat": "now",
+    "line": "Chains roll discounts across US while public offices close for federal observance.",
+    "name": "Veterans Day retail promotions",
+    "relevance": 3
    },
    {
-    "area": "Hashtags",
+    "area": "Our category",
     "evidence": [
-     "cal-7b0b64f0"
+     "nw-fbac2498"
     ],
     "heat": "this week",
-    "line": "Use to capture hosts seeking low-effort crowd-pleasing dessert alternatives to pies.",
-    "name": "#FriendsgivingDessert",
-    "relevance": 9
-   },
-   {
-    "area": "Hashtags",
-    "evidence": [
-     "nw-be4fa97d"
-    ],
-    "heat": "this week",
-    "line": "Tag aesthetic cookie board assemblies and holiday party serving arrangements.",
-    "name": "#CookiePlatter",
-    "relevance": 8
+    "line": "The Kitchn highlighted rich boxed brownie hacks, showing appetite for indulgent holiday chocolate.",
+    "name": "German chocolate Thanksgiving hacks",
+    "relevance": 6
    }
   ],
   "skip": [
    {
-    "name": "Veterans Day retail discounting",
-    "why": "We never discount cookies; competing with big chain freebies dilutes our pricing integrity."
+    "name": "Coachella 2027 lineup leaks",
+    "why": "5,000+ searches, but spring festival rumors offer zero holiday cookie relevance."
    },
    {
-    "name": "Video game fast-food collabs",
-    "why": "Gimmicky brand stunts clash directly with our Brooklyn craft bakery counter identity."
+    "name": "Veterans Day chain discounts",
+    "why": "We honor service quietly; discounting cookies violates our strict no-discount brand rule."
+   },
+   {
+    "name": "Fast food savory mashups",
+    "why": "Taco Bell chalupa hot dog mockery does not fit our craft Brooklyn bakery aesthetic."
    }
   ],
   "watch": [
    {
     "direction": "rising",
-    "line": "Surprise packaging drops drive morning store queues and viral unboxings.",
-    "name": "Blind box beverage collectibles"
+    "line": "Honeysuckle viral cookie pie cake recipes show stuffed dessert hybrids rising fast.",
+    "name": "Cookie pie cakes"
    },
    {
     "direction": "rising",
-    "line": "Ambrosia and soda cakes return across editorial recipe sites this week.",
-    "name": "Nostalgic retro baking"
+    "line": "Searches and articles questioning raw cranberry safety signal early holiday tart fruit interest.",
+    "name": "Cranberry tartness debates"
    },
    {
     "direction": "rising",
-    "line": "Sub-$40 grocer Thanksgiving bundles anchor customer price expectations nationwide.",
-    "name": "Budget holiday meal bundles"
+    "line": "Early retail cookware discounts dominate food news feeds before mid-November.",
+    "name": "Early Black Friday kitchen deals"
+   },
+   {
+    "direction": "rising",
+    "line": "Competitor rebranding highlights warm delivery, pushing category conversation into comfort occasions.",
+    "name": "Late-night warm cookie branding"
    },
    {
     "direction": "fading",
-    "line": "Mass entertainment food crossovers clutter casual feeds with artificial hype.",
-    "name": "Movie studio fast-food tie-ins"
+    "line": "Novelty stunt mashups gain quick viral mockery on Delish and food feeds.",
+    "name": "Fast food stunt hybrids"
    }
   ],
   "week": [
-   "Wed · Veterans Day mail pause · Remind local foot traffic our counter is open.",
-   "Thu · Sub-$25 gift lists · Pitch our 6-box to local holiday gift guides.",
-   "Fri · Weekend treat rush · Sam films counter cookie pulls for evening cravings.",
-   "Sat · Brooklyn market mornings · Mai stocks grab-and-go 6-boxes for weekend host gifts.",
-   "Sun · Friendsgiving countdown · Post pre-order reminders for potluck dessert boxes.",
-   "Mon · Thanksgiving prep week · Film behind-the-counter dough prep to build anticipation.",
-   "Tue · 10 days to Friendsgiving · Showcase party platter arrangements using three cookie flavors."
+   "Thu · Holiday cookie platter trends · Sam films a 6-cookie styling reel for parties.",
+   "Fri · Weekend host prep begins · Promote in-shop 6-boxes as dinner party gifts.",
+   "Sat · Peak weekend foot traffic · Offer warm counter samplers from the Brooklyn oven.",
+   "Sun · Friendsgiving menu planning · Mai updates website copy for outsourced desserts.",
+   "Mon · Thanksgiving gift guide push · Sam shares host gift box content on TikTok.",
+   "Tue · Corporate holiday gifting · Mai emails B2B offices about 12-cookie gift boxes.",
+   "Wed · One week to Thanksgiving · Push pre-orders for local Brooklyn pickup."
   ]
  },
  "reports": {
-  "morning": "2026-11-10T01:35:39.893268+00:00"
+  "morning": "2026-11-11T06:30:34.807674+00:00"
  },
  "runs": [
   {
@@ -3955,11 +4224,80 @@
     "studio_failed": [],
     "usd": 0.0
    }
+  },
+  {
+   "at": "2026-11-11T06:30:34.807674+00:00",
+   "new_plays": 1,
+   "signals": 147,
+   "slot": "morning",
+   "usage": {
+    "board": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "high",
+     "input": 17435,
+     "model": "gemini-flash-latest",
+     "output": 4284,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "brands": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "medium",
+     "input": 3935,
+     "model": "gemini-flash-latest",
+     "output": 917,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "free": true,
+    "occasions": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "medium",
+     "input": 6622,
+     "model": "gemini-flash-latest",
+     "output": 1378,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "provider": "gemini",
+    "radar": {
+     "cache_read": 0,
+     "cache_write": 0,
+     "effort": "medium",
+     "input": 14254,
+     "model": "gemini-flash-latest",
+     "output": 2405,
+     "provider": "gemini",
+     "repaired": 0,
+     "usd": 0.0
+    },
+    "studio": [
+     {
+      "cache_read": 0,
+      "cache_write": 0,
+      "effort": "medium",
+      "input": 3395,
+      "model": "gemini-flash-latest",
+      "output": 607,
+      "provider": "gemini",
+      "repaired": 0,
+      "usd": 0.0
+     }
+    ],
+    "studio_failed": [],
+    "usd": 0.0
+   }
   }
  ],
  "scouts": {
   "calendar": {
-   "count": 10,
+   "count": 12,
    "note": "",
    "ok": true,
    "seconds": 0.0
@@ -3971,22 +4309,22 @@
    "seconds": 0.2
   },
   "news": {
-   "count": 60,
+   "count": 81,
    "note": "",
    "ok": true,
-   "seconds": 2.5
+   "seconds": 2.3
   },
   "occasions": {
-   "count": 37,
-   "note": "Veterans Day, Friendsgiving, Thanksgiving, Hanukkah",
+   "count": 38,
+   "note": "Veterans Day, Thanksgiving, Hanukkah, Christmas Day",
    "ok": true,
-   "seconds": 15.8
+   "seconds": 15.4
   },
   "rivals": {
-   "count": 7,
+   "count": 6,
    "note": "",
    "ok": true,
-   "seconds": 7.9
+   "seconds": 7.7
   },
   "shop": {
    "count": 4,
@@ -3998,35 +4336,35 @@
  "slot": "morning",
  "staff": {
   "chai": {
-   "learned": "No huddle was held; watching competitor corporate moves independently.",
-   "status": "Monitoring Insomnia's rebranding push and Crumbl's weekly novelty rotations."
+   "learned": "No huddle occurred; monitored brand press without live client feedback.",
+   "status": "Monitoring Levain media moves and Insomnia late-night delivery rebranding."
   },
   "coca": {
-   "learned": "No huddle was held; using standing brief rules on gifting.",
-   "status": "Synthesizing food trends and framing the holiday gifting brief."
+   "learned": "No huddle occurred; aligned recommendations directly with standing holiday box brief.",
+   "status": "Directing agency report priorities and finalizing holiday gifting strategy."
   },
   "espresso": {
-   "learned": "No huddle was held; pulling insights directly from cultural signals.",
-   "status": "Tracking holiday gift guides, Friendsgiving planning, and dessert plating trends."
+   "learned": "No huddle occurred; focused cultural scans on edible host gifting shifts.",
+   "status": "Tracking Thanksgiving host gifting angles and viral bakery dessert plates."
   },
   "latte": {
-   "learned": "No huddle was held; tracking potluck customer chatter from reports.",
-   "status": "Listening for host stress over Friendsgiving dessert costs and prep."
+   "learned": "No huddle occurred; customer listening desk remains quiet for this trial.",
+   "status": "Customer voice desk paused; tracking holiday gathering dessert feedback."
   },
   "matcha": {
-   "learned": "No huddle was held; applying strict scoring against standing pillars.",
-   "status": "Scoring holiday gifting opportunities and filtering chain gimmick distractions."
+   "learned": "No huddle occurred; scored opportunities against standing brief and no-discount rule.",
+   "status": "Scoring cultural opportunities and filtering discount gimmicks against brand rules."
   },
   "mocha": {
-   "learned": "No huddle was held; analyzing visual editorial layouts solo.",
-   "status": "Reviewing visual styling cues from editorial holiday cookie guides."
+   "learned": "No huddle occurred; maintained ad desk pause under trial office rules.",
+   "status": "Ad desk paused; reviewing competitor brand creative angles for organic fit."
   },
   "tonic": {
-   "learned": "No huddle was held; routing tasks according to assigned member lanes.",
-   "status": "Managing production deliverables for Sam and Mai across holiday lanes."
+   "learned": "No huddle occurred; scheduled play deadlines to support upcoming November milestones.",
+   "status": "Managing production tickets and coordinating upcoming holiday play deadlines."
   }
  },
- "swept_at": "2026-11-10T01:35:55.687231+00:00",
+ "swept_at": "2026-11-11T06:30:50.186199+00:00",
  "trend_history": [
   {
    "first_seen": "2026-10-25T11:58:12.889185+00:00",
@@ -4165,14 +4503,6 @@
    "verdict": "Skip"
   },
   {
-   "first_seen": "2026-11-04T01:25:30.917221+00:00",
-   "id": "bakeware-holiday-gifting",
-   "last_seen": "2026-11-08T00:41:14.988798+00:00",
-   "name": "Early Black Friday Cookware Deals",
-   "times": 5,
-   "verdict": "Watch"
-  },
-  {
    "first_seen": "2026-10-30T01:04:06.372500+00:00",
    "id": "ultraprocessed-food-scrutiny",
    "last_seen": "2026-11-09T06:40:22.788090+00:00",
@@ -4187,14 +4517,6 @@
    "name": "Holiday Swap Brown Butter Spotlight",
    "times": 9,
    "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-10-29T01:50:35.613950+00:00",
-   "id": "gamified-mystery-flavors",
-   "last_seen": "2026-11-09T06:40:22.788090+00:00",
-   "name": "Scoopable Cookie Dough Tubs",
-   "times": 11,
-   "verdict": "Skip"
   },
   {
    "first_seen": "2026-11-07T02:52:31.209761+00:00",
@@ -4213,52 +4535,12 @@
    "verdict": "Watch"
   },
   {
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "id": "bakery-host-gifts",
-   "last_seen": "2026-11-10T01:35:39.893268+00:00",
-   "name": "Friendsgiving Handheld Dessert Demand",
-   "times": 11,
-   "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "id": "fast-food-giveaways",
-   "last_seen": "2026-11-10T01:35:39.893268+00:00",
-   "name": "Veterans Day Discount Freebies",
-   "times": 10,
-   "verdict": "Skip"
-  },
-  {
-   "first_seen": "2026-11-08T00:41:14.988798+00:00",
-   "id": "advent-countdown-boxes",
-   "last_seen": "2026-11-10T01:35:39.893268+00:00",
-   "name": "Artisan Food Advent Countdowns",
-   "times": 3,
-   "verdict": "This week"
-  },
-  {
-   "first_seen": "2026-11-10T01:35:39.893268+00:00",
-   "id": "holiday-cookie-plates",
-   "last_seen": "2026-11-10T01:35:39.893268+00:00",
-   "name": "No-Bake Holiday Cookie Boards",
-   "times": 1,
-   "verdict": "Act today"
-  },
-  {
    "first_seen": "2026-11-10T01:35:39.893268+00:00",
    "id": "gifts-under-25",
    "last_seen": "2026-11-10T01:35:39.893268+00:00",
    "name": "Food Gift Guides Under $25",
    "times": 1,
    "verdict": "Act today"
-  },
-  {
-   "first_seen": "2026-11-10T01:35:39.893268+00:00",
-   "id": "insomnia-corporate-rebrand",
-   "last_seen": "2026-11-10T01:35:39.893268+00:00",
-   "name": "Counter Warmth Beats Corporate Rebrands",
-   "times": 1,
-   "verdict": "This week"
   },
   {
    "first_seen": "2026-11-10T01:35:39.893268+00:00",
@@ -4275,64 +4557,89 @@
    "name": "Novelty Video Game Bakery Gimmicks",
    "times": 1,
    "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-11-04T01:25:30.917221+00:00",
+   "id": "bakeware-holiday-gifting",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Cookware Early Black Friday Deals",
+   "times": 6,
+   "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-10-29T01:50:35.613950+00:00",
+   "id": "gamified-mystery-flavors",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Collectible Blind Mystery Merch Drops",
+   "times": 12,
+   "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
+   "id": "bakery-host-gifts",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Thanksgiving Host Gifts Beat Flowers",
+   "times": 12,
+   "verdict": "Act today"
+  },
+  {
+   "first_seen": "2026-10-27T00:28:55.264761+00:00",
+   "id": "fast-food-giveaways",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Veterans Day Promo Code Overload",
+   "times": 11,
+   "verdict": "Skip"
+  },
+  {
+   "first_seen": "2026-11-08T00:41:14.988798+00:00",
+   "id": "advent-countdown-boxes",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Craft Food Advent Box Surge",
+   "times": 4,
+   "verdict": "This week"
+  },
+  {
+   "first_seen": "2026-11-10T01:35:39.893268+00:00",
+   "id": "holiday-cookie-plates",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Curated Platter Replaces Single Bakes",
+   "times": 2,
+   "verdict": "Act today"
+  },
+  {
+   "first_seen": "2026-11-10T01:35:39.893268+00:00",
+   "id": "insomnia-corporate-rebrand",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Warm Delivery Branding vs Craft",
+   "times": 2,
+   "verdict": "Watch"
+  },
+  {
+   "first_seen": "2026-11-11T06:30:34.807674+00:00",
+   "id": "giant-bakery-cookies",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "Bakery Molten Texture Grabs Spotlight",
+   "times": 1,
+   "verdict": "This week"
+  },
+  {
+   "first_seen": "2026-11-11T06:30:34.807674+00:00",
+   "id": "national-cookie-day-prep",
+   "last_seen": "2026-11-11T06:30:34.807674+00:00",
+   "name": "National Cookie Day Early Planning",
+   "times": 1,
+   "verdict": "This week"
   }
  ],
  "trends": [
   {
-   "category": "Food & baking",
-   "evidence": [
-    "nw-be4fa97d"
-   ],
-   "first_seen": "2026-11-10T01:35:39.893268+00:00",
-   "fit": {
-    "persona": "The weekend treat-er",
-    "pillar": "Fresh out of the oven",
-    "product_key": "box-of-6"
-   },
-   "formats": [
-    "tiktok",
-    "reel",
-    "carousel"
-   ],
-   "funnel": "Awareness",
-   "id": "holiday-cookie-plates",
-   "insight": "Hosts want diverse textures and shapes without spending hours baking separate batches.",
-   "looks": [],
-   "momentum": "rising",
-   "move": "Film Sam styling an effortless holiday board using our mixed six-pack.",
-   "name": "No-Bake Holiday Cookie Boards",
-   "platforms": [
-    "News",
-    "Instagram",
-    "TikTok"
-   ],
-   "refs": [],
-   "relevance": 91,
-   "risk": "Visual boards look cluttered if cookies are stacked haphazardly.",
-   "scores": {
-    "brand_fit": 10,
-    "ease": 9,
-    "momentum": 9,
-    "reach": 8,
-    "urgency": 8
-   },
-   "search_terms": [
-    "holiday cookie board",
-    "cookie plate styling",
-    "easy cookie platter"
-   ],
-   "verdict": "Act today",
-   "verified": true,
-   "what": "Real Simple published guides highlighting curated multi-cookie plates over single-batch baking.",
-   "why_us": "Our mixed 6-pack and 12-pack provide instant variety and bakery-fresh textures.",
-   "window": "Next 48 hours"
-  },
-  {
    "category": "Gifting & occasions",
    "evidence": [
-    "nw-ec7bfbb8"
+    "oc-cae77a95",
+    "cal-7b0b64f0",
+    "cal-0cbf687e"
    ],
-   "first_seen": "2026-11-10T01:35:39.893268+00:00",
+   "first_seen": "2026-10-25T11:58:12.889185+00:00",
    "fit": {
     "persona": "The gifter",
     "pillar": "Gifting & occasions",
@@ -4340,144 +4647,195 @@
    },
    "formats": [
     "static",
-    "creator_brief",
-    "story"
+    "reel",
+    "tiktok"
    ],
    "funnel": "Conversion",
-   "id": "gifts-under-25",
-   "insight": "Editors and gift shoppers are prioritizing high-end food treats priced below twenty-five dollars.",
+   "id": "bakery-host-gifts",
+   "insight": "Thanksgiving dinner hosts favor practical food gifts over flowers that require vase care.",
    "looks": [],
    "momentum": "rising",
-   "move": "Anchor website banners and counter signs around thoughtful gifting under $25.",
-   "name": "Food Gift Guides Under $25",
+   "move": "Position our boxed cookies on website and social as polite dinner host gifts.",
+   "name": "Thanksgiving Host Gifts Beat Flowers",
    "platforms": [
     "News",
-    "Search"
+    "Calendar",
+    "TikTok"
    ],
    "refs": [],
-   "relevance": 86,
-   "risk": "Overlooking shipping cutoffs could deter early online purchasers.",
+   "relevance": 85,
+   "risk": "Looking like careless potluck guests if packaging does not feel deliberate and festive.",
    "scores": {
     "brand_fit": 9,
     "ease": 9,
     "momentum": 8,
-    "reach": 9,
-    "urgency": 8
-   },
-   "search_terms": [
-    "gifts under 25",
-    "food gifts under 25",
-    "affordable holiday gifts"
-   ],
-   "verdict": "Act today",
-   "verified": true,
-   "what": "Delish published an editor-curated gift roundup specifically featuring food items under $25.",
-   "why_us": "Our Box of 6 retails at $18, hitting the exact sweet spot.",
-   "window": "This week"
-  },
-  {
-   "category": "Gifting & occasions",
-   "evidence": [
-    "oc-b60fe680",
-    "oc-60c6ef4a",
-    "cal-7b0b64f0"
-   ],
-   "first_seen": "2026-10-25T11:58:12.889185+00:00",
-   "fit": {
-    "persona": "The office hero",
-    "pillar": "Gifting & occasions",
-    "product_key": "holiday-box-of-12"
-   },
-   "formats": [
-    "tiktok",
-    "carousel",
-    "seeding"
-   ],
-   "funnel": "Consideration",
-   "id": "bakery-host-gifts",
-   "insight": "Friendsgiving hosts face prep fatigue and rely on guests bringing easy handheld desserts.",
-   "looks": [],
-   "momentum": "rising",
-   "move": "Position our 12-cookie box as the stress-free potluck dessert centerpiece.",
-   "name": "Friendsgiving Handheld Dessert Demand",
-   "platforms": [
-    "News",
-    "TikTok",
-    "Calendar"
-   ],
-   "refs": [],
-   "relevance": 86,
-   "risk": "Pie traditions remain strong unless cookie convenience is clearly demonstrated.",
-   "scores": {
-    "brand_fit": 9,
-    "ease": 8,
-    "momentum": 9,
     "reach": 8,
     "urgency": 8
    },
    "search_terms": [
-    "friendsgiving dessert ideas",
-    "potluck dessert shortcuts",
-    "friendsgiving host gifts"
+    "Thanksgiving host gifts",
+    "food host gifts",
+    "Friendsgiving dessert gift"
    ],
-   "verdict": "This week",
+   "verdict": "Act today",
    "verified": true,
-   "what": "Reports show 52% of younger adults attend Friendsgiving and actively outsource dessert courses.",
-   "why_us": "Our Holiday Box of 12 delivers generous sharing without slicing or plating.",
-   "window": "Before Nov 21"
+   "what": "Lifestyle media spotlights gourmet edible host gifts under $40 to replace traditional floral arrangements.",
+   "why_us": "Our Box of 6 at $18 and Holiday Box at $34 fit gifting budgets perfectly.",
+   "window": "Next 10 days until Friendsgiving"
   },
   {
-   "category": "Competitor move",
+   "category": "Food & baking",
    "evidence": [
-    "bi-377f520a"
+    "nw-d947407b",
+    "nw-e286dd3f"
    ],
    "first_seen": "2026-11-10T01:35:39.893268+00:00",
    "fit": {
     "persona": "The weekend treat-er",
-    "pillar": "Behind the counter",
-    "product_key": "brown-butter-chocolate-chip"
+    "pillar": "Fresh out of the oven",
+    "product_key": "holiday-box-of-12"
    },
    "formats": [
-    "reel",
     "tiktok",
-    "story"
+    "reel",
+    "carousel"
    ],
-   "funnel": "Awareness",
-   "id": "insomnia-corporate-rebrand",
-   "insight": "Chains are shifting toward corporate visuals while dessert lovers crave real baker authenticity.",
+   "funnel": "Consideration",
+   "id": "holiday-cookie-plates",
+   "insight": "Holiday party hosts assemble variety cookie platters instead of baking single large batches.",
    "looks": [],
-   "momentum": "steady",
-   "move": "Film Méline preparing fresh dough batches to celebrate genuine local baking.",
-   "name": "Counter Warmth Beats Corporate Rebrands",
+   "momentum": "rising",
+   "move": "Publish quick styling guides plating our cookie boxes onto festive holiday boards.",
+   "name": "Curated Platter Replaces Single Bakes",
    "platforms": [
     "News",
+    "Instagram",
     "TikTok"
    ],
    "refs": [],
-   "relevance": 74,
-   "risk": "Sounding negative toward competitors instead of highlighting our handmade baking craft.",
+   "relevance": 84,
+   "risk": "Showing fussy styling steps that make serving feel intimidating rather than effortless.",
    "scores": {
-    "brand_fit": 8,
-    "ease": 8,
-    "momentum": 7,
+    "brand_fit": 9,
+    "ease": 9,
+    "momentum": 8,
     "reach": 7,
-    "urgency": 6
+    "urgency": 8
    },
    "search_terms": [
-    "cookie shop behind the scenes",
-    "bakery morning prep",
-    "small batch cookies"
+    "holiday cookie plate",
+    "cookie board styling",
+    "holiday dessert platter"
+   ],
+   "verdict": "Act today",
+   "verified": true,
+   "what": "Yahoo and Delish report hosts blend distinct cookie textures and shapes on festive presentation boards.",
+   "why_us": "Pairing Brown Butter Chocolate Chip with Pumpkin Spice Snickerdoodle delivers contrasting textures immediately.",
+   "window": "Through late November holiday gatherings"
+  },
+  {
+   "category": "Competitor move",
+   "evidence": [
+    "bi-9fc2c5be",
+    "bi-cb1093b5"
+   ],
+   "first_seen": "2026-11-11T06:30:34.807674+00:00",
+   "fit": {
+    "persona": "The weekend treat-er",
+    "pillar": "Fresh out of the oven",
+    "product_key": "brown-butter-chocolate-chip"
+   },
+   "formats": [
+    "tiktok",
+    "reel",
+    "story"
+   ],
+   "funnel": "Awareness",
+   "id": "giant-bakery-cookies",
+   "insight": "Bakery cookie hype peaks on national morning television while creators celebrate molten centers.",
+   "looks": [],
+   "momentum": "rising",
+   "move": "Film molten cookie pulls fresh from our Brooklyn oven behind the counter.",
+   "name": "Bakery Molten Texture Grabs Spotlight",
+   "platforms": [
+    "News",
+    "TikTok",
+    "YouTube"
+   ],
+   "refs": [],
+   "relevance": 80,
+   "risk": "Trying to emulate national factory scale instead of celebrating neighborhood batch warmth.",
+   "scores": {
+    "brand_fit": 8,
+    "ease": 9,
+    "momentum": 8,
+    "reach": 8,
+    "urgency": 7
+   },
+   "search_terms": [
+    "Levain holiday cookies",
+    "molten cookie pull",
+    "bakery chocolate chip"
    ],
    "verdict": "This week",
    "verified": true,
-   "what": "Insomnia Cookies launched a widespread corporate brand refresh and multi-market expansion blueprint.",
-   "why_us": "Our Brooklyn kitchen and counter stories offer personal human warmth chains lack.",
-   "window": "Next 7 days"
+   "what": "Levain debuted seasonal cookies on CBS while creator Joshua Weissman recreated bakery cookies on MSN.",
+   "why_us": "Our Brown Butter Chocolate Chip delivers signature gooey molten center texture right in Brooklyn.",
+   "window": "Mid-November holiday baking window"
   },
   {
    "category": "Gifting & occasions",
    "evidence": [
-    "nw-8a69142b"
+    "cal-edb37291"
+   ],
+   "first_seen": "2026-11-11T06:30:34.807674+00:00",
+   "fit": {
+    "persona": "The gifter",
+    "pillar": "Gifting & occasions",
+    "product_key": "holiday-box-of-12"
+   },
+   "formats": [
+    "static",
+    "creator_brief",
+    "story"
+   ],
+   "funnel": "Conversion",
+   "id": "national-cookie-day-prep",
+   "insight": "National Cookie Day on December 4 demands early logistics for holiday box volume.",
+   "looks": [],
+   "momentum": "rising",
+   "move": "Schedule digital banners and in-store collateral for our annual box bonus.",
+   "name": "National Cookie Day Early Planning",
+   "platforms": [
+    "Calendar",
+    "Instagram"
+   ],
+   "refs": [],
+   "relevance": 80,
+   "risk": "Promoting single free cookies too early before operations finalize dough inventory.",
+   "scores": {
+    "brand_fit": 10,
+    "ease": 8,
+    "momentum": 6,
+    "reach": 7,
+    "urgency": 6
+   },
+   "search_terms": [
+    "National Cookie Day deals",
+    "cookie day freebies",
+    "holiday cookie boxes"
+   ],
+   "verdict": "This week",
+   "verified": true,
+   "what": "Calendar signals show National Cookie Day arriving in 23 days as our anchor event.",
+   "why_us": "Our annual promise of one free cookie with every box drives peak sales.",
+   "window": "Next 23 days until December"
+  },
+  {
+   "category": "Gifting & occasions",
+   "evidence": [
+    "nw-8a69142b",
+    "nw-9b26db52"
    ],
    "first_seen": "2026-11-08T00:41:14.988798+00:00",
    "fit": {
@@ -4488,142 +4846,94 @@
    "formats": [
     "pr_pitch",
     "static",
-    "carousel"
+    "story"
    ],
-   "funnel": "Conversion",
+   "funnel": "Consideration",
    "id": "advent-countdown-boxes",
-   "insight": "Shoppers seek artisanal food countdowns over cheap supermarket chocolate calendars.",
+   "insight": "Artisanal food advent calendars replace cheap chocolate novelties for adult holiday countdown gifting.",
    "looks": [],
    "momentum": "rising",
-   "move": "Promote the 12-box digitally as a December 12-day tasting experience.",
-   "name": "Artisan Food Advent Countdowns",
+   "move": "Pitch lifestyle editors on our twelve box as a holiday countdown gift.",
+   "name": "Craft Food Advent Box Surge",
    "platforms": [
     "News",
     "Instagram"
    ],
    "refs": [],
-   "relevance": 73,
-   "risk": "Complex packaging lead times if custom advent boxes are required.",
+   "relevance": 75,
+   "risk": "Promising custom numbered advent slots before specialized packaging has been produced.",
    "scores": {
     "brand_fit": 8,
-    "ease": 6,
+    "ease": 8,
     "momentum": 7,
     "reach": 7,
     "urgency": 7
    },
    "search_terms": [
-    "food advent calendars",
-    "cookie advent calendar",
-    "artisan advent"
+    "food advent calendar",
+    "cookie advent box",
+    "gourmet holiday countdown"
    ],
    "verdict": "This week",
    "verified": true,
-   "what": "Bon Appétit highlighted consumers choosing specialty food countdowns over traditional advent chocolate.",
-   "why_us": "Our Holiday Box of 12 translates into a premium 12-day countdown box.",
-   "window": "Before Dec 1"
+   "what": "Bon Appétit highlights craft food advent boxes as the preferred gourmet countdown format this season.",
+   "why_us": "Our Holiday Box of 12 translates naturally into a 12-day December cookie tasting ritual.",
+   "window": "Next two weeks for December"
   },
   {
-   "category": "Gifting & occasions",
+   "category": "Competitor move",
    "evidence": [
-    "oc-697df4bd",
-    "oc-5ddfd8a3",
-    "cal-b3ac2262"
-   ],
-   "first_seen": "2026-10-27T00:28:55.264761+00:00",
-   "fit": {
-    "persona": "The gifter",
-    "pillar": "Gifting & occasions",
-    "product_key": "holiday-box-of-12"
-   },
-   "formats": [
-    "static",
-    "story"
-   ],
-   "funnel": "Consideration",
-   "id": "early-hanukkah-merch",
-   "insight": "Families plan gatherings early as cultural institutions roll out December holiday programming.",
-   "looks": [],
-   "momentum": "rising",
-   "move": "Monitor demand and prepare festive neutral gifting ribbons for December.",
-   "name": "Early Hanukkah Celebration Spotlights",
-   "platforms": [
-    "News",
-    "Calendar"
-   ],
-   "refs": [],
-   "relevance": 64,
-   "risk": "Lacking kosher certification restricts general faith-specific claims.",
-   "scores": {
-    "brand_fit": 7,
-    "ease": 7,
-    "momentum": 6,
-    "reach": 6,
-    "urgency": 5
-   },
-   "search_terms": [
-    "hanukkah gift ideas",
-    "hanukkah gatherings",
-    "december holiday treats"
-   ],
-   "verdict": "Watch",
-   "verified": true,
-   "what": "Cultural centers announced Hanukkah festivals while Canada Post unveiled holiday stamps.",
-   "why_us": "Blue ribbon gifting on our 12-pack suits community celebration tables.",
-   "window": "Before Dec 4"
-  },
-  {
-   "category": "Food & baking",
-   "evidence": [
-    "nw-a1c46afc",
-    "nw-26bc1bd7"
+    "bi-9638c5b3",
+    "bi-657a1c46"
    ],
    "first_seen": "2026-11-10T01:35:39.893268+00:00",
    "fit": {
     "persona": "The weekend treat-er",
-    "pillar": "Flavor drops",
-    "product_key": "pumpkin-spice-snickerdoodle"
+    "pillar": "Behind the counter",
+    "product_key": "brown-butter-chocolate-chip"
    },
    "formats": [
+    "reel",
     "tiktok",
-    "story"
+    "carousel"
    ],
    "funnel": "Awareness",
-   "id": "nostalgic-retro-baking",
-   "insight": "Home bakers share mid-century vintage desserts to spark warm holiday nostalgia.",
+   "id": "insomnia-corporate-rebrand",
+   "insight": "Corporate chains rebrand around warm delivery to capture late-night comfort cookie consumption.",
    "looks": [],
-   "momentum": "rising",
-   "move": "Keep watching if nostalgic flavor cues increase around Thanksgiving baking.",
-   "name": "Nostalgic Comfort Recipe Resurgence",
+   "momentum": "steady",
+   "move": "Highlight our daytime counter baking routine and handmade parchment box assembly.",
+   "name": "Warm Delivery Branding vs Craft",
    "platforms": [
     "News",
-    "TikTok"
+    "Instagram"
    ],
    "refs": [],
-   "relevance": 57,
-   "risk": "Distracting from core holiday cookie sales with unrelated vintage recipes.",
+   "relevance": 70,
+   "risk": "Appearing combative toward corporate chains rather than confident in our own quality.",
    "scores": {
-    "brand_fit": 6,
-    "ease": 6,
-    "momentum": 6,
-    "reach": 6,
-    "urgency": 4
+    "brand_fit": 7,
+    "ease": 8,
+    "momentum": 7,
+    "reach": 7,
+    "urgency": 6
    },
    "search_terms": [
-    "retro holiday baking",
-    "7up cake recipe",
-    "vintage dessert table"
+    "Insomnia Cookies rebrand",
+    "warm cookie delivery",
+    "counter baked cookies"
    ],
    "verdict": "Watch",
    "verified": true,
-   "what": "Editorial sites report surges in classic 7UP cakes and retro ambrosia bakes.",
-   "why_us": "Our Snickerdoodle taps nostalgic spice memories without altering our core line.",
-   "window": "Next 2 weeks"
+   "what": "Insomnia Cookies unveiled a corporate rebrand focusing marketing on late-night warm delivery speed.",
+   "why_us": "We counter corporate warming bags with slow morning oven baking and handcrafted packaging.",
+   "window": "Throughout November and December"
   },
   {
    "category": "Competitor move",
    "evidence": [
     "oc-91ddfa7a",
-    "oc-0a246de4",
+    "oc-b1ca4ef9",
     "cal-3b601c3d"
    ],
    "first_seen": "2026-10-27T00:28:55.264761+00:00",
@@ -4635,85 +4945,129 @@
    "formats": [
     "story"
    ],
-   "funnel": "Consideration",
+   "funnel": "Awareness",
    "id": "fast-food-giveaways",
-   "insight": "Mass retail and fast-food chains offer promotional discounts and free items.",
+   "insight": "Fast food chains flood federal holidays with promotional discounts and transactional giveaways.",
    "looks": [],
    "momentum": "peaking",
-   "move": "Skip promotional discounts entirely while honoring community service genuinely.",
-   "name": "Veterans Day Discount Freebies",
+   "move": "Honor service quietly in shop without commercial promo codes or discount campaigns.",
+   "name": "Veterans Day Promo Code Overload",
    "platforms": [
     "News",
     "Calendar"
    ],
    "refs": [],
-   "relevance": 56,
-   "risk": "Breaking our no-discounting policy diminishes brand equity and margin.",
+   "relevance": 52,
+   "risk": "Violating our core standing brief rule against running transactional holiday discounts.",
    "scores": {
-    "brand_fit": 2,
-    "ease": 3,
-    "momentum": 9,
-    "reach": 9,
+    "brand_fit": 1,
+    "ease": 9,
+    "momentum": 7,
+    "reach": 8,
     "urgency": 9
    },
    "search_terms": [
-    "veterans day restaurant deals",
-    "veterans day free meals"
+    "Veterans Day restaurant deals",
+    "Veterans Day free food",
+    "holiday discounts"
    ],
    "verdict": "Skip",
    "verified": true,
-   "what": "Chains nationwide rolled out extensive Veterans Day dining and merchandise discounts.",
-   "why_us": "Our house rules strictly ban discounting cookies or joining coupon races.",
-   "window": "Closes Nov 11"
+   "what": "National chains market steep Veterans Day deals and free meals across news outlets.",
+   "why_us": "We never offer cookie discounts and treat federal holidays with genuine respect.",
+   "window": "Closes today November 11"
+  },
+  {
+   "category": "Food & baking",
+   "evidence": [
+    "nw-80047fc8",
+    "nw-5f57ca38"
+   ],
+   "first_seen": "2026-11-04T01:25:30.917221+00:00",
+   "fit": {
+    "persona": "None",
+    "pillar": "None",
+    "product_key": "holiday-box-of-12"
+   },
+   "formats": [
+    "story"
+   ],
+   "funnel": "Awareness",
+   "id": "bakeware-holiday-gifting",
+   "insight": "Media feeds fill with early cookware and appliance discounts ahead of mid-November.",
+   "looks": [],
+   "momentum": "rising",
+   "move": "Pass on cookware content to keep holiday gifting focus on boxes.",
+   "name": "Cookware Early Black Friday Deals",
+   "platforms": [
+    "News"
+   ],
+   "refs": [],
+   "relevance": 51,
+   "risk": "Distracting from finished cookie boxes by talking about third-party kitchen gear.",
+   "scores": {
+    "brand_fit": 3,
+    "ease": 7,
+    "momentum": 7,
+    "reach": 7,
+    "urgency": 5
+   },
+   "search_terms": [
+    "early Black Friday cookware",
+    "Dutch oven deals",
+    "holiday baking gear"
+   ],
+   "verdict": "Skip",
+   "verified": true,
+   "what": "Publications like Bon Appétit promote early Black Friday deals on kitchenware and pans.",
+   "why_us": "We bake fresh cookies for eating, not manufacturing or reviewing kitchen equipment.",
+   "window": "Next two weeks"
   },
   {
    "category": "Competitor move",
    "evidence": [
-    "bi-5c46ed45",
-    "bi-e7ed0049"
+    "nw-f6a041de"
    ],
-   "first_seen": "2026-11-10T01:35:39.893268+00:00",
+   "first_seen": "2026-10-29T01:50:35.613950+00:00",
    "fit": {
     "persona": "None",
     "pillar": "None",
-    "product_key": "brown-butter-chocolate-chip"
+    "product_key": "holiday-box-of-12"
    },
    "formats": [
-    "tiktok",
-    "reel"
+    "carousel"
    ],
-   "funnel": "Awareness",
-   "id": "crumbl-gaming-collabs",
-   "insight": "Chain bakeries lean on video game crossovers to spark artificial weekly buzz.",
+   "funnel": "Consideration",
+   "id": "gamified-mystery-flavors",
+   "insight": "Chains deploy blind collectible packaging to drive speculative unboxing frenzy among fans.",
    "looks": [],
-   "momentum": "peaking",
-   "move": "Skip novelty stunts and double down on pure chocolate craftsmanship.",
-   "name": "Novelty Video Game Bakery Gimmicks",
+   "momentum": "steady",
+   "move": "Keep all holiday box flavor guides clearly visible on every pack.",
+   "name": "Collectible Blind Mystery Merch Drops",
    "platforms": [
-    "News",
-    "TikTok"
+    "News"
    ],
    "refs": [],
-   "relevance": 41,
-   "risk": "Chasing licensed IP dilutes our premium neighborhood bakery credibility.",
+   "relevance": 42,
+   "risk": "Alienating discerning gift buyers who expect dependable gourmet cookie flavors every time.",
    "scores": {
     "brand_fit": 2,
-    "ease": 2,
-    "momentum": 8,
-    "reach": 8,
-    "urgency": 2
+    "ease": 7,
+    "momentum": 6,
+    "reach": 6,
+    "urgency": 4
    },
    "search_terms": [
-    "crumbl minecraft review",
-    "gaming food collabs",
-    "novelty desserts"
+    "Starbucks mystery cup",
+    "blind box food",
+    "holiday collectible drops"
    ],
    "verdict": "Skip",
    "verified": true,
-   "what": "Crumbl introduced Minecraft grass block cakes and licensed video game sweets.",
-   "why_us": "We bake small-batch cookies with browned butter, not cartoon gimmicks.",
-   "window": "This week"
+   "what": "Starbucks released collectible Bearista cups in blind mystery boxes with rare hidden variants.",
+   "why_us": "Our brand stands for transparent small-batch quality without artificial manufactured scarcity.",
+   "window": "Closed for our brand"
   }
  ],
- "updated_at": "2026-11-10T01:35:39.893268+00:00"
+ "updated_at": "2026-11-11T06:30:34.807674+00:00"
 }
