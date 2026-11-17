@@ -1017,6 +1017,11 @@
   }
  ],
  "huddle_history": [],
+ "last_error": {
+  "at": "2026-11-17T14:29:09.109000+00:00",
+  "error": "RuntimeError: Gemini (free tier) couldn't answer — gemini-flash-latest: HTTP 503: [{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try  | gemini-flash-lite-latest: HTTP 503: [{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually t",
+  "slot": "morning"
+ },
  "library": {
   "bi-2bdfe6ed": {
    "age_h": 140.3,
@@ -1094,7 +1099,7 @@
    "source": "CW33 on MSN",
    "text": "Founders Tiffany and Leon Chen reflect on the 27-year journey of Tiff's Treats, which grew from a college apartment startup in Austin into a national cookie delivery brand spanning 20 states.",
    "thumb": "",
-   "thumb_tried": "2026-11-16T02:46:42.060745+00:00",
+   "thumb_tried": "2026-11-17T14:29:09.109000+00:00",
    "title": "Tiff’s Treats founders deliver warm cookies and share the sweet story behind the business",
    "ts": "2026-11-09T07:47:14+00:00",
    "url": "https://www.msn.com/en-us/news/other/tiff-s-treats-founders-deliver-warm-cookies-and-share-the-sweet-story-behind-the-business/ar-AA2h5oUa"
@@ -1251,7 +1256,7 @@
    "source": "MMA Junkie",
    "text": "Holiday shipping deadlines are approaching. See when to send Christmas gifts with USPS, UPS and FedEx in 2026. When are Hanukkah and Kwanzaa this year?",
    "thumb": "",
-   "thumb_tried": "2026-11-16T02:46:42.060745+00:00",
+   "thumb_tried": "2026-11-17T14:29:09.109000+00:00",
    "title": "Holiday shipping deadlines 2026: USPS, UPS and FedEx dates",
    "ts": "2026-11-11T04:00:00+00:00",
    "url": "https://mmajunkie.usatoday.com/story/news/2026/11/11/usps-ups-fedex-holiday-2026-shipping-deadlines-when-to-mail-christmas-gifts-hanukkah-kwanzaa-present/92647440007/"
@@ -1371,7 +1376,7 @@
    "source": "FT Markets",
    "text": "Friendsgiving has become a can’t-miss part of the holiday season, with 52% of younger Americans surveyed planning to host or attend one this year¹. And showing up empty-handed isn’t exactly the move: ...",
    "thumb": "",
-   "thumb_tried": "2026-11-16T02:46:42.060745+00:00",
+   "thumb_tried": "2026-11-17T14:29:09.109000+00:00",
    "title": "Truly Hard Seltzer Has Drinks Covered This Friendsgiving with a Custom Potluck Pack",
    "ts": "2026-11-04T05:00:00+00:00",
    "url": "https://markets.ft.com/data/announce/detail?dockey=1330-9868568en-65C4OQ5070GQJ6CRV8CHUIMFTI"
@@ -3188,6 +3193,9 @@
    "Sun · Thanksgiving menu planning · Post taste-test comparison of cookies versus pumpkin pie.",
    "Mon · Thanksgiving shipping cut-off · Mai pushes regional express boxes for Thursday arrival."
   ]
+ },
+ "report_attempts": {
+  "morning:2026-11-17": 1
  },
  "reports": {
   "morning": "2026-11-16T02:46:42.060745+00:00"
