@@ -1336,6 +1336,11 @@
   }
  ],
  "huddle_history": [],
+ "last_error": {
+  "at": "2026-11-25T15:39:29.720772+00:00",
+  "error": "RuntimeError: Gemini (free tier) couldn't answer — gemini-flash-latest: HTTP 503: [{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try  | gemini-flash-lite-latest: HTTP 503: [{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually t",
+  "slot": "morning"
+ },
  "library": {
   "bi-02ea5c21": {
    "age_h": 15.9,
@@ -1709,7 +1714,7 @@
    "source": "MSN",
    "text": "The holiday season is approaching, bringing twinkling light displays, festive boat parades and seasonal celebrations to communities across Oregon. In the Portland area, families can enjoy annual ...",
    "thumb": "",
-   "thumb_tried": "2026-11-24T00:55:46.929697+00:00",
+   "thumb_tried": "2026-11-25T15:39:29.720772+00:00",
    "title": "Holiday events, light displays and festive traditions to enjoy around Oregon in 2026",
    "ts": "2026-11-05T05:30:00+00:00",
    "url": "https://www.msn.com/en-us/entertainment/general/holiday-events-light-displays-and-festive-traditions-to-enjoy-around-oregon-in-2026/ar-AA2gPkR4"
@@ -1779,7 +1784,7 @@
    "source": "Mashable on MSN",
    "text": "These are the gifts we've tried, tested, and loved this year — and the gifts on our own personal wishlists.",
    "thumb": "",
-   "thumb_tried": "2026-11-24T00:55:46.929697+00:00",
+   "thumb_tried": "2026-11-25T15:39:29.720772+00:00",
    "title": "The 93 best Christmas gifts for 2026: Our favorite gift ideas from Apple, Lego, Kindle, and brands you've never heard of",
    "ts": "2026-11-04T02:00:00+00:00",
    "url": "https://www.msn.com/en-us/lifestyle/other/the-93-best-christmas-gifts-for-2026-our-favorite-gift-ideas-from-apple-lego-kindle-and-brands-you-ve-never-heard-of/ar-AA2gLCTJ"
@@ -1814,7 +1819,7 @@
    "source": "Moneywise on MSN",
    "text": "JustFly data finds Dec. 18 flights cost 27% more than Christmas Eve or Christmas Day for the same international route.",
    "thumb": "",
-   "thumb_tried": "2026-11-24T00:55:46.929697+00:00",
+   "thumb_tried": "2026-11-25T15:39:29.720772+00:00",
    "title": "Heading overseas for the holidays? Flying on Christmas Eve or Christmas Day will cost you a fraction of the flights leading up, new research says",
    "ts": "2026-11-23T09:00:00+00:00",
    "url": "https://www.msn.com/en-us/news/other/heading-overseas-for-the-holidays-flying-on-christmas-eve-or-christmas-day-will-cost-you-a-fraction-of-the-flights-leading-up-new-research-says/ar-AA2i3yq9"
@@ -1883,7 +1888,7 @@
    "source": "Daily Freeman on MSN",
    "text": "NEW PALTZ, N.Y. — The Margaret Wade-Lewis Center’s Kwanzaa celebration moves to a new date and location. It will take place Sunday, Nov. 22, from 3 to 6 p.m. at the SUNY New Paltz Ballroom, 1 Hawk ...",
    "thumb": "",
-   "thumb_tried": "2026-11-24T00:55:46.929697+00:00",
+   "thumb_tried": "2026-11-25T15:39:29.720772+00:00",
    "title": "Margaret Wade-Lewis Center's Kwanzaa celebration moves to Nov. 22 at SUNY New Paltz",
    "ts": "2026-11-11T14:17:00+00:00",
    "url": "https://www.msn.com/en-us/news/other/margaret-wade-lewis-center-s-kwanzaa-celebration-moves-to-nov-22-at-suny-new-paltz/ar-AA2hePgZ"
@@ -3706,7 +3711,7 @@
   ]
  },
  "report_attempts": {
-  "morning:2026-11-17": 1
+  "morning:2026-11-25": 1
  },
  "reports": {
   "morning": "2026-11-24T00:55:46.929697+00:00"
